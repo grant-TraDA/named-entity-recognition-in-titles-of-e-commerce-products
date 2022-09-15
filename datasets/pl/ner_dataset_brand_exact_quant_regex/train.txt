@@ -1,0 +1,18387 @@
+Mola	B-PER
+Ultra	O
+Chłonne	O
+Ręczniki	O
+papierowe	O
+4	O
+rolki	O
+
+WOOLITE	B-PER
+Delicate	O
+Płyn	O
+do	O
+prania	O
+do	O
+delikatnych	O
+tkanin	O
+i	O
+wełny	O
+
+Air	B-PER
+Wick	I-PER
+Life	O
+Scents	O
+Pachnące	O
+patyczki	O
+o	O
+zapachu	O
+tajemniczych	O
+ogrodów	O
+z	O
+dzieciństwa	O
+30	B-ORG
+ml	I-ORG
+
+TARCZYN	B-PER
+Sok	O
+100%	O
+Pomarańcza	O
+
+KUBUŚ	B-PER
+Play!	O
+Napój	O
+owocowy	O
+woda	O
+i	O
+owoce	O
+jabłko	O
+cytryna	O
+
+Ludwik	B-PER
+Care	O
+Płyn	O
+do	O
+mycia	O
+paneli	O
+1	B-ORG
+l	I-ORG
+
+Ręcznik	O
+kuchenny	O
+2-warstwowy,	O
+celulozowy	O
+50	B-ORG
+listków	I-ORG
+
+Tiger	B-PER
+Nitro	O
+Gazowany	O
+napój	O
+energetyzujący	O
+o	O
+smaku	O
+limonki	O
+500	B-ORG
+ml	I-ORG
+
+Ariel	B-PER
+Allin1	O
+Pods	O
+Mountain	O
+Spring	O
+Kapsułki	O
+do	O
+prania,	O
+14	O
+prań	O
+
+Woolite	B-PER
+Pro-Care	O
+Kapsułki	O
+do	O
+prania	O
+616	B-ORG
+g	I-ORG
+(28	B-ORG
+x	I-ORG
+22	I-ORG
+g)	I-ORG
+
+Nałęczowianka	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+delikatnie	O
+gazowana	O
+0,5	B-ORG
+l	I-ORG
+
+REGINA	B-PER
+Błysk	O
+Ręcznik	O
+do	O
+mycia	O
+szyb	O
+i	O
+powierzchni	O
+szklanych	O
+
+Kubuś	B-PER
+Sok	O
+marchew	O
+brzoskwinia	O
+jabłko	O
+900	B-ORG
+ml	I-ORG
+
+CIF	B-PER
+Perfect	O
+Finish	O
+Spray	O
+do	O
+czyszczenia	O
+lodówek	O
+i	O
+mikrofalówek	O
+
+AIR	B-PER
+WICK	I-PER
+Odświeżacz	O
+elektryczny	O
+i	O
+wkład	O
+-	O
+Księżycowa	O
+Lilia	O
+Otulona	O
+Satyną	O
+
+Clin	B-PER
+Lemon	O
+Płyn	O
+do	O
+mycia	O
+powierzchni	O
+szklanych	O
+opakowanie	O
+uzupełniające	O
+500	B-ORG
+ml	I-ORG
+
+FAIRY	B-PER
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+Jabłko	O
+
+Glade	B-PER
+Pure	O
+Clean	O
+Linen	O
+Odświeżacz	O
+powietrza	O
+w	O
+aerozolu	O
+300	B-ORG
+ml	I-ORG
+
+Płyn	O
+do	O
+wc	O
+o	O
+zapachu	O
+natury	O
+
+Bref	B-PER
+WC	O
+Color	O
+Aktiv+	O
+Zawieszka	O
+do	O
+muszli	O
+WC	O
+eukaliptus	O
+2	B-ORG
+x	I-ORG
+50	I-ORG
+g	I-ORG
+
+FINISH	B-PER
+Classic	O
+Tabletki	O
+do	O
+zmywania	O
+naczyń	O
+Regular	O
+57	B-ORG
+szt	I-ORG
+
+Kret	B-PER
+Żel	O
+do	O
+udrożniania	O
+rur	O
+1	B-ORG
+kg	I-ORG
+
+Dosia	B-PER
+Multi	O
+Powder	O
+Proszek	O
+do	O
+prania	O
+tkanin	O
+białych	O
+300	B-ORG
+g	I-ORG
+(4	O
+prania)	O
+
+Hortex	B-PER
+Nektar	O
+banan	O
+1	B-ORG
+l	I-ORG
+
+Fanta	B-PER
+Shokata	O
+Napój	O
+gazowany	O
+500	B-ORG
+ml	I-ORG
+
+SPRITE	B-PER
+Napój	O
+gazowany	O
+o	O
+smaku	O
+cytrynowo-limonkowym	O
+
+Seventh	B-PER
+Generation	I-PER
+Fresh	O
+Citrus	O
+&	O
+Ginger	O
+Scent	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+500	B-ORG
+ml	I-ORG
+
+Vizir	B-PER
+Alpine	O
+Fresh	O
+Płyn	O
+do	O
+prania	O
+2,2	O
+l,	O
+40	O
+prań	O
+
+COCCOLINO	B-PER
+Care	O
+Kapsułki	O
+do	O
+prania	O
+kolorowych	O
+tkanin	O
+29	B-ORG
+szt	I-ORG
+
+Kiwi	B-PER
+Express	O
+Shine	O
+Gąbka	O
+nabłyszczająca	O
+do	O
+obuwia	O
+brązowa	O
+7	B-ORG
+ml	I-ORG
+
+PERWOLL	B-PER
+Care	O
+&	O
+Repair	O
+Płyn	O
+do	O
+prania	O
+tkanin	O
+białych	O
+i	O
+kolorowych	O
+
+Staropolanka	B-PER
+2000	O
+Naturalna	O
+woda	O
+mineralna	O
+wysokozmineralizowana	O
+lekko	O
+gazowana	O
+1,5	B-ORG
+l	I-ORG
+
+DrWitt	B-PER
+Premium	O
+Witalność	O
+Napój	O
+multiwitamina	O
+1	B-ORG
+l	I-ORG
+
+FINISH	B-PER
+Quantum	O
+Ultimate	O
+Kapsułki	O
+do	O
+zmywarki	O
+Regular	O
+40	B-ORG
+szt	I-ORG
+
+Bref	B-PER
+WC	O
+DeLuxe	O
+Zawieszka	O
+toaletowa	O
+czarujący	O
+jaśmin	O
+2	B-ORG
+x	I-ORG
+50	I-ORG
+g	I-ORG
+
+PERWOLL	B-PER
+Płyn	O
+do	O
+prania	O
+3	O
+w	O
+1	O
+Renew	O
+&	O
+Blossom	O
+
+Oshee	B-PER
+Napój	O
+izotoniczny	O
+niegazowany	O
+o	O
+smaku	O
+grejpfrutowym	O
+0,75	B-ORG
+l	I-ORG
+
+Fairy	B-PER
+Platinum	O
+Plus	O
+All	O
+In	O
+One	O
+Regular	O
+Tabletki	O
+do	O
+zmywarki,	O
+x30	O
+
+OSHEE	B-PER
+Vitamin	O
+Energy	O
+Napój	O
+gazowany	O
+Magnez+Wit.B6+Wit.B5	O
+
+Pronto	B-PER
+Emulsja	O
+do	O
+mebli	O
+250	B-ORG
+ml	I-ORG
+
+MORNING	B-PER
+FRESH	I-PER
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+cytrynowy	O
+
+ACE	B-PER
+ULTRA	O
+Silny	O
+żel	O
+Flowers	O
+
+Powerade	B-PER
+Zero	O
+Mountain	O
+Blast	O
+Napój	O
+izotoniczny	O
+500	B-ORG
+ml	I-ORG
+
+COCCOLINO	B-PER
+Care	O
+Kapsułki	O
+do	O
+prania	O
+czarnych	O
+i	O
+ciemnych	O
+tkanin	O
+40	B-ORG
+szt	I-ORG
+
+Ariel	B-PER
+Allin1	O
+Pods	O
+Color	O
+Kapsułki	O
+do	O
+prania,	O
+26	O
+prań	O
+
+Pronto	B-PER
+Jasmine	O
+Aerozol	O
+przeciw	O
+kurzowi	O
+300	B-ORG
+ml	I-ORG
+
+Odplamiacz	O
+1L	B-ORG
+
+FANTA	B-PER
+ORANGE	O
+Napój	O
+gazowany	O
+
+TYMBARK	B-PER
+jabłko	O
+Sok	O
+100%	O
+
+Emulsyjna	O
+pasta	O
+do	O
+obuwia	O
+czarna	O
+
+Regina	B-PER
+Najdłuższy	O
+Ręcznik	O
+uniwersalny	O
+2	O
+rolki	O
+
+COCCOLINO	B-PER
+Care	O
+Kapsułki	O
+do	O
+prania	O
+kolorowych	O
+tkanin	O
+40	B-ORG
+szt	I-ORG
+
+SADY	B-PER
+WINCENTA	I-PER
+Sok	O
+jabłkowy	O
+w	O
+kartonie	O
+tłoczony	O
+
+HORTEX	B-PER
+Sok	O
+100%	O
+pomarańcza	O
+&	O
+mango	O
+PET	O
+
+ŻYWIEC	B-PER
+ZDRÓJ	I-PER
+Z	O
+NUTĄ	O
+Mango	O
+i	O
+Pomarańczy	O
+
+RED	B-PER
+BULL	I-PER
+Napój	O
+energetyczny	O
+pobudzający	O
+
+HORTEX	B-PER
+VITAMINKA	O
+Sok	O
+marchwiowo-jabłkowo-brzoskwiniowy	O
+
+Pur	B-PER
+Sekrety	O
+Kucharza	O
+Apple	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+750	B-ORG
+ml	I-ORG
+
+Tymbark	B-PER
+Nektar	O
+czarna	O
+porzeczka	O
+300	B-ORG
+ml	I-ORG
+
+WM	O
+BALSAM	O
+DO	O
+PRANIA	O
+TKANIN	O
+CZARNYCH	O
+1L	B-ORG
+
+Staropolanka	B-PER
+800	O
+Naturalna	O
+woda	O
+mineralna	O
+średniozmineralizowana	O
+gazowana	O
+330	B-ORG
+ml	I-ORG
+
+ŻYWIEC	B-PER
+ZDRÓJ	I-PER
+BLACK	O
+Tea	O
+Napój	O
+herbaciany	O
+Cytryna	O
+Limonka	O
+
+COCA-COLA	B-PER
+LIME	O
+Napój	O
+gazowany	O
+
+Sidolux	B-PER
+Uniwersalny	O
+Płyn	O
+do	O
+mycia	O
+kwiat	O
+orchidei	O
+1	B-ORG
+l	I-ORG
+
+PEPSI	B-PER
+MAX	I-PER
+Napój	O
+gazowany	O
+
+OSHEE	B-PER
+Napój	O
+izotoniczny	O
+o	O
+smaku	O
+cytrynowym	O
+
+MONSTER	B-PER
+ZERO	O
+ULTRA	O
+VIOLET	O
+Napój	O
+energetyzujący	O
+gazowany	O
+
+Herbapol	B-PER
+Syrop	O
+o	O
+smaku	O
+aroniowym	O
+420	B-ORG
+ml	I-ORG
+
+ARIEL	B-PER
+COLOR	O
+Kapsułki	O
+do	O
+prania	O
+tkanin	O
+kolorowych	O
+33	B-ORG
+szt.	I-ORG
+
+HORTEX	B-PER
+VITAMINKA	O
+Sok	O
+marchwiowo-jabłkowo-malinowy	O
+
+AJAX	B-PER
+Płyn	O
+do	O
+mycia	O
+szyb	O
+Lemon	O
+
+LENOR	B-PER
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+Emerald&Ivory	O
+flower	O
+
+Morning	B-PER
+Fresh	I-PER
+Raspberry	O
+&	O
+Apple	O
+Skoncentrowany	O
+płyn	O
+do	O
+mycia	O
+naczyń	O
+900	B-ORG
+ml	I-ORG
+
+Lenor	B-PER
+Unstoppables	O
+Sport	O
+Perełki	O
+zapachowe,	O
+210g	B-ORG
+
+JAN	B-PER
+NIEZBĘDNY	I-PER
+Zmywaki	O
+profilowane	O
+TRIO	O
+3	B-ORG
+szt.	I-ORG
+
+SOMAT	B-PER
+All	O
+in	O
+1	O
+EXTRA	O
+Tabletki	O
+do	O
+zmywarki	O
+70	B-ORG
+szt.	I-ORG
+
+ŻYWIEC	B-PER
+ZDRÓJ	I-PER
+Z	O
+NUTĄ	O
+Mango	O
+i	O
+Pomarańczy	O
+
+Żywiec	B-PER
+Zdrój	O
+Mocny	O
+Gaz	O
+Napój	O
+gazowany	O
+i	O
+nuta	O
+marakui-limonki	O
+1,5	B-ORG
+l	I-ORG
+
+Coca-Cola	B-PER
+Cherry	O
+Taste	O
+Napój	O
+gazowany	O
+850	B-ORG
+ml	I-ORG
+
+SIDOLUX	B-PER
+Uniwersalny	O
+płyn	O
+do	O
+mycia	O
+-	O
+Konwaliowy	O
+
+ARIEL	B-PER
+Allin1	O
+Pods	O
+Sensitive	O
+Kapsułki	O
+do	O
+prania	O
+33	B-ORG
+szt.	I-ORG
+
+Vizir	B-PER
+Proszek	O
+do	O
+prania	O
+kolorowych	O
+tkanin	O
+3.825	B-ORG
+kg,	I-ORG
+51	O
+prań	O
+
+COCCOLINO	B-PER
+Creations	O
+Płyn	O
+do	O
+płukania	O
+Passion	O
+Flower	O
+&	O
+Bergamot	O
+
+TYMBARK	B-PER
+Pomarańcza	O
+z	O
+mandarynką	O
+Nektar	O
+
+TYMBARK	B-PER
+Multiwitamina	O
+Classic	O
+Sok	O
+100%	O
+PET	O
+
+ACE	B-PER
+ULTRA	O
+Silny	O
+żel	O
+Lemon	O
+
+LUDWIK	B-PER
+Płyn	O
+do	O
+pielęgnacji	O
+podłóg	O
+drewnianych	O
+
+BREF	B-PER
+Color	O
+Aktiv	O
+Zawieszka	O
+do	O
+WC	O
+-	O
+Cytryna	O
+2x50g	B-ORG
+
+ŻYWIEC	B-PER
+ZDRÓJ	I-PER
+Niegazowany	O
+(szkło)	O
+
+LUDWIK	B-PER
+Płyn	O
+do	O
+mycia	O
+paneli	O
+
+Fortuna	B-PER
+WW+	O
+Sok	O
+100%	O
+pomidorowo-warzywny	O
+bez	O
+dodatku	O
+soli	O
+300	B-ORG
+ml	I-ORG
+
+SURF	B-PER
+Duokap	O
+Kapsułki	O
+do	O
+prania	O
+białego	O
+i	O
+kolorowego	O
+Hawajski	O
+Sen	O
+42	B-ORG
+szt.	I-ORG
+
+Herbapol	B-PER
+Owocowa	O
+Spiżarnia	O
+Syrop	O
+owocowy	O
+o	O
+smaku	O
+dzikiej	O
+róży	O
+420	B-ORG
+ml	I-ORG
+
+Duck	B-PER
+Extra	O
+Power	O
+Citrus	O
+Żel	O
+do	O
+czyszczenia	O
+i	O
+wybielania	O
+toalet	O
+750	B-ORG
+ml	I-ORG
+
+Ariel	B-PER
+Allin1	O
+Pods	O
+Color	O
+Kapsułki	O
+do	O
+prania,	O
+33	O
+prań	O
+
+Finish	O
+All	O
+in	O
+1	O
+Max	O
+Tabletki	O
+do	O
+mycia	O
+naczyń	O
+w	O
+zmywarce	O
+848	B-ORG
+g	I-ORG
+(53	B-ORG
+sztuki)	I-ORG
+
+DOMESTOS	B-PER
+Płyn	O
+czyszcząco-dezynfekujący	O
+Citrus	O
+Fresh	O
+
+Bref	B-PER
+WC	O
+Power	O
+Aktiv	O
+Zawieszka	O
+myjąco-zapachowa	O
+do	O
+muszli	O
+WC	O
+morska	O
+bryza	O
+3	B-ORG
+x	I-ORG
+50	I-ORG
+g	I-ORG
+
+Napój	O
+z	O
+soku	O
+ananasowego,	O
+pasteryzowany	O
+metodą	O
+flash.	O
+
+Air	B-PER
+Wick	I-PER
+Citrus	O
+Wkład	O
+do	O
+automatycznego	O
+odświeżacza	O
+powietrza	O
+250	B-ORG
+ml	I-ORG
+
+GLADE	B-PER
+Zapas	O
+do	O
+elektrycznego	O
+odświeżacza	O
+powietrza	O
+-	O
+Czysta	O
+świeżość	O
+
+FINISH	B-PER
+Classic	O
+Tabletki	O
+do	O
+zmywarki	O
+Lemon	O
+cytrynowe	O
+57	B-ORG
+szt	I-ORG
+
+Fanta	B-PER
+Pomarańczowa	O
+Napój	O
+gazowany	O
+850	B-ORG
+ml	I-ORG
+
+HERBAPOL	B-PER
+Owocowa	O
+Spiżarnia	O
+Syrop	O
+wiśniowy	O
+
+Finish	O
+Płyn	O
+do	O
+czyszczenia	O
+zmywarki	O
+cytrynowy	O
+250	B-ORG
+ml	I-ORG
+
+OSHEE	B-PER
+Vitamin	O
+H2O	O
+Napój	O
+niegazowany	O
+cytrynowo-pomarańczowy	O
+Magnez	O
+
+SIDOLUX	B-PER
+EXPERT	O
+Środek	O
+do	O
+ochrony	O
+i	O
+nabłyszczania	O
+PCV	O
+i	O
+linoleum	O
+
+CIF	B-PER
+Mleczko	O
+do	O
+czyszczenia	O
+Normal	O
+
+Air	B-PER
+Wick	I-PER
+Wkład	O
+do	O
+automatycznego	O
+odświeżacza	O
+powietrza	O
+Orzeźwiająca	O
+bawełna	O
+kwiat	O
+migdałowca	O
+250	B-ORG
+ml	I-ORG
+
+Płyn	O
+do	O
+naczyń	O
+cytrynowy	O
+1L	B-ORG
+
+FAIRY	B-PER
+PLATINUM	O
+All	O
+in	O
+One	O
+Kapsułki	O
+do	O
+zmywarek	O
+Lemon	O
+18	B-ORG
+szt	I-ORG
+
+Ludwik	B-PER
+Płyn	O
+uniwersalny	O
+super	O
+połysk	O
+1	B-ORG
+l	I-ORG
+
+KROPLA	B-PER
+BESKIDU	I-PER
+Naturalna	O
+woda	O
+mineralna	O
+gazowana	O
+
+Bref	B-PER
+WC	O
+Hygienically	O
+Clean	O
+&	O
+Shine	O
+Fresh	O
+Mist	O
+Środek	O
+czyszczący	O
+do	O
+WC	O
+700	B-ORG
+ml	I-ORG
+
+HERBAPOL	B-PER
+na	O
+zimno	O
+Herbata	O
+czarna	O
+brzoskwinia	O
+
+Coccolino	B-PER
+Sensitive	O
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+koncentrat	O
+1800	B-ORG
+ml	I-ORG
+(72	O
+prania)	O
+
+Bref	B-PER
+WC	O
+10xEffect	O
+Power	O
+Gel	O
+Protection	O
+Shield	O
+Płynny	O
+środek	O
+do	O
+mycia	O
+muszli	O
+WC	O
+700	B-ORG
+ml	I-ORG
+
+Botanica	B-PER
+by	I-PER
+Air	I-PER
+Wick	I-PER
+Wkład	O
+do	O
+elektrycznego	O
+odświeżacza	O
+karaibski	O
+wetiwer	O
+&	O
+drzewo	O
+sandałowe	O
+19	B-ORG
+ml	I-ORG
+
+Żel	O
+do	O
+WC	O
+cytrynowy	O
+750ml	B-ORG
+
+Ajax	B-PER
+Optimal	O
+7	O
+Multi	O
+Action	O
+Płyn	O
+do	O
+szyb	O
+500	B-ORG
+ml	I-ORG
+
+CIF	B-PER
+Mleczko	O
+do	O
+czyszczenia	O
+Lila	O
+
+Silan	B-PER
+Fresh	O
+Sky	O
+Płyn	O
+do	O
+zmiękczania	O
+tkanin	O
+2775	B-ORG
+ml	I-ORG
+(111	O
+prań)	O
+
+TYMBARK	B-PER
+Sok	O
+100%	O
+Pomidor	O
+PET	O
+
+NAŁĘCZOWIANKA	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+niegazowana	O
+
+Mleczko	O
+do	O
+czyszczenia	O
+430ml	B-ORG
+
+Pur	B-PER
+Sekrety	O
+Pielęgnacji	O
+Aloe	O
+Vera	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+750	B-ORG
+ml	I-ORG
+
+Air	B-PER
+Wick	I-PER
+Wkład	O
+do	O
+elektrycznego	O
+odświeżacza	O
+powietrza	O
+Księżycowa	O
+lilia	O
+otulona	O
+satyną	O
+19	B-ORG
+ml	I-ORG
+
+EMSAL	B-PER
+Tuba	O
+szampon	O
+do	O
+dywanów	O
+i	O
+wykładzin	O
+
+Fanta	B-PER
+Pomarańczowa	O
+Napój	O
+gazowany	O
+2	B-ORG
+x	I-ORG
+1,5	I-ORG
+l	I-ORG
+
+Regina	B-PER
+Blitz	O
+Ręcznik	O
+papierowy	O
+uniwersalny	O
+
+Black	B-PER
+Sex	O
+Energy	O
+Gazowany	O
+napój	O
+energetyzujący	O
+250	B-ORG
+ml	I-ORG
+
+Fortuna	B-PER
+Napój	O
+witalność	O
+multiwitamina	O
+z	O
+zielonych	O
+owoców	O
+1	B-ORG
+l	I-ORG
+
+ROYAL	B-PER
+APPLE	I-PER
+Sok	O
+jabłko	O
+-	O
+aronia	O
+w	O
+kartonie	O
+tłoczony	O
+
+GLADE	B-PER
+Odświeżacz	O
+powietrza	O
+w	O
+aerozolu	O
+Japoński	O
+ogród	O
+
+KINLEY	B-PER
+Napój	O
+gazowany	O
+o	O
+smaku	O
+Virgin	O
+Mojito	O
+
+FUZETEA	B-PER
+Napój	O
+o	O
+smaku	O
+cytrynowym	O
+z	O
+ekstraktem	O
+z	O
+zielonej	O
+herbaty	O
+
+Syrop	O
+o	O
+smaku	O
+owoców	O
+leśnych.	O
+Zawiera	O
+cukier	O
+i	O
+substancje	O
+słodzące.	O
+Zawiera	O
+źródło	O
+fenyloalaniny.	O
+
+PEPSI	B-PER
+Napój	O
+gazowany	O
+
+S.Pellegrino	O
+Naturalna	O
+woda	O
+mineralna	O
+gazowana	O
+750	B-ORG
+ml	I-ORG
+
+Staropolanka	B-PER
+800	O
+Naturalna	O
+woda	O
+mineralna	O
+średniozmineralizowana	O
+lekko	O
+gazowana	O
+330	B-ORG
+ml	I-ORG
+
+KUBUŚ	B-PER
+100%	O
+Malina	O
+marchew	O
+jabłko	O
+Sok	O
+
+Tymbark	B-PER
+Napój	O
+pomarańcza	O
+brzoskwinia	O
+1	B-ORG
+l	I-ORG
+
+Bref	B-PER
+WC	O
+DeLuxe	O
+Zawieszka	O
+toaletowa	O
+magiczny	O
+kwiat	O
+2	B-ORG
+x	I-ORG
+50	I-ORG
+g	I-ORG
+
+Biały	B-PER
+Jeleń	I-PER
+Hipoalergiczny	O
+płyn	O
+do	O
+prania	O
+Hypocare	O
+1	B-ORG
+l	I-ORG
+(12	O
+prań)	O
+
+DUCK	B-PER
+EXTRA	O
+POWER	O
+Żel	O
+do	O
+toalet	O
+piana+wybielacz	O
+Citrus	O
+
+LENOR	B-PER
+Perfum	O
+des	O
+secrets	O
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+Charm	O
+
+Cisowianka	B-PER
+Perlage	O
+Naturalna	O
+woda	O
+mineralna	O
+musująca	O
+niskosodowa	O
+700	B-ORG
+ml	I-ORG
+
+HORTEX	B-PER
+Napój	O
+białe	O
+winogrona	O
+
+ANDROS	B-PER
+Sok	O
+NFC	O
+ananasowy	O
+
+Cappy	B-PER
+Sok	O
+pomarańczowy	O
+100%	O
+330	B-ORG
+ml	I-ORG
+
+Tymbark	B-PER
+Napój	O
+jabłko	O
+wiśnia	O
+1	B-ORG
+l	I-ORG
+
+Minispray	O
+z	O
+aplikatorem	O
+o	O
+zapachu	O
+kwitnącej	O
+wiśni	O
+
+HERBAPOL	B-PER
+Owocowa	O
+Spiżarnia	O
+Syrop	O
+cytrynowy	O
+
+VANISH	B-PER
+Oxi	O
+Action	O
+Pet	O
+Expert	O
+Piana	O
+do	O
+dywanów	O
+i	O
+tapicerek	O
+
+Kret	B-PER
+Żel	O
+do	O
+udrożniania	O
+rur	O
+500	B-ORG
+g	I-ORG
+
+Cillit	B-PER
+Bang	I-PER
+Wybielanie	O
+i	O
+dezynfekcja	O
+Produkt	O
+do	O
+czyszczenia	O
+i	O
+dezynfekcji	O
+muszli	O
+toaletowej	O
+750	B-ORG
+ml	I-ORG
+
+MR	B-PER
+MUSCLE	I-PER
+Hydraulik	O
+Żel	O
+do	O
+udrażniania	O
+rur	O
+
+Kinley	B-PER
+Bitter	O
+Lemon	O
+Napój	O
+gazowany	O
+500	B-ORG
+ml	I-ORG
+
+Kret	B-PER
+Granulki	O
+do	O
+udrożniania	O
+rur	O
+400	B-ORG
+g	I-ORG
+
+Cif	B-PER
+Power	O
+&	O
+Shine	O
+Spray	O
+przeciw	O
+tłuszczowi	O
+750	B-ORG
+ml	I-ORG
+
+Finish	O
+Płyn	O
+nabłyszczający	O
+800	B-ORG
+ml	I-ORG
+
+Somat	B-PER
+Płyn	O
+nabłyszczający	O
+do	O
+zmywarek	O
+z	O
+efektem	O
+wspomagania	O
+suszenia	O
+500	B-ORG
+ml	I-ORG
+
+NESTLÉ	B-PER
+PURE	I-PER
+LIFE	I-PER
+Naturalna	O
+woda	O
+źródlana	O
+niegazowana	O
+
+ŻYWIEC	B-PER
+ZDRÓJ	I-PER
+Mocny	O
+Gaz	O
+I	O
+Nuta	O
+Grejfrut	O
+i	O
+Pomarańcza	O
+
+DETTOL	B-PER
+Antybakteryjny	O
+spray	O
+do	O
+powierzchni	O
+o	O
+zapachu	O
+limonki	O
+z	O
+miętą	O
+
+GLADE	B-PER
+Odświeżacz	O
+powietrza	O
+cytrus	O
+
+FINISH	B-PER
+Quantum	O
+Ultimate	O
+Kapsułki	O
+do	O
+zmywarek	O
+Lemon	O
+cytrynowe	O
+32	B-ORG
+szt	I-ORG
+
+Oshee	B-PER
+Vitamin	O
+Original	O
+Classic	O
+Gazowany	O
+napój	O
+energetyzujący	O
+250	B-ORG
+ml	I-ORG
+
+Kubuś	B-PER
+Sok	O
+marchew	O
+malina	O
+jabłko	O
+900	B-ORG
+ml	I-ORG
+
+Sidolux	B-PER
+Anti-Bac	O
+Środek	O
+uniwersalny	O
+antybakteryjny	O
+500	B-ORG
+ml	I-ORG
+
+KRET	B-PER
+Żel	O
+do	O
+udrażniania	O
+rur	O
+
+COCA-COLA	B-PER
+CHERRY	O
+Napój	O
+gazowany	O
+
+Ariel	B-PER
+Mountain	O
+Spring	O
+Płyn	O
+do	O
+prania,	O
+2.2l,	B-ORG
+40	O
+prań	O
+
+Fortuna	B-PER
+Nektar	O
+czarna	O
+porzeczka	O
+1	B-ORG
+l	I-ORG
+
+Hortex	B-PER
+Napój	O
+jabłko	O
+mięta	O
+1	B-ORG
+l	I-ORG
+
+VIZIR	B-PER
+Allin1	O
+Alpine	O
+Kapsułki	O
+do	O
+prania	O
+białych	O
+i	O
+kolorowych	O
+tkanin	O
+36	B-ORG
+szt.	I-ORG
+
+100	O
+%	O
+sok	O
+ananasowy.	O
+Pasteryzowany.	O
+Wzbogacony	O
+witaminą	O
+C.	O
+*	O
+Zawiera	O
+cukry	O
+naturalnie	O
+występujące	O
+w	O
+owocach	O
+
+Fortuna	B-PER
+Nektar	O
+ananasowy	O
+1	B-ORG
+l	I-ORG
+
+Vanish	B-PER
+Oxi	O
+Action	O
+Odplamiacz	O
+do	O
+tkanin	O
+w	O
+płynie	O
+500	B-ORG
+ml	I-ORG
+
+Hortex	B-PER
+Vitaminka	O
+Sok	O
+truskawka	O
+marchew	O
+jabłko	O
+1	B-ORG
+l	I-ORG
+
+Łowicz	B-PER
+Syrop	O
+o	O
+smaku	O
+pomarańczowym	O
+400	B-ORG
+ml	I-ORG
+
+Sidolux	B-PER
+Uniwersalny	O
+Płyn	O
+do	O
+mycia	O
+konwaliowy	O
+1	B-ORG
+l	I-ORG
+
+MOLA	B-PER
+Complex	O
+Ręcznik	O
+papierowy	O
+3	O
+w	O
+1	O
+
+Bref	B-PER
+WC	O
+ProNature	O
+Zawieszka	O
+do	O
+muszli	O
+WC	O
+mięta	O
+i	O
+eukaliptus	O
+2	B-ORG
+x	I-ORG
+50	I-ORG
+g	I-ORG
+
+MOLA	B-PER
+EXTRA	O
+STRONG	O
+Ręczniki	O
+papierowe	O
+2	O
+rolki	O
+
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+o	O
+zapachu	O
+miętowym	O
+
+Finish	B-PER
+Classic	O
+Lemon	O
+Tabletki	O
+do	O
+zmywarki	O
+912	B-ORG
+g	I-ORG
+(57	B-ORG
+sztuk)	I-ORG
+
+Sidolux	B-PER
+Ochrona	O
+i	O
+połysk	O
+Środek	O
+do	O
+podłóg	O
+PVC	O
+Linoleum	O
+500	B-ORG
+ml	I-ORG
+
+Air	B-PER
+Wick	I-PER
+Life	O
+Scents	O
+Pachnące	O
+patyczki	O
+świeżość	O
+letniego	O
+poranka	O
+30	B-ORG
+ml	I-ORG
+
+AJAX	B-PER
+Proszek	O
+do	O
+czyszczenia	O
+Cytrynowy	O
+
+KROPLA	B-PER
+BESKIDU	I-PER
+Naturalna	O
+woda	O
+mineralna	O
+niegazowana	O
+(sport	O
+cup)	O
+
+Lenor	B-PER
+Silk	O
+Tree	O
+Blossom	O
+Płyn	O
+do	O
+płukania	O
+tkanin,	O
+1.38L,	B-ORG
+46	O
+prań	O
+
+Kostki	B-PER
+do	O
+wc	O
+o	O
+zapachu	O
+morskim	O
+
+BREF	B-PER
+Perfume	O
+Switch	O
+Zawieszka	O
+do	O
+WC	O
+-	O
+Słodka	O
+brzoskwinia-Czerwone	O
+jabłko	O
+2x50g	B-ORG
+
+POWERADE	B-PER
+Napój	O
+izotoniczny	O
+Mountain	O
+Blast	O
+
+Kubuś	B-PER
+Go!	O
+Sok	O
+marchew	O
+brzoskwinia	O
+jabłko	O
+300	B-ORG
+ml	I-ORG
+
+Perwoll	B-PER
+Care	O
+&	O
+Condition	O
+Płynny	O
+środek	O
+do	O
+prania	O
+1,8	B-ORG
+l	I-ORG
+(30	O
+prań)	O
+
+KINLEY	B-PER
+Napój	O
+gazowany	O
+o	O
+smaku	O
+cytrynowym	O
+
+Pur	B-PER
+Sekrety	O
+Kucharza	O
+Lemon	O
+Extra	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+750	B-ORG
+ml	I-ORG
+
+SILAN	B-PER
+Aromatheraphy	O
+Płyn	O
+do	O
+zmiękczania	O
+tkanin	O
+Sensual	O
+Rose	O
+
+Oshee	B-PER
+for	O
+Runners	O
+Napój	O
+izotoniczny	O
+niegazowany	O
+o	O
+smaku	O
+pomarańczowym	O
+0,75	B-ORG
+l	I-ORG
+
+E	B-PER
+Aromaterapia	O
+Proszek	O
+do	O
+prania	O
+kwiat	O
+lotosu	O
+z	O
+Bali	O
+i	O
+lilia	O
+3,9	B-ORG
+kg	I-ORG
+(60	O
+prań)	O
+
+ŁOWICZ	B-PER
+Syrop	O
+o	O
+smaku	O
+pomarańczowym	O
+
+PUR	B-PER
+Sekrety	O
+Świata	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+Malina	O
+i	O
+Czerwona	O
+porzeczka	O
+
+Ariel	B-PER
+Color	O
+&	O
+Style	O
+Proszek	O
+do	O
+prania	O
+3.375kg	B-ORG
+45	O
+prań	O
+
+Nektar	O
+z	O
+mango,	O
+na	O
+bazie	O
+częściowo	O
+zagęszczonego	O
+soku,	O
+pasteryzowany.	O
+Zawartość	O
+owoców	O
+minimum	O
+30%.	O
+
+Fanta	B-PER
+Pomarańczowa	O
+Napój	O
+gazowany	O
+500	B-ORG
+ml	I-ORG
+
+FAIRY	B-PER
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+rumiankowy	O
+z	O
+witaminą	O
+E	O
+
+HERBAPOL	B-PER
+Aktywność	O
+Napój	O
+niegazowany	O
+owocowo-ziołowy	O
+mięta,mango	O
+żeń-szeń	O
+PET	O
+
+Pepsi	B-PER
+Max	O
+Napój	O
+gazowany	O
+1,5	B-ORG
+l	I-ORG
+
+Somat	B-PER
+Lemon	O
+&	O
+Lime	O
+Płyn	O
+nabłyszczający	O
+do	O
+zmywarek	O
+750	B-ORG
+ml	I-ORG
+
+Hortex	B-PER
+Nektar	O
+czarna	O
+porzeczka	O
+300	B-ORG
+ml	I-ORG
+
+BREF	B-PER
+DeLuxe	O
+Zawieszka	O
+do	O
+WC	O
+-	O
+Delikatna	O
+Magnolia	O
+2x50g	B-ORG
+
+Fairy	B-PER
+Sensitive	O
+Aloes	O
+i	O
+jaśmin	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+1,35	B-ORG
+l	I-ORG
+
+VANISH	B-PER
+Oxi	O
+Action	O
+Odplamiacz	O
+do	O
+tkanin	O
+w	O
+płynie	O
+
+NESTEA	B-PER
+Napój	O
+herbaciany	O
+o	O
+smaku	O
+brzoskwiniowym	O
+
+DOMESTOS	B-PER
+Płyn	O
+do	O
+dezynfekcji	O
+Pine	O
+Fresh	O
+
+KUBUŚ	B-PER
+marchew	O
+brzoskwinia	O
+jabłko	O
+Sok	O
+z	O
+warzyw	O
+i	O
+owoców	O
+
+Uzdrowisko	B-PER
+Wysowa	I-PER
+Franciszek	O
+Lecznicza	O
+woda	O
+mineralna	O
+500	B-ORG
+ml	I-ORG
+
+COCA-COLA	B-PER
+ZERO	O
+Napój	O
+gazowany	O
+
+WM	O
+BALSAM	O
+DO	O
+PRANIA	O
+TKANIN	O
+KOLOROWYCH	O
+1L	B-ORG
+
+7	B-PER
+UP	I-PER
+Napój	O
+gazowany	O
+
+Persil	B-PER
+Color	O
+Żel	O
+do	O
+prania	O
+3,00	B-ORG
+l	I-ORG
+(60	O
+prań)	O
+
+PERWOLL	B-PER
+Wool&Silk	O
+Płyn	O
+do	O
+prania	O
+wełny	O
+i	O
+tkanin	O
+delikatnych	O
+
+Oshee	B-PER
+Vitamin	O
+Zero	O
+Magnez	O
+Napój	O
+gazowany	O
+o	O
+smaku	O
+jagód	O
+acai	O
+miechunki	O
+peruwiańskiej	O
+250	B-ORG
+ml	I-ORG
+
+Kostka	O
+WC	O
+cytrynowa	O
+40g	B-ORG
+
+KUBUŚ	B-PER
+100%	O
+Banan	O
+marchew	O
+jabłko	O
+Sok	O
+
+Raid	B-PER
+Aktywne	O
+zawieszki	O
+na	O
+mole	O
+12	B-ORG
+sztuk	I-ORG
+
+CALGON	B-PER
+2w1	O
+ActiClean	O
+Proszek	O
+Zmiękczacz	O
+wody	O
+
+HORTEX	B-PER
+Sok	O
+jabłkowy	O
+100%,	O
+PET	O
+
+Sanytol	B-PER
+Płyn	O
+czyszczący	O
+i	O
+dezynfekujący	O
+do	O
+łazienki	O
+w	O
+sprayu	O
+eukaliptus	O
+500	B-ORG
+ml	I-ORG
+
+Monster	B-PER
+Energy	O
+Pipeline	O
+Punch	O
+Gazowany	O
+napój	O
+energetyczny	O
+500	B-ORG
+ml	I-ORG
+
+DOBROWIANKA	B-PER
+Woda	O
+mineralna	O
+lekko	O
+gazowana	O
+
+E	B-PER
+Aromatherapy	O
+Color	O
+Płynny	O
+środek	O
+do	O
+prania	O
+Malezyjska	O
+Orchidea	O
+i	O
+Drzewo	O
+Sandałowe	O
+
+Powerade	B-PER
+Lemon	O
+Napój	O
+izotoniczny	O
+500	B-ORG
+ml	I-ORG
+
+Cif	B-PER
+Perfect	O
+Finish	O
+Specjalistyczny	O
+spray	O
+piekarnik	O
+i	O
+grill	O
+435	B-ORG
+ml	I-ORG
+
+BABY	B-PER
+ZDRÓJ	I-PER
+GIRL	O
+Woda	O
+źródlana	O
+niegazowana	O
+
+Kiwi	B-PER
+Shine	O
+&	O
+Nourish	O
+Cream	O
+Krem	O
+do	O
+obuwia	O
+ciemny	O
+brąz	O
+50	B-ORG
+ml	I-ORG
+
+ŻYWIEC	B-PER
+ZDRÓJ	I-PER
+BLACK	O
+Tea	O
+Napój	O
+herbaciany	O
+Brzoskwinia	O
+Pomarańcza	O
+
+Kubuś	B-PER
+Go!	O
+Sok	O
+marchew	O
+jabłko	O
+banan	O
+truskawka	O
+300	B-ORG
+ml	I-ORG
+
+Kubuś	B-PER
+Waterrr	O
+Napój	O
+o	O
+smaku	O
+jabłka	O
+1,5	B-ORG
+l	I-ORG
+
+CISOWIANKA	B-PER
+Naturalna	O
+niegazowana	O
+woda	O
+mineralna	O
+
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+sensitive	O
+1L	B-ORG
+
+VANISH	B-PER
+Oxi	O
+Action	O
+Odplamiacz	O
+do	O
+białych	O
+tkanin	O
+w	O
+płynie	O
+
+PRONTO	B-PER
+Aerozol	O
+do	O
+mebli	O
+drewnianych	O
+Classic	O
+
+HERBAPOL	B-PER
+Syrop	O
+o	O
+smaku	O
+arbuz	O
+&	O
+mięta	O
+
+PERRIER	B-PER
+Woda	O
+mineralna	O
+naturalnie	O
+gazowana	O
+
+ARIEL	B-PER
+COLOR	O
+Płyn	O
+do	O
+prania	O
+tkanin	O
+kolorowych	O
+
+ŻYWIEC	B-PER
+ZDRÓJ	I-PER
+Z	O
+nutą	O
+Truskawki	O
+
+Płyn	O
+do	O
+mycia	O
+szyb	O
+-	O
+zapas	O
+
+TYMBARK	B-PER
+Sok	O
+100%	O
+Jabłko	O
+
+OSHEE	B-PER
+Napój	O
+izotoniczny	O
+o	O
+smaku	O
+pomarańczowym	O
+
+BABY	B-PER
+ZDRÓJ	I-PER
+Woda	O
+źródlana	O
+niegazowana	O
+
+PRESTO	B-PER
+CLEAN	I-PER
+Ściereczki	O
+czyszczące	O
+do	O
+toalet	O
+42	B-ORG
+szt.	I-ORG
+
+LENOR	B-PER
+Unstoppables	O
+Perełki	O
+zapachowe	O
+do	O
+prania	O
+Dreams	O
+
+HORTEX	B-PER
+Napój	O
+pomarańcza-mango,	O
+PET	O
+
+Cappy	B-PER
+Nektar	O
+grejpfrutowy	O
+1	B-ORG
+l	I-ORG
+
+Fairy	B-PER
+Clean	O
+&	O
+Fresh	O
+Pomarańcza	O
+z	O
+Trawą	O
+Cytrynową	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+450	O
+ml	O
+
+Lipton	B-PER
+Ice	O
+Tea	O
+Lemon	O
+Napój	O
+niegazowany	O
+500	B-ORG
+ml	I-ORG
+
+Garden	B-PER
+Napój	O
+pomarańcza	O
+2	B-ORG
+l	I-ORG
+
+CIF	B-PER
+MAX	O
+POWER	O
+Mleczko	O
+wybielające	O
+Spring	O
+Fresh	O
+
+Air	B-PER
+Wick	O
+Essential	O
+Mist	O
+Wkład	O
+do	O
+automatycznego	O
+odświeżacza	O
+powietrza	O
+Energetyzujący	O
+20	B-ORG
+ml	I-ORG
+
+Ariel	B-PER
+Allin1	O
+Pods	O
++OXI	O
+Kapsułki	O
+do	O
+prania,	O
+24	O
+prań	O
+
+PUR	B-PER
+Sekrety	O
+Pielęgnacji	O
+Dłonie	O
+i	O
+paznokcie	O
+Balsam	O
+do	O
+mycia	O
+naczyń	O
+
+FAIRY	B-PER
+Sensitive	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+rumiankowy	O
+z	O
+witaminą	O
+E	O
+
+Cillit	B-PER
+Bang	I-PER
+Odtłuszczanie	O
+bez	O
+szorowania	O
+Spray	O
+750	B-ORG
+ml	I-ORG
+
+Kinley	B-PER
+Virgin	O
+Mojito	O
+Napój	O
+gazowany	O
+250	B-ORG
+ml	I-ORG
+
+Nestea	B-PER
+Napój	O
+herbaciany	O
+o	O
+smaku	O
+brzoskwiniowym	O
+0,5	B-ORG
+l	I-ORG
+
+Hortex	B-PER
+Nektar	O
+czarna	O
+porzeczka	O
+2	B-ORG
+l	I-ORG
+
+4Move	B-PER
+Napój	O
+izotoniczny	O
+niegazowany	O
+o	O
+smaku	O
+cytrynowym	O
+0,75	B-ORG
+l	I-ORG
+
+TYMBARK	B-PER
+Jabłko	O
+Gruszka	O
+Napój	O
+owocowy,	O
+PET	O
+
+BREF	B-PER
+DeLuxe	O
+Zawieszka	O
+do	O
+WC	O
+-	O
+Delikatna	O
+Magnolia	O
+50g	B-ORG
+
+Dawtona	B-PER
+Sok	O
+z	O
+buraków	O
+z	O
+jabłkiem	O
+330	B-ORG
+ml	I-ORG
+
+CIF	B-PER
+Power	O
+&	O
+Shine	O
+Płyn	O
+do	O
+czyszczenia	O
+Wybielający	O
+-	O
+spray	O
+
+Fortuna	B-PER
+Sok	O
+100%	O
+jabłko	O
+1	B-ORG
+l	I-ORG
+
+Fortuna	B-PER
+Uroda	O
+Czerwony	O
+grejpfrut	O
+Sok	O
+1	B-ORG
+l	I-ORG
+
+Izo	B-PER
+Proszek	O
+czyszczący	O
+cytryna	O
+500	B-ORG
+g	I-ORG
+
+Napój	B-PER
+przecierowy	O
+z	O
+marchwi,	O
+truskawek	O
+i	O
+jabłek.	O
+Wzbogacony	O
+witaminą	O
+c,	O
+słodzony,	O
+pasteryzowany.	O
+
+Royal	B-PER
+apple	I-PER
+Napój	O
+jabłkowo-miętowy	O
+3	B-ORG
+l	I-ORG
+
+KINLEY	B-PER
+Napój	O
+gazowany	O
+o	O
+smaku	O
+cytrynowym	O
+
+Fairy	O
+Granat	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+1.8	O
+l	O
+
+VELVET	B-PER
+Ręcznik	O
+papierowy	O
+Extra	O
+Long	O
+Decor	O
+a'2+1	O
+
+Vizir	B-PER
+Sensitive	O
+Proszek	O
+do	O
+prania	O
+3.825kg	B-ORG
+51	O
+prań	O
+
+NESTEA	B-PER
+Ice	O
+Tea	O
+Napój	O
+herbaciany	O
+o	O
+smaku	O
+cytrynowym	O
+
+Ręcznik	O
+papierowy	O
+mega	O
+rolka	O
+500	B-ORG
+listków	I-ORG
+
+Pur	B-PER
+Sekrety	O
+Pielęgnacji	O
+Hands	O
+&	O
+Nails	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+750	B-ORG
+ml	I-ORG
+
+KROPLA	B-PER
+BESKIDU	I-PER
+Naturalna	O
+woda	O
+mineralna	O
+niegazowana	O
+
+CISOWIANKA	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+gazowana	O
+
+Morning	B-PER
+Fresh	I-PER
+Sensitive	O
+Aloe	O
+Vera	O
+Skoncentrowany	O
+płyn	O
+do	O
+mycia	O
+naczyń	O
+450	B-ORG
+ml	I-ORG
+
+LENOR	B-PER
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+Diamond&Lotus	O
+flower	O
+
+Woolite	B-PER
+Czerń	O
+ciemne	O
+kolory	O
+&	O
+jeans	O
+z	O
+keratyną	O
+Płyn	O
+do	O
+prania	O
+4,5	B-ORG
+l	I-ORG
+(75	O
+prań)	O
+
+Frosch	B-PER
+ecological	O
+Malinowy	O
+płyn	O
+do	O
+WC	O
+750	B-ORG
+ml	I-ORG
+
+Frosch	B-PER
+ecological	O
+Cytrynowy	O
+środek	O
+do	O
+kabin	O
+prysznicowych	O
+500	B-ORG
+ml	I-ORG
+
+Finish	O
+All	O
+in	O
+1	O
+Max	O
+Shine	O
+&	O
+Protect	O
+Skoncentrowany	O
+żel	O
+do	O
+mycia	O
+naczyń	O
+w	O
+zmywarce	O
+1	B-ORG
+l	I-ORG
+
+Ariel	B-PER
+Allin1	O
+Pods	O
++Unstoppables	O
+Kapsułki	O
+do	O
+prania,	O
+24	O
+prań	O
+
+Staropolanka	B-PER
+Zdrój	O
+Woda	O
+źródlana	O
+niskozmineralizowana	O
+lekko	O
+gazowana	O
+5	B-ORG
+l	I-ORG
+
+HERBAPOL	B-PER
+Owocowa	O
+Spiżarnia	O
+Syrop	O
+z	O
+pomarańcza	O
+
+Hortex	B-PER
+Vitaminka	O
+Sok	O
+brzoskwinia	O
+marchew	O
+jabłko	O
+1	B-ORG
+l	I-ORG
+
+PEPSI	B-PER
+MAX	I-PER
+Napój	O
+gazowany	O
+bez	O
+cukru	O
+
+ACE	B-PER
+ULTRA	O
+FRESH	O
+Silny	O
+żel	O
+
+Fortuna	B-PER
+Karotka	O
+Sok	O
+marchew	O
++	O
+witaminy	O
+A	O
+C	O
+E	O
+1	B-ORG
+l	I-ORG
+
+Sok	O
+ananasowy	O
+100%	O
+1L	B-ORG
+
+SILAN	B-PER
+Lavender	O
+Garden	O
+Płyn	O
+do	O
+zmiękczania	O
+tkanin	O
+
+Kubuś	B-PER
+Waterrr	O
+Napój	O
+o	O
+smaku	O
+truskawki	O
+1,5	B-ORG
+l	I-ORG
+
+Herbapol	B-PER
+Smaki	O
+Słońca	O
+Syrop	O
+o	O
+smaku	O
+coli	O
+420	B-ORG
+ml	I-ORG
+
+Żel	O
+punktowy	O
+WC	O
+cytryna	O
+75ml	B-ORG
+
+Kiwi	B-PER
+Express	O
+Shine	O
+Gąbka	O
+nabłyszczająca	O
+do	O
+obuwia	O
+brązowa	O
+7	B-ORG
+ml	I-ORG
+
+Odplamiacz	O
+w	O
+płynie	O
+do	O
+białego	O
+1L	B-ORG
+
+Sidolux	B-PER
+Crystal	O
+Lemon	O
+Płyn	O
+do	O
+mycia	O
+szyb	O
+500	B-ORG
+ml	I-ORG
+
+Fairy	B-PER
+Cytryna	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+450	B-ORG
+ml	I-ORG
+
+SADY	B-PER
+WINCENTA	I-PER
+Sok	O
+wieloowocowy	O
+w	O
+kartonie	O
+tłoczony	O
+
+Air	B-PER
+Wick	I-PER
+Life	O
+Scents	O
+Pachnące	O
+patyczki	O
+wędrówka	O
+leśną	O
+ścieżką	O
+30	B-ORG
+ml	I-ORG
+
+AIR	B-PER
+WICK	I-PER
+Freshmatic	O
+Life	O
+Scents	O
+Pachnące	O
+patyczki	O
+-	O
+Tajemniczny	O
+ogród	O
+z	O
+dzieciństwa	O
+
+HORTEX	B-PER
+Nektar	O
+bananowy	O
+
+WOOLITE	B-PER
+Pro-Care	O
+Kapsułki	O
+do	O
+prania	O
+28	B-ORG
+szt.	I-ORG
+
+Fortuna	B-PER
+Sok	O
+100%	O
+jabłko	O
+300	B-ORG
+ml	I-ORG
+
+SOMAT	B-PER
+Classic	O
+Tabletki	O
+do	O
+zmywarek	O
+100	B-ORG
+szt.	I-ORG
+
+FROSCH	B-PER
+Nabłyszczacz	O
+do	O
+zmywarek	O
+
+AIR	B-PER
+WICK	I-PER
+Pachnące	O
+patyczki	O
+-	O
+Świeżość	O
+letniego	O
+poranka	O
+
+TYMBARK	B-PER
+Nektar	O
+Czarna	O
+porzeczka	O
+PET	O
+
+CILLIT	B-PER
+BANG	I-PER
+Power	O
+Cleaner	O
+Uniwersalny	O
+środek	O
+czyszczący	O
+Czystość	O
+i	O
+Połysk	O
+w	O
+Łazience	O
+
+Velvet	B-PER
+Extra	O
+Long	O
+Decor	O
+Ręcznik	O
+papierowy	O
+3	O
+rolki	O
+
+Płyn	O
+do	O
+mycia	O
+szyb	O
+
+SOMAT	B-PER
+Sól	O
+do	O
+zmywarek	O
+
+COCA-COLA	B-PER
+Napój	O
+gazowany	O
+
+Żywiec	B-PER
+Zdrój	I-PER
+Niegazowany	O
+Woda	O
+źródlana	O
+6	B-ORG
+x	I-ORG
+1,5	I-ORG
+l	I-ORG
+
+FUZETEA	B-PER
+Napój	O
+o	O
+smaku	O
+cytrynowym	O
+z	O
+ekstraktem	O
+z	O
+zielonej	O
+herbaty	O
+
+AIR	B-PER
+WICK	I-PER
+Odświeżacz	O
+elektryczny	O
+i	O
+wkład	O
+-	O
+Białe	O
+Kwiaty	O
+
+Cillit	B-PER
+Bang	O
+Czystość	O
+i	O
+połysk	O
+w	O
+łazience	O
+Spray	O
+750	B-ORG
+ml	I-ORG
+
+Nestlé	O
+Pure	O
+Life	O
+Woda	O
+źródlana	O
+niegazowana	O
+1,5	B-ORG
+l	I-ORG
+
+Glade	B-PER
+Fresh	O
+Lemon	O
+Odświeżacz	O
+powietrza	O
+w	O
+żelu	O
+150	B-ORG
+g	I-ORG
+
+Sok	O
+z	O
+pomarańczy	O
+brazylijskiej	O
+1L	B-ORG
+
+Persil	B-PER
+Proszek	O
+do	O
+prania	O
+3,51	B-ORG
+kg	I-ORG
+(54	O
+prania)	O
+
+Ajax	B-PER
+Boost	O
+Środek	O
+czyszczący	O
+ocet	O
++	O
+lawenda	O
+1	B-ORG
+l	I-ORG
+
+FAIRY	B-PER
+PLATINUM	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+
+Domestos	B-PER
+Przedłużona	O
+Moc	O
+Citrus	O
+Fresh	O
+Płyn	O
+czyszcząco-dezynfekujący	O
+750	B-ORG
+ml	I-ORG
+
+ŻYWIEC	B-PER
+ZDRÓJ	I-PER
+Ze	O
+Smakiem	O
+truskawki	O
+
+Dobrowianka	B-PER
+Woda	O
+mineralna	O
+lekko	O
+gazowana	O
+6	B-ORG
+x	I-ORG
+1,5	I-ORG
+l	I-ORG
+
+Staropolanka	B-PER
+Plus	O
+Naturalna	O
+woda	O
+mineralna	O
+średniozmineralizowana	O
+niegazowana	O
+0,7	B-ORG
+l	I-ORG
+
+Morning	B-PER
+Fresh	I-PER
+Lemon	O
+Skoncentrowany	O
+płyn	O
+do	O
+mycia	O
+naczyń	O
+900	B-ORG
+ml	I-ORG
+
+Vanish	B-PER
+Color	O
+Protect	O
+Chusteczki	O
+zapobiegające	O
+farbowaniu	O
+20	O
+prań	O
+(10	B-ORG
+sztuk)	I-ORG
+
+Tiger	B-PER
+Carbon	O
+Gazowany	O
+napój	O
+energetyzujący	O
+500	B-ORG
+ml	I-ORG
+
+Fortuna	B-PER
+Nektar	O
+multiwitamina1	B-ORG
+l	I-ORG
+
+OKF	O
+Aloe	O
+Vera	O
+King	B-PER
+Original	O
+Napój	O
+z	O
+aloesu	O
+1,5	B-ORG
+l	I-ORG
+
+Clin	B-PER
+Płyn	O
+do	O
+mycia	O
+powierzchni	O
+szklanych	O
+500	B-ORG
+ml	I-ORG
+
+NESTEA	B-PER
+Napój	O
+herbaciany	O
+o	O
+smaku	O
+brzoskwiniowym	O
+
+GLADE	B-PER
+Odświeżacz	O
+powietrza	O
+lawenda	O
+
+Kubuś	B-PER
+100%	O
+Sok	O
+banan	O
+marchew	O
+jabłko	O
+300	B-ORG
+ml	I-ORG
+
+Kubuś	B-PER
+Play!	O
+Napój	O
+z	O
+marchwi	O
+i	O
+owoców	O
+marchew	O
+malina	O
+jabłko	O
+limetka	O
+400	B-ORG
+ml	I-ORG
+
+Somat	B-PER
+Sól	O
+do	O
+zmywarek	O
+1,5	B-ORG
+kg	I-ORG
+
+ARIEL	B-PER
+Allin1	O
+Pods	O
++OXI	O
+Kapsułki	O
+do	O
+prania	O
+tkanin	O
+24	B-ORG
+szt.	I-ORG
+
+COCA-COLA	B-PER
+Napój	O
+gazowany	O
+
+CIF	B-PER
+Płyn	O
+do	O
+czyszczenia	O
+Łazienki	O
+-	O
+spray	O
+
+Lenor	B-PER
+Summer	O
+Breeze	O
+Płyn	O
+do	O
+płukania	O
+tkanin,	O
+1800ML,	O
+60	O
+prań	O
+
+Kubuś	B-PER
+Sok	O
+banan	O
+marchew	O
+jabłko	O
+300	B-ORG
+ml	I-ORG
+
+Hortex	B-PER
+Napój	O
+pomarańcza	O
+mango	O
+500	B-ORG
+ml	I-ORG
+
+FROSCH	B-PER
+Żel	O
+do	O
+czyszczenia	O
+WC	O
+o	O
+zapachu	O
+miętowym	O
+
+Air	B-PER
+Wick	I-PER
+Automatyczny	O
+odświeżacz	O
+powietrza	O
+i	O
+wkład	O
+Wędrówka	O
+leśną	O
+ścieżką	O
+250	B-ORG
+ml	I-ORG
+
+Kiwi	B-PER
+Parade	O
+Gloss	O
+Prestige	O
+Pasta	O
+do	O
+butów	O
+bezbarwna	O
+50	B-ORG
+ml	I-ORG
+
+Lenor	B-PER
+Exotic	O
+Bloom	O
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+1.42L,	B-ORG
+48	O
+prań	O
+
+BREF	B-PER
+Hygienically	O
+Clean&Shine	O
+Środek	O
+czyszczący	O
+do	O
+WC	O
+Lemonitta	O
+Power	O
+
+BREF	B-PER
+Color	O
+Aktiv	O
+Zawieszka	O
+do	O
+WC	O
+-	O
+Lawendowy	O
+2x50g	B-ORG
+
+DOMESTOS	B-PER
+Zero	O
+kamienia-	O
+Zielony	O
+
+Środek	O
+do	O
+czyszczenia	O
+kabin	O
+prysznicowych	O
+750	B-ORG
+ml	I-ORG
+
+DOMESTOS	B-PER
+Power	O
+5	O
+Kostka	O
+toaletowa	O
+Ocean	O
+(3x55g)	B-ORG
+
+RED	B-PER
+BULL	I-PER
+Napój	O
+energetyczny	O
+
+AMBI	B-PER
+PUR	I-PER
+ELECTRIC	O
+Odświeżacz	O
+powietrza	O
+elektryczny	O
+i	O
+wkład	O
+Ocean	O
+Mist	O
+
+Cillit	B-PER
+Bang	I-PER
+Trudne	O
+zabrudzenia	O
+Produkt	O
+do	O
+czyszczenia	O
+i	O
+dezynfekcji	O
+muszli	O
+toaletowej	O
+750	B-ORG
+ml	I-ORG
+
+POWERADE	B-PER
+ZERO	O
+Napój	O
+izotoniczny	O
+o	O
+smaku	O
+truskawkowym	O
+i	O
+owoców	O
+tropikalnych	O
+
+Naturalnie	O
+mętny	O
+sok	O
+wieloowocowy	O
+Sady	B-PER
+Wincenta	I-PER
+
+Mirinda	B-PER
+Orange	O
+Napój	O
+gazowany	O
+1,5	B-ORG
+l	I-ORG
+
+Bref	B-PER
+WC	O
+Power	O
+Aktiv	O
+Zawieszka	O
+myjąco-zapachowa	O
+do	O
+muszli	O
+WC	O
+lawendowe	O
+pole	O
+3	B-ORG
+x	I-ORG
+50	I-ORG
+g	I-ORG
+
+Fortuna	B-PER
+Sok	O
+100%	O
+jabłko	O
+300	B-ORG
+ml	I-ORG
+
+LENOR	B-PER
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+Lavender&Camomile	O
+
+CISOWIANKA	B-PER
+Classique	O
+Naturalna	O
+woda	O
+mineralna	O
+niegazowana	O
+
+PRONTO	B-PER
+Aerozol	O
+przeciw	O
+kurzowi	O
+Original	O
+
+Finish	O
+Quantum	O
+Max	O
+Lemon	O
+Kapsułki	O
+do	O
+mycia	O
+naczyń	O
+w	O
+zmywarce	O
+558	B-ORG
+g	I-ORG
+(36	B-ORG
+sztuk)	I-ORG
+
+Oshee	B-PER
+for	O
+Bike	O
+Riders	O
+Napój	O
+izotoniczny	O
+niegazowany	O
+o	O
+smaku	O
+limetkowo-miętowym	O
+0,75	B-ORG
+l	I-ORG
+
+Woolite	B-PER
+Płyn	O
+do	O
+prania	O
+tkanin	O
+do	O
+kolorów	O
+z	O
+keratyną	O
+3,6	B-ORG
+l	I-ORG
+(60	O
+prań)	O
+
+Tymbark	B-PER
+Owoce	O
+Świata	O
+Napój	O
+wieloowocowy	O
+limonka	O
+1	B-ORG
+l	I-ORG
+
+TYMBARK	B-PER
+Pomarańcza	O
+brzoskwinia	O
+Napój	O
+
+FROSCH	B-PER
+Limonkowy	O
+żel	O
+do	O
+mycia	O
+naczyń	O
+w	O
+zmywarkach	O
+
+LIMMI	B-PER
+Sok	O
+z	O
+cytryny	O
+
+OKF	B-PER
+Aloe	O
+Vera	O
+King	O
+Napój	O
+aloesowy	O
+
+COCCOLINO	B-PER
+Płyn	O
+do	O
+płukania	O
+Blue	O
+Splash	O
+
+PEPSI	B-PER
+Napój	O
+gazowany	O
+
+VIZIR	B-PER
+ALPINE	O
+FRESH	O
+Proszek	O
+do	O
+prania	O
+tkanin	O
+białych	O
+
+MUSZYNIANKA	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+częściowo	O
+odgazowana	O
+
+Finish	O
+Odświeżacz	O
+do	O
+zmywarki	O
+cytryna	O
+i	O
+limonka	O
+4	B-ORG
+ml	I-ORG
+
+ŻYWIEC	B-PER
+ZDRÓJ	I-PER
+Z	O
+nutą	O
+WIŚNI	O
+
+Cif	B-PER
+Cream	O
+Lemon	O
+z	O
+mikrokryształkami	O
+Mleczko	O
+do	O
+czyszczenia	O
+powierzchni	O
+780	B-ORG
+g	I-ORG
+
+Oshee	B-PER
+RL9	O
+Junior	O
+Speed	O
+Napój	O
+niegazowany	O
+jabłko-cytryna	O
+555	B-ORG
+ml	I-ORG
+
+VANISH	B-PER
+Oxi	O
+Action	O
+Odplamiacz	O
+do	O
+tkanin	O
+w	O
+płynie	O
+
+K2R	B-PER
+COLOUR	O
+CATCHER	O
+Chusteczki	O
+do	O
+prania	O
+10	B-ORG
+szt.	I-ORG
+
+Staropolanka	B-PER
+800	O
+Naturalna	O
+woda	O
+mineralna	O
+średniozmineralizowana	O
+gazowana	O
+6x1,5	B-ORG
+l	I-ORG
+
+DAWTONA	B-PER
+Sok	O
+pomidorowy	O
+
+Tymbark	B-PER
+Owoce	O
+Świata	O
+Napój	O
+wieloowocowy	O
+żurawina	O
+1	B-ORG
+l	I-ORG
+
+Ariel	B-PER
+Allin1	O
+Pods	O
+Sensitive	O
+Kapsułki	O
+do	O
+prania,	O
+33	O
+prań	O
+
+Cisowianka	B-PER
+Perlage	O
+Naturalna	O
+woda	O
+mineralna	O
+musująca	O
+niskosodowa	O
+700	B-ORG
+ml	I-ORG
+
+Cif	B-PER
+Perfect	O
+Finish	O
+Specjalistyczny	O
+spray	O
+lodówka	O
+i	O
+mikrofalówka	O
+435	B-ORG
+ml	I-ORG
+
+Fairy	B-PER
+Clean	O
+&	O
+Fresh	O
+Granat	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+900	O
+ml	O
+
+Jurajska	B-PER
+Napój	O
+niegazowany	O
+o	O
+smaku	O
+malinowym	O
+1,5	B-ORG
+l	I-ORG
+
+VANISH	B-PER
+Clean&Fresh	O
+Szampon	O
+do	O
+dywanów	O
+
+TYMBARK	B-PER
+Ananas	O
+Nektar	O
+
+ŻYWIEC	B-PER
+ZDRÓJ	I-PER
+Zero	O
+cukru	O
+Z	O
+nutą	O
+Truskawki	O
+
+PEPSI	B-PER
+Wild	O
+Cherry	O
+Napój	O
+gazowany	O
+
+TYMBARK	B-PER
+Nektar	O
+Banan	O
+
+Perrier	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+gazowana	O
+1	B-ORG
+l	I-ORG
+
+Cif	B-PER
+Perfect	O
+Finish	O
+Specjalistyczny	O
+spray	O
+osad	O
+z	O
+kamienia	O
+435	B-ORG
+ml	I-ORG
+
+SADY	B-PER
+WINCENTA	I-PER
+Sok	O
+jabłko	O
+-	O
+marchew	O
+w	O
+kartonie	O
+tłoczony	O
+
+Pronto	B-PER
+Original	O
+Płyn	O
+do	O
+paneli	O
+i	O
+płytek	O
+1	B-ORG
+l	I-ORG
+
+ARIEL	B-PER
+COLOR&STYLE	O
+Proszek	O
+do	O
+prania	O
+tkanin	O
+kolorowych	O
+
+PUR	B-PER
+Sekrety	O
+Świata	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+Hibiscus	O
+i	O
+Marakuja	O
+
+AMBI	B-PER
+PUR	I-PER
+Odświeżacz	O
+powietrza	O
+w	O
+sprayu	O
+Moonlight	O
+Vanilla	O
+
+Kiwi	B-PER
+Express	O
+Shine	O
+Gąbka	O
+nabłyszczająca	O
+do	O
+obuwia	O
+czarna	O
+7	B-ORG
+ml	I-ORG
+
+CIF	B-PER
+Mleczko	O
+do	O
+czyszczenia	O
+Pink	O
+Flower	O
+
+HERBAPOL	B-PER
+Owocowa	O
+Spiżarnia	O
+Syrop	O
+malinowy	O
+z	O
+melisą	O
+
+LENOR	B-PER
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+Spring	O
+Awakening	O
+
+Sok	O
+marchwiowy	O
+750	B-ORG
+ml	I-ORG
+
+Vizir	B-PER
+Proszek	O
+do	O
+prania	O
+kolorowych	O
+tkanin	O
+2.7	B-ORG
+kg,	I-ORG
+36	O
+prań	O
+
+Cappy	B-PER
+Napój	O
+multiwitamina	O
+1	B-ORG
+l	I-ORG
+
+Bref	B-PER
+WC	O
+DeLuxe	O
+Zawieszka	O
+toaletowa	O
+delikatna	O
+magnolia	O
+50	B-ORG
+g	I-ORG
+
+Żywiec	B-PER
+Zdrój	O
+Zero	O
+Cukru	O
+Napój	O
+niegazowany	O
+z	O
+nutą	O
+truskawki	O
+1,5	B-ORG
+l	I-ORG
+
+DrWitt	B-PER
+Premium	O
+Antyoksydacja	O
+Napój	O
+czarna	O
+porzeczka	O
+z	O
+granatem	O
+1	B-ORG
+l	I-ORG
+
+ARIEL	B-PER
+MOUNTAIN	O
+SPRING	O
+Płyn	O
+do	O
+prania	O
+tkanin	O
+jasnych	O
+i	O
+kolorowych	O
+
+PRONTO	B-PER
+Aerozol	O
+przeciw	O
+kurzowi	O
+Lime	O
+
+ŻYWIEC	B-PER
+ZDRÓJ	I-PER
+Z	O
+nutą	O
+BRZOSKWINI	O
+
+AIR	B-PER
+WICK	I-PER
+Botanica	O
+Odświeżacz	O
+elektryczny	O
+Marokańska	O
+Mięta	O
+&	O
+Różowy	O
+Grejpfrut	O
+
+Fairy	B-PER
+Clean	O
+&	O
+Fresh	O
+Jabłko	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+450	O
+ml	O
+
+Kropla	B-PER
+Beskidu	I-PER
+Naturalna	O
+woda	O
+mineralna	O
+niegazowana	O
+750	B-ORG
+ml	I-ORG
+
+Kret	B-PER
+Granulki	O
+do	O
+udrożniania	O
+rur	O
+40	B-ORG
+g	I-ORG
+
+Morning	B-PER
+Fresh	I-PER
+Sweet	O
+Pea	O
+&	O
+Freesia	O
+Skoncentrowany	O
+płyn	O
+do	O
+mycia	O
+naczyń	O
+900	B-ORG
+ml	I-ORG
+
+Vanish	B-PER
+Color	O
+Protect	O
+Chusteczki	O
+zapobiegające	O
+farbowaniu	O
+40	O
+prań	O
+(20	B-ORG
+sztuk)	I-ORG
+
+Velvet	B-PER
+Czysta	O
+Biel	O
+Ręcznik	O
+papierowy	O
+2	O
+rolki	O
+
+Nektar	O
+bananowy	O
+1L	B-ORG
+
+ARIEL	B-PER
+Allin1	O
+Pods	O
++OXI	O
+Kapsułki	O
+do	O
+prania	O
+31	B-ORG
+szt.	I-ORG
+
+Fairy	B-PER
+Platinum	O
+All	O
+In	O
+One	O
+Regular	O
+Kapsułki	O
+do	O
+zmywarki	O
+18	B-ORG
+sztuki	I-ORG
+
+PUR	B-PER
+Sekrety	O
+Świata	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+Malina	O
+i	O
+Czerwona	O
+porzeczka	O
+
+Naturalnie	O
+mętny	O
+sok	O
+jabłkowo-gruszkowy	O
+Sady	B-PER
+Wincenta	I-PER
+
+Nektar	O
+brzoskwiniowy	O
+na	O
+bazie	O
+przecieru	O
+brzoskwiniowego,	O
+pasteryzowany.	O
+Zawartość	O
+owoców	O
+minimum	O
+50%.	O
+
+ROYAL	B-PER
+APPLE	I-PER
+Sok	O
+jabłko	O
+-	O
+mięta	O
+w	O
+kartonie	O
+tłoczony	O
+
+Fairy	B-PER
+Original	O
+All	O
+In	O
+One	O
+Regular	O
+Tabletki	O
+do	O
+zmywarki	O
+44	B-ORG
+sztuki	I-ORG
+
+Vanish	B-PER
+Oxi	O
+Action	O
+Odplamiacz	O
+do	O
+tkanin	O
+w	O
+proszku	O
+300	B-ORG
+g	I-ORG
+
+Fortuna	B-PER
+Sok	O
+100%	O
+pomarańcza	O
+z	O
+cząstkami	O
+1	B-ORG
+l	I-ORG
+
+Staropolanka	B-PER
+800	O
+Naturalna	O
+woda	O
+mineralna	O
+średniozmineralizowana	O
+gazowana	O
+6	B-ORG
+x	I-ORG
+1,5	I-ORG
+l	I-ORG
+
+Frosch	B-PER
+All	O
+in	O
+1	O
+Sodowe	O
+tabletki	O
+do	O
+zmywarek	O
+600	B-ORG
+g	I-ORG
+(30	B-ORG
+sztuk)	I-ORG
+
+Staropolanka	B-PER
+800	O
+Naturalna	O
+woda	O
+mineralna	O
+średniozmineralizowana	O
+niegazowana	O
+6	B-ORG
+x	I-ORG
+1,5	I-ORG
+l	I-ORG
+
+Cif	B-PER
+Perfect	O
+Finish	O
+Specjalistyczny	O
+spray	O
+pleśń	O
+i	O
+czarne	O
+osady	O
+435	B-ORG
+ml	I-ORG
+
+Hortex	B-PER
+Nektar	O
+wiśnia	O
+1	B-ORG
+l	I-ORG
+
+CLIN	B-PER
+Windows&Glass	O
+Płyn	O
+do	O
+mycia	O
+szyb	O
+z	O
+pompką	O
+
+OSHEE	B-PER
+ZERO	O
+Napój	O
+izotoniczny	O
+o	O
+smaku	O
+cytrynowym	O
+
+Herbapol	B-PER
+na	O
+zimno	O
+Herbata	O
+czarna	O
+cytryna	O
+300	B-ORG
+ml	I-ORG
+
+Ariel	B-PER
+Allin1	O
+Pods	O
++Active	O
+Odor	O
+Defense	O
+Kapsułki	O
+do	O
+prania,	O
+24	O
+prań	O
+
+Finish	O
+All	O
+in	O
+1	B-ORG
+Lemon	I-ORG
+Tabletki	O
+do	O
+zmywarki	O
+1008	B-ORG
+g	I-ORG
+(63	B-ORG
+sztuk)	I-ORG
+
+Coca-Cola	B-PER
+Lime	O
+Taste	O
+Napój	O
+gazowany	O
+850	B-ORG
+ml	I-ORG
+
+BREF	B-PER
+Power	O
+Aktiv	O
+Zawieszka	O
+do	O
+WC	O
+-	O
+Soczysta	O
+cytryna	O
+2x50g	B-ORG
+
+E	B-PER
+Sensitive	O
+Skoncentrowany	O
+płyn	O
+do	O
+zmiękczania	O
+tkanin	O
+2	B-ORG
+l	I-ORG
+(66	O
+prań)	O
+
+Frosch	B-PER
+ecological	O
+Sodowy	O
+środek	O
+czyszczący	O
+do	O
+kuchni	O
+500	B-ORG
+ml	I-ORG
+
+COCA-COLA	B-PER
+ZERO	O
+Napój	O
+gazowany	O
+
+Kubuś	B-PER
+Go!	O
+Sok	O
+banan	O
+marchew	O
+jabłko	O
+300	B-ORG
+ml	I-ORG
+
+Pronto	B-PER
+Emulsja	O
+do	O
+mebli	O
+250	B-ORG
+ml	I-ORG
+
+Dawtona	B-PER
+Sok	O
+pomidorowy	O
+z	O
+polskimi	O
+ziołami	O
+330	B-ORG
+ml	I-ORG
+
+COCCOLINO	B-PER
+Care	O
+Kapsułki	O
+do	O
+prania	O
+tkanin	O
+kolorowych	O
+29	B-ORG
+szt	I-ORG
+
+Cisowianka	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+niegazowana	O
+niskosodowa	O
+330	B-ORG
+ml	I-ORG
+
+Tymbark	B-PER
+Sok	O
+100%	O
+pomarańcza	O
+200	B-ORG
+ml	I-ORG
+
+AIR	B-PER
+WICK	I-PER
+Freshmatic	O
+Life	O
+Scents	O
+Odświeżacz	O
+elektryczny	O
+Tajemnicze	O
+ogrody	O
+z	O
+dzieciństwa	O
+-	O
+wkład	O
+
+Żywiec	O
+Zdrój	O
+Napój	O
+niegazowany	O
+z	O
+nutą	O
+truskawki	O
+1,5	B-ORG
+l	I-ORG
+
+CISOWIANKA	B-PER
+Classique	O
+Naturalna	O
+woda	O
+mineralna	O
+niegazowana	O
+-	O
+szkło	O
+
+Ludwik	B-PER
+All	O
+in	O
+one	O
+Żel	O
+do	O
+zmywarek	O
+750	B-ORG
+ml	I-ORG
+(30	O
+cykli	O
+mycia)	O
+
+Mr	B-PER
+Muscle	I-PER
+Żel	O
+do	O
+udrażniania	O
+rur	O
+1000	B-ORG
+ml	I-ORG
+
+NAŁĘCZOWIANKA	B-PER
+BIO	O
+Napój	O
+niegazowany	O
+smak	O
+cytryny	O
+i	O
+limonki	O
+
+Nestlé	O
+Pure	O
+Life	O
+Woda	O
+źródlana	O
+gazowana	O
+1,5	B-ORG
+l	I-ORG
+
+ŻYWIEC	B-PER
+ZDRÓJ	I-PER
+BLACK	O
+Tea	O
+Napój	O
+herbaciany	O
+Brzoskwinia	O
+Pomarańcza	O
+
+AIR	B-PER
+WICK	I-PER
+Odświeżacz	O
+powietrza	O
+wkład	O
+Magnolia	O
+i	O
+Kwiat	O
+Wiśni	O
+
+ŻYWIEC	B-PER
+ZDRÓJ	I-PER
+Z	O
+nutą	O
+TRUSKAWKI	O
+
+MAYERI	B-PER
+Kapsułki	O
+do	O
+prania	O
+tkanin	O
+kolorowych	O
+i	O
+białych	O
+Sensitiv	O
+32szt.	B-ORG
+
+SPRITE	B-PER
+Zero	O
+Napój	O
+gazowany	O
+o	O
+smaku	O
+cytrynowo-limonkowym	O
+
+Cif	B-PER
+Perfect	O
+Finish	O
+Specjalistyczny	O
+spray	O
+osad	O
+z	O
+kamienia	O
+435	B-ORG
+ml	I-ORG
+
+Żywiec	B-PER
+Zdrój	I-PER
+Woda	O
+źródlana	O
+lekko	O
+gazowana	O
+6	B-ORG
+x	I-ORG
+1,5	I-ORG
+l	I-ORG
+
+Herbapol	B-PER
+Syrop	O
+owocowy	O
+malina	O
+420	B-ORG
+ml	I-ORG
+
+LENOR	B-PER
+Perfum	O
+des	O
+secrets	O
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+Kiss	O
+
+BRYZA	B-PER
+Lanza	O
+Expert	O
+Mix	O
+Color	O
+Proszek	O
+do	O
+prania	O
+tkanin	O
+kolorowych	O
+
+Hortex	B-PER
+Vitaminka	O
+Sok	O
+marchewka	O
+1	B-ORG
+l	I-ORG
+
+KINLEY	B-PER
+Napój	O
+gazowany	O
+o	O
+smaku	O
+cytrynowym	O
+
+Cif	B-PER
+Perfect	O
+Finish	O
+Specjalistyczny	O
+spray	O
+marmur	O
+i	O
+granit	O
+435	B-ORG
+ml	I-ORG
+
+Proszek	O
+do	O
+czyszczenia	O
+
+Ajax	B-PER
+Boost	O
+Środek	O
+czyszczący	O
+500	B-ORG
+ml	I-ORG
+
+Lenor	B-PER
+Diamond	O
+&	O
+Lotus	O
+Flower	O
+Płyn	O
+do	O
+płukania	O
+tkanin,	O
+1420ML,	O
+48	O
+prań	O
+
+FROSCH	B-PER
+Płyn	O
+do	O
+mycia	O
+kabin	O
+prysznicowych	O
+o	O
+zapachu	O
+winogronowym	O
+
+TYMBARK	B-PER
+Jabłko	O
+Sok	O
+100%	O
+PET	O
+
+ARIEL	B-PER
+MOUNTAIN	O
+SPRING	O
+Proszek	O
+do	O
+prania	O
+białych	O
+i	O
+jasnych	O
+tkanin	O
+
+FuzeTea	B-PER
+Napój	O
+o	O
+smaku	O
+cytrynowym	O
+z	O
+ekstraktem	O
+z	O
+czarnej	O
+herbaty	O
+i	O
+trawy	O
+cytrynowej	O
+500	B-ORG
+ml	I-ORG
+
+Mola	B-PER
+Giga	O
+XL	O
+Ręczniki	O
+papierowe	O
+2	O
+rolki	O
+
+Perwoll	B-PER
+Renew	O
+&	O
+Blossom	O
+Płynny	O
+środek	O
+do	O
+prania	O
+2,7	B-ORG
+l	I-ORG
+(45	O
+prań)	O
+
+Fairy	B-PER
+Pure	O
+&	O
+Clean	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+bez	O
+perfum	O
+i	O
+barwników	O
+650	B-ORG
+ml	I-ORG
+
+Lenor	B-PER
+Lavender	O
+&	O
+Camomile	O
+Płyn	O
+do	O
+płukania	O
+tkanin,	O
+1800ML,	O
+60	O
+prań	O
+
+Hortex	B-PER
+Napój	O
+jabłko	O
+wiśnia	O
+1	B-ORG
+l	I-ORG
+
+Lenor	B-PER
+Unstoppables	O
+Spring	O
+Wzmacniacz	O
+zapachu	O
+stosowany	O
+podczas	O
+prania	O
+210g	B-ORG
+
+Fanta	B-PER
+Pomarańczowa	O
+Napój	O
+gazowany	O
+330	B-ORG
+ml	I-ORG
+
+Cillit	B-PER
+Bang	I-PER
+Trudne	O
+zabrudzenia	O
+Produkt	O
+do	O
+czyszczenia	O
+i	O
+dezynfekcji	O
+muszli	O
+toaletowej	O
+750	B-ORG
+ml	I-ORG
+
+TYMBARK	B-PER
+Nektar	O
+Biały	O
+Grejpfrut	O
+
+Herbapol	B-PER
+Syrop	O
+o	O
+smaku	O
+imbirowym	O
+420	B-ORG
+ml	I-ORG
+
+Staropolanka	B-PER
+Kids	O
+Woda	O
+źródlana	O
+niegazowana	O
+9	B-ORG
+x	I-ORG
+330	I-ORG
+ml	I-ORG
+
+Kiwi	B-PER
+Shine	O
+&	O
+Nourish	O
+Cream	O
+Krem	O
+do	O
+obuwia	O
+czarny	O
+50	B-ORG
+ml	I-ORG
+
+VANISH	B-PER
+Clean&Fresh	O
+Szampon	O
+do	O
+dużych	O
+powierzchni	O
+dywanów	O
+
+AJAX	B-PER
+Floral	O
+Fiesta	O
+Płyn	O
+do	O
+mycia	O
+szyb	O
+i	O
+gładkich	O
+powierzchni	O
+-	O
+zapas	O
+
+Cisowianka	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+niegazowana	O
+niskosodowa	O
+300	B-ORG
+ml	I-ORG
+
+E	B-PER
+Magiczna	O
+Miękkość	O
+Skoncentrowany	O
+płyn	O
+do	O
+zmiękczania	O
+tkanin	O
+Atłasowy	O
+dotyk	O
+
+SADY	B-PER
+WINCENTA	I-PER
+Sok	O
+jabłkowy	O
+w	O
+butelce	O
+tłoczony	O
+
+Finish	B-PER
+Classic	O
+Lemon	O
+Tabletki	O
+do	O
+zmywarki	O
+912	B-ORG
+g	I-ORG
+(57	B-ORG
+sztuk)	I-ORG
+
+Lenor	B-PER
+Dewy	O
+Blossom	O
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+1.42L,	B-ORG
+48	O
+prań	O
+
+Oshee	B-PER
+Zero	O
+Napój	O
+niegazowany	O
+o	O
+smaku	O
+wieloowocowym	O
+0,75	B-ORG
+l	I-ORG
+
+Finish	O
+Płyn	O
+do	O
+czyszczenia	O
+zmywarki	O
+250	B-ORG
+ml	I-ORG
+
+DUCK	B-PER
+Deep	O
+Action	O
+Gel	O
+Żel	O
+do	O
+czyszczenia	O
+i	O
+dezynfekcji	O
+toalet	O
+-	O
+Fruitopia	O
+
+KUBUŚ	B-PER
+Waterrr	O
+o	O
+smaku	O
+cytryny	O
+
+CISOWIANKA	B-PER
+Perlage	O
+Naturalna	O
+woda	O
+mineralna	O
+musująca	O
+-	O
+szkło	O
+
+Silan	B-PER
+Aromatherapy	O
+Dreamy	O
+Lotus	O
+Płyn	O
+do	O
+zmiękczania	O
+tkanin	O
+1450	B-ORG
+ml	I-ORG
+(58	O
+prań)	O
+
+Glade	B-PER
+by	I-PER
+Brise	I-PER
+One	O
+Touch	O
+Odświeżacz	O
+powietrza	O
+konwalia	O
+-	O
+zapas	O
+3	B-ORG
+x	I-ORG
+10	I-ORG
+ml	I-ORG
+
+Żywiec	O
+Zdrój	O
+Niegazowany	O
+Woda	O
+źródlana	O
+6	B-ORG
+x	I-ORG
+1,5	I-ORG
+l	I-ORG
+
+MAGNESIA	B-PER
+RED	O
+Napój	O
+gazowany	O
+żurawina	O
+
+Coccolino	B-PER
+Creations	O
+Honeysuckle	O
+&	O
+Sandalwood	O
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+koncentrat	O
+1450	B-ORG
+ml	I-ORG
+(58	O
+prań)	O
+
+Hortex	B-PER
+Leon	O
+Napój	O
+wieloowocowy	O
+jabłka	O
+brzoskwinie	O
+pomarańcze	O
+200	B-ORG
+ml	I-ORG
+
+AIR	B-PER
+WICK	I-PER
+Freshmatic	O
+Odświeżacz	O
+powietrza	O
+Księżycowa	O
+Lilia	O
+urządzenie	O
+i	O
+wkład	O
+
+Domestos	B-PER
+Zero	O
+Kamienia	O
+Żel	O
+do	O
+toalet	O
+Blue	O
+750	B-ORG
+ml	I-ORG
+
+CIF	B-PER
+Mleczko	O
+do	O
+czyszczenia	O
+Normal	O
+
+Sidolux	B-PER
+Expert	O
+Środek	O
+do	O
+mycia	O
+paneli	O
+750	B-ORG
+ml	I-ORG
+
+GLADE	B-PER
+Zapas	O
+do	O
+odświeżacza	O
+powietrza	O
+-	O
+Drzewo	O
+Sandałowe	O
+i	O
+Jaśmin	O
+
+Vizir	B-PER
+Color	O
+Płyn	O
+do	O
+prania	O
+do	O
+kolorów	O
+2,2	O
+l,	O
+40	O
+prań	O
+
+Bryza	B-PER
+Lanza	O
+Fresh	O
+Płyn	O
+do	O
+czyszczenia	O
+pralki	O
+250	B-ORG
+ml	I-ORG
+
+AMBI	B-PER
+PUR	I-PER
+Air	O
+Effects	O
+Odświeżacz	O
+powietrza	O
+w	O
+sprayu	O
+
+FROSCH	B-PER
+Mydło	O
+Marsylskie	O
+uniwersalny	O
+środek	O
+czyszczący	O
+
+Frosch	B-PER
+ecological	O
+Malinowy	O
+środek	O
+usuwający	O
+kamień	O
+500	B-ORG
+ml	I-ORG
+
+Muszynianka	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+wysokozmineralizowana	O
+niskonasycona	O
+CO2	O
+1,5	B-ORG
+l	I-ORG
+
+LUDWIK	B-PER
+Płyn	O
+do	O
+mycia	O
+naczyń-	O
+cytrynowy	O
+
+KINLEY	B-PER
+TONIC	O
+Napój	O
+gazowany	O
+
+TYMBARK	B-PER
+Sok	O
+100%	O
+Pomarańcza	O
+PET	O
+
+PERSIL	B-PER
+COLOR	O
+GEL	O
+Żel	O
+do	O
+prania	O
+tkanin	O
+Lavender	O
+Freshness	O
+
+HERBAPOL	B-PER
+Detox	O
+Napój	O
+owocowo-ziołowy	O
+pokrzywa	O
+pigwa	O
+&	O
+zielona	O
+herbata	O
+
+Sidolux	B-PER
+Expert	O
+Środek	O
+do	O
+mycia	O
+drewna	O
+750	B-ORG
+ml	I-ORG
+
+AIR	B-PER
+WICK	I-PER
+PURE	O
+Odświeżacz	O
+powietrza	O
+Kwitnąca	O
+Wiśnia	O
+
+MOLA	B-PER
+Ręcznik	O
+papierowy	O
+Giant	O
+XL,	O
+2	B-ORG
+szt	I-ORG
+
+HORTEX	B-PER
+LEON	O
+Napój	O
+jabłkowo-brzoskwiniowo-pomarańczowy	O
+
+SIDOLUX	B-PER
+Uniwersalny	O
+płyn	O
+do	O
+mycia	O
+-	O
+Mydło	O
+Marsylskie	O
+
+LIPTON	B-PER
+ICE	I-PER
+TEA	I-PER
+Peach	O
+Napój	O
+niegazowany	O
+
+CISOWIANKA	B-PER
+Sport	O
+Naturalna	O
+woda	O
+mineralna	O
+niegazowana	O
+
+TYMBARK	B-PER
+Owoce	O
+świata	O
+Zielony	O
+banan	O
+Napój	O
+wieloowocowy	O
+
+VELVET	B-PER
+Czysta	O
+Biel	O
+Ręcznik	O
+papierowy	O
+2	O
+rolki	O
+
+KUBUŚ	B-PER
+100%	O
+sok	O
+jabłkowy	O
+
+ŻYWIEC	B-PER
+ZDRÓJ	I-PER
+Niegazowany	O
+
+Air	B-PER
+Wick	I-PER
+Wkład	O
+do	O
+elektrycznego	O
+odświeżacza	O
+powietrza	O
+Pierwszy	O
+dzień	O
+wiosny	O
+19	B-ORG
+ml	I-ORG
+
+ARIEL	B-PER
+MOUNTAIN	O
+SPRING	O
+Płyn	O
+do	O
+prania	O
+tkanin	O
+
+ŁOWICZ	B-PER
+Syrop	O
+o	O
+smaku	O
+truskawkowym	O
+
+Fairy	B-PER
+Sensitive	O
+Drzewo	O
+herbaciane	O
+z	O
+miętą	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+450	B-ORG
+ml	I-ORG
+
+CIF	B-PER
+Mleczko	O
+do	O
+czyszczenia	O
+Lemon	O
+
+Pronto	B-PER
+Original	O
+Aerozol	O
+przeciw	O
+kurzowi	O
+300	B-ORG
+ml	I-ORG
+
+Fortuna	B-PER
+WW+	O
+Sok	O
+100%	O
+pomidorowo-warzywny	O
++	O
+żeń-szeń	O
+300	B-ORG
+ml	I-ORG
+
+PERWOLL	B-PER
+Wool	O
+&	O
+Delicates	O
+Płyn	O
+do	O
+prania	O
+wełny	O
+i	O
+tkanin	O
+delikatnych	O
+
+Finish	B-PER
+Classic	O
+Tabletki	O
+do	O
+mycia	O
+naczyń	O
+w	O
+zmywarce	O
+912	B-ORG
+g	I-ORG
+(57	B-ORG
+sztuk)	I-ORG
+
+BIAŁY	B-PER
+JELEŃ	I-PER
+Hipoalergiczny	O
+płyn	O
+do	O
+prania	O
+tkanin	O
+białych	O
+i	O
+kolorowych	O
+
+STAROPOLANKA	B-PER
+2000	O
+Woda	O
+mineralna	O
+wysokozmineralizowana	O
+gazowana	O
+
+Coca-Cola	B-PER
+Napój	O
+gazowany	O
+200	B-ORG
+ml	I-ORG
+
+Kubuś	B-PER
+Sok	O
+mango	O
+banan	O
+jabłko	O
+marchew	O
+900	B-ORG
+ml	I-ORG
+
+Kinley	B-PER
+Virgin	O
+Mojito	O
+Napój	O
+gazowany	O
+500	B-ORG
+ml	I-ORG
+
+CIF	B-PER
+Perfect	O
+Finish	O
+Płyn	O
+do	O
+czyszczenia	O
+piekarnika	O
+i	O
+grilla	O
+-	O
+spray	O
+
+Domestos	B-PER
+Zero	O
+Kamienia	O
+Żel	O
+do	O
+toalet	O
+Pink	O
+750	B-ORG
+ml	I-ORG
+
+Tymbark	B-PER
+Napój	O
+jabłko	O
+mięta	O
+2	B-ORG
+l	I-ORG
+
+AJAX	B-PER
+Floral	O
+Fiesta	O
+Płyn	O
+do	O
+czyszczenia	O
+uniwersalny	O
+Zielony	O
+
+FROSCH	B-PER
+Środek	O
+do	O
+czyszczenia	O
+kuchni	O
+grejpfrutowy	O
+
+TARCZYN	B-PER
+Jabłko	O
+Sok	O
+100%	O
+
+BREF	B-PER
+Power	O
+Aktiv	O
+ProNature	O
+Zawieszka	O
+do	O
+WC	O
+-	O
+Mięta	O
+i	O
+Eukaliptus	O
+2x50g	B-ORG
+
+Botanica	B-PER
+by	I-PER
+Air	I-PER
+Wick	I-PER
+Elektryczny	O
+odświeżacz	O
+powietrza	O
+marokańska	O
+mięta	O
+&	O
+różowy	O
+grejpfrut	O
+19	B-ORG
+ml	I-ORG
+
+Fairy	B-PER
+Sensitive	O
+Aloes	O
+i	O
+jaśmin	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+900	B-ORG
+ml	I-ORG
+
+Silan	B-PER
+Spring	O
+Lavender	O
+Płyn	O
+do	O
+zmiękczania	O
+tkanin	O
+1800	B-ORG
+ml	I-ORG
+(72	O
+prania)	O
+
+Vanish	B-PER
+Gold	O
+Oxi	O
+Action	O
+Carpet	O
+Care	O
+Odplamiacz	O
+do	O
+dywanów	O
+i	O
+tapicerki	O
+w	O
+sprayu	O
+500	B-ORG
+ml	I-ORG
+
+Kubuś	B-PER
+Waterrr	O
+Napój	O
+o	O
+smaku	O
+truskawki	O
+500	B-ORG
+ml	I-ORG
+
+Air	B-PER
+Wick	I-PER
+Wkład	O
+do	O
+elektrycznego	O
+odświeżacza	O
+powietrza	O
+Wędrówka	O
+leśną	O
+ścieżką	O
+19	B-ORG
+ml	I-ORG
+
+Herbapol	B-PER
+Smaki	O
+Słońca	O
+Syrop	O
+o	O
+smaku	O
+coli	O
+420	B-ORG
+ml	I-ORG
+
+Coca-Cola	B-PER
+zero	O
+Napój	O
+gazowany	O
+2	B-ORG
+x	I-ORG
+1,5	I-ORG
+l	I-ORG
+
+KINLEY	B-PER
+Napój	O
+gazowany	O
+o	O
+smaku	O
+Bitter	O
+Rose	O
+
+COCA-COLA	B-PER
+Napój	O
+gazowany	O
+
+Naturalnie	O
+mętny	O
+sok	O
+jabłkowo-gruszkowy	O
+Sady	B-PER
+Wincenta	I-PER
+
+Coccolino	B-PER
+Care	O
+Kapsułki	O
+3w1	O
+do	O
+prania	O
+kolorowych	O
+tkanin	O
+1080	B-ORG
+g	I-ORG
+(40	O
+prań)	O
+
+Hortex	B-PER
+Leon	O
+Sok	O
+jabłko	O
+marchew	O
+banan	O
+1	B-ORG
+l	I-ORG
+
+Fortuna	B-PER
+Napój	O
+antyoksydacja	O
+czarna	O
+porzeczka	O
++	O
+żurawina	O
+1	B-ORG
+l	I-ORG
+
+AIR	B-PER
+WICK	I-PER
+Freshmatic	O
+Odświeżacz	O
+powietrza	O
+Świeżość	O
+letniego	O
+poranka	O
+urządz.	O
+i	O
+wkład	O
+
+BIO	B-PER
+WM	O
+Płyn	O
+do	O
+płukania	O
+750ml	B-ORG
+
+Pronto	B-PER
+Aloe	O
+Vera	O
+Płyn	O
+do	O
+czyszczenia	O
+drewnianych	O
+powierzchni	O
+500	B-ORG
+ml	I-ORG
+
+Cisowianka	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+lekko	O
+gazowana	O
+niskosodowa	O
+500	B-ORG
+ml	I-ORG
+
+Somat	B-PER
+Gold	O
+Tabletki	O
+do	O
+mycia	O
+naczyń	O
+w	O
+zmywarkach	O
+691,2	B-ORG
+g	I-ORG
+(36	B-ORG
+x	I-ORG
+19,2	I-ORG
+g)	I-ORG
+
+Finish	B-PER
+All	O
+in	O
+1	O
+Max	O
+Lemon	O
+Tabletki	O
+do	O
+mycia	O
+naczyń	O
+w	O
+zmywarce	O
+672	B-ORG
+g	I-ORG
+(42	B-ORG
+sztuki)	I-ORG
+
+PERLUX	B-PER
+Kapsułki	O
+piorące	O
+do	O
+tkanin	O
+jasnych	O
+16	B-ORG
+szt	I-ORG
+
+Seventh	B-PER
+Generation	I-PER
+Free	O
+&	O
+Clear	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+500	B-ORG
+ml	I-ORG
+
+Nałęczowianka	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+niegazowana	O
+8	B-ORG
+x	I-ORG
+0,5	I-ORG
+l	I-ORG
+
+SOMAT	B-PER
+All	O
+in	O
+1	O
+EXTRA	O
+Tabletki	O
+do	O
+zmywarki	O
+45	B-ORG
+szt.	I-ORG
+
+Pronto	B-PER
+Classic	O
+Aerozol	O
+do	O
+mebli	O
+drewnianych	O
+300	B-ORG
+ml	I-ORG
+
+Muszynianka	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+wysokozmineralizowana	O
+magnezowo-wapniowa	O
+1,5	B-ORG
+l	I-ORG
+-	O
+x	O
+6	B-ORG
+szt.	I-ORG
+
+Sok	O
+marchwiowo	O
+-	O
+truskawkowo	O
+-	O
+jabłkowy	O
+330ml	B-ORG
+
+PUR	B-PER
+Sekrety	O
+Kucharza	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+-	O
+Lemon	O
+
+COCCOLINO	B-PER
+Care	O
+Żel	O
+do	O
+prania	O
+kolorowych	O
+tkanin	O
+
+HORTEX	B-PER
+LEON	O
+Napój	O
+jabłkowo-truskawkowo-wiśniowy	O
+
+PUR	B-PER
+Sekrety	O
+Kucharza	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+-	O
+Apple	O
+
+Ariel	B-PER
+Lawenda	O
+Płyn	O
+do	O
+prania,	O
+2.2l,	B-ORG
+40	O
+prań	O
+
+HERBAPOL	B-PER
+Syrop	O
+do	O
+mleka	O
+o	O
+smaku	O
+kakaowym	O
+
+COCA-COLA	B-PER
+ZERO	O
+Napój	O
+gazowany	O
+
+AIR	B-PER
+WICK	I-PER
+Botanica	O
+Odświeżacz	O
+powietrza	O
+Karaibski	O
+Wetiwer	O
+&	O
+Drzewo	O
+Sandałowe	O
+
+Muszynianka	B-PER
+plus	O
+Naturalna	O
+woda	O
+mineralna	O
+wysokozmineralizowana	O
+niskonasycona	O
+CO2	O
+0,6	B-ORG
+l	I-ORG
+
+BREF	B-PER
+10xEffect	O
+Power	O
+Gel	O
+Płynny	O
+środek	O
+do	O
+mycia	O
+muszli	O
+WC	O
+maksymalna	O
+ochrona	O
+
+Limmi	B-PER
+100%	O
+sok	O
+z	O
+cytryny	O
+200	B-ORG
+ml	I-ORG
+
+Botanica	B-PER
+by	I-PER
+Air	I-PER
+Wick	I-PER
+Wkład	O
+do	O
+elektrycznego	O
+odświeżacza	O
+marokańska	O
+mięta	O
+&	O
+różowy	O
+grejpfrut	O
+19	B-ORG
+ml	I-ORG
+
+Schweppes	B-PER
+Orange	O
+Napój	O
+gazowany	O
+1,4	B-ORG
+l	I-ORG
+
+DOMESTOS	B-PER
+Przedłużona	O
+Moc	O
+Płyn	O
+czyszcząco-dezynfekujący	O
+Original	O
+
+Perlux	B-PER
+Multicaps	O
+White	O
+Perły	O
+do	O
+prania	O
+552	B-ORG
+g	I-ORG
+(24	O
+prania)	O
+
+Lemoniada	O
+–	O
+napój	O
+gazowany	O
+o	O
+smaku	O
+cytrynowym	O
+Produkt	O
+pasteryzowany	O
+
+Herbapol	B-PER
+Owocowa	O
+Spiżarnia	O
+Syrop	O
+cytryna	O
+420	B-ORG
+ml	I-ORG
+
+Powerade	B-PER
+Mountain	O
+Blast	O
+Napój	O
+izotoniczny	O
+500	B-ORG
+ml	I-ORG
+
+Fairy	B-PER
+Sensitive	O
+Rumianek	O
+z	O
+witaminą	O
+E	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+900	B-ORG
+ml	I-ORG
+
+FROSCH	B-PER
+Cytrynowy	O
+środek	O
+do	O
+czyszczenia	O
+płyt	O
+ceramicznych	O
+i	O
+indykcyjnych	O
+
+KUBUŚ	B-PER
+Play!	O
+Napój	O
+marchewka	O
+pomarańcza	O
+jabłko	O
+limetka	O
+
+COCA-COLA	B-PER
+ZERO	O
+Napój	O
+gazowany	O
+
+Kubuś	B-PER
+Play!	O
+Woda	O
+i	O
+owoce	O
+Napój	O
+owocowy	O
+jabłko	O
+cytryna	O
+400	B-ORG
+ml	I-ORG
+
+TYMBARK	B-PER
+Owoce	O
+świata	O
+Mango	O
+Napój	O
+wieloowocowy	O
+
+WM	B-PER
+ODSWIEZACZ	O
+POWIETRZA	O
+W	O
+ZELOWYCH	O
+KULKACH	O
+ORIENT	O
+250G	O
+
+CAPPY	B-PER
+Sok	O
+pomarańczowy	O
+100%	O
+
+Vizir	B-PER
+Proszek	O
+do	O
+prania	O
+kolorowych	O
+tkanin	O
+2.7	B-ORG
+kg,	I-ORG
+36	O
+prań	O
+
+Cappy	B-PER
+Sok	O
+jabłkowy	O
+100%	O
+1	B-ORG
+l	I-ORG
+
+Ariel	B-PER
+Mountain	O
+Spring	O
+Płyn	O
+do	O
+prania,	O
+2.64l,	B-ORG
+48	O
+prań	O
+
+Hortex	B-PER
+Nektar	O
+czarna	O
+porzeczka	O
+1	B-ORG
+l	I-ORG
+
+ŻYWIEC	B-PER
+ZDRÓJ	I-PER
+Z	O
+nutą	O
+TRUSKAWKI	O
+
+LIPTON	B-PER
+ICE	I-PER
+TEA	I-PER
+Green	O
+Tea	O
+Napój	O
+niegazowany	O
+
+ARIEL	B-PER
+MOUNTAIN	O
+SPRING	O
+Proszek	O
+do	O
+prania	O
+tkanin	O
+białych	O
+
+AIR	B-PER
+WICK	I-PER
+Essential	O
+Oils	O
+Odświeżacz	O
+powietrza	O
+elektryczny	O
+wkład	O
+Księżycowa	O
+Lilia	O
+
+Kubuś	B-PER
+Waterrr	O
+Napój	O
+o	O
+smaku	O
+truskawki	O
+1,5	B-ORG
+l	I-ORG
+
+CIF	B-PER
+MAX	O
+POWER	O
+Mleczko	O
+wybielające	O
+Citrus	O
+Harmony	O
+
+Dettol	B-PER
+Antybakteryjny	O
+spray	O
+do	O
+powierzchni	O
+o	O
+zapachu	O
+limonki	O
+z	O
+miętą	O
+500	B-ORG
+ml	I-ORG
+
+BIAŁY	B-PER
+JELEŃ	I-PER
+Hipoalergiczny	O
+płyn	O
+do	O
+prania	O
+tkanin	O
+kolorych	O
+
+Sok	O
+wieloowocowy,	O
+pasteryzowany.	O
+Wyprodukowany	O
+z	O
+zagęszczonych	O
+soków	O
+i	O
+przecierów	O
+owocowych	O
+częściowo	O
+na	O
+bazie	O
+koncentratów.	O
+*	O
+Z	O
+
+Duck	B-PER
+Extra	O
+Power	O
+Pine	O
+Piana	O
++	O
+Wybielacz	O
+Żel	O
+do	O
+czyszczenia	O
+i	O
+dezynfekcji	O
+toalet	O
+750	B-ORG
+ml	I-ORG
+
+PUR	B-PER
+Sekrety	O
+Świata	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+Figa	O
+i	O
+Granat	O
+
+Clin	B-PER
+Apple	O
+Płyn	O
+do	O
+mycia	O
+powierzchni	O
+szklanych	O
+500	B-ORG
+ml	I-ORG
+
+AIR	B-PER
+WICK	I-PER
+Life	O
+Scents	O
+Odświeżacz	O
+powietrza	O
+elekt.	O
+i	O
+wkład	O
+Deszczowa	O
+Świeżość	O
+Lasów	O
+
+LENOR	B-PER
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+Diamond&Lotus	O
+flower	O
+
+BABY	B-PER
+ZDRÓJ	I-PER
+BOY	O
+Woda	O
+źródlana	O
+niegazowana	O
+
+ŻYWIEC	B-PER
+ZDRÓJ	I-PER
+Mocny	O
+Gaz	O
+I	O
+Nuta	O
+Cytryny	O
+i	O
+Mięty	O
+
+Kubuś	B-PER
+100%	O
+Sok	O
+jabłko	O
+300	B-ORG
+ml	I-ORG
+
+Oshee	B-PER
+Napój	O
+izotoniczny	O
+niegazowany	O
+o	O
+smaku	O
+wieloowocowym	O
+0,75	B-ORG
+l	I-ORG
+
+TYMBARK	B-PER
+Jabłko	O
+mięta	O
+Napój	O
+PET	O
+
+Presto	O
+Ściereczki	O
+nawilżane	O
+do	O
+podłóg	O
+16	B-ORG
+sztuk	I-ORG
+
+Hellena	B-PER
+Oranżada	O
+biała	O
+1,25	B-ORG
+l	I-ORG
+
+Kryniczanka	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+wysokozmineralizowana	O
+niskonasycona	O
+1,5	B-ORG
+l	I-ORG
+
+PUR	B-PER
+Sekrety	O
+Kucharza	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+-	O
+Lemon	O
+
+Fairy	B-PER
+Sensitive	O
+Drzewo	O
+herbaciane	O
+z	O
+miętą	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+900	B-ORG
+ml	I-ORG
+
+Clin	B-PER
+ProNature	O
+Płyn	O
+do	O
+mycia	O
+powierzchni	O
+szklanych	O
+500	B-ORG
+ml	I-ORG
+
+Somat	B-PER
+All	O
+in	O
+1	O
+Extra	O
+Tabletki	O
+do	O
+mycia	O
+naczyń	O
+w	O
+zmywarkach	O
+1274	B-ORG
+g	I-ORG
+(70	B-ORG
+x	I-ORG
+18,2	I-ORG
+g)	I-ORG
+
+SURF	B-PER
+Żel	O
+do	O
+prania	O
+tkanin	O
+ciemnych	O
+i	O
+czarnych	O
+Czarna	O
+orchidea	O
+i	O
+lilia	O
+
+Nektar	O
+brzoskwiniowy	O
+1L	B-ORG
+
+FUZETEA	B-PER
+ZERO	O
+Napój	O
+z	O
+ekstraktem	O
+z	O
+zielonej	O
+herbaty	O
+o	O
+smaku	O
+marakui	O
+
+PERSIL	B-PER
+Duo-Caps	O
+Universal	O
+Kapsułki	O
+żelowe	O
+do	O
+prania	O
+białego	O
+30	B-ORG
+szt.	I-ORG
+
+TYMBARK	B-PER
+H2Owoc	O
+Napój	O
+truskawka	O
+winogrono	O
+jabłko	O
+
+Tymbark	B-PER
+Napój	O
+jabłko	O
+brzoskwinia	O
+250	B-ORG
+ml	I-ORG
+
+Jurajska	B-PER
+Ice	O
+Tea	O
+Napój	O
+niegazowany	O
+o	O
+smaku	O
+cytryny	O
+1,5	B-ORG
+l	I-ORG
+
+LENOR	B-PER
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+Gold	O
+Orchid	O
+
+Duck	B-PER
+Deep	O
+Action	O
+Mint	O
+Żel	O
+do	O
+czyszczenia	O
+i	O
+dezynfekcji	O
+toalet	O
+750	B-ORG
+ml	I-ORG
+
+SAN	B-PER
+PELLEGRINO	I-PER
+Woda	O
+mineralna	O
+naturalnie	O
+gazowana,	O
+PET	O
+
+Fairy	B-PER
+Platinum	O
+Plus	O
+Regular	O
+Tabletki	O
+do	O
+zmywarki,	O
+30	O
+kapsułek	O
+
+BREF	B-PER
+Power	O
+Aktiv	O
+Zawieszka	O
+do	O
+WC	O
+-	O
+Soczysta	O
+cytryna	O
+
+TARCZYN	B-PER
+Sok	O
+pomidorowy	O
+100%	O
+
+COCA-COLA	B-PER
+CHERRY	O
+Napój	O
+gazowany	O
+
+LENOR	B-PER
+Perełki	O
+zapachowe	O
+do	O
+prania	O
+Spring	O
+Awekening	O
+
+BREF	B-PER
+Power	O
+Aktiv	O
+ProNature	O
+Zawieszka	O
+do	O
+WC	O
+-	O
+Grejpfrut	O
+2x50g	B-ORG
+
+BURN	B-PER
+Napój	O
+energetyczny	O
+
+Pysio	B-PER
+Sok	O
+marchew	O
+banan	O
+jabłko	O
+900	B-ORG
+ml	I-ORG
+
+KUBUŚ	B-PER
+marchew	O
+jabłko	O
+pomarańcza	O
+Sok	O
+z	O
+warzyw	O
+i	O
+owoców	O
+
+SURF	B-PER
+Kapsułki	O
+do	O
+prania	O
+kolorowego	O
+i	O
+białego	O
+Hawaii	O
+Dream	O
+30	B-ORG
+szt.	I-ORG
+
+Herbapol	B-PER
+Owocowa	O
+Spiżarnia	O
+Syrop	O
+owocowy	O
+truskawka	O
+420	B-ORG
+ml	I-ORG
+
+Herbapol	B-PER
+Syrop	O
+o	O
+smaku	O
+aroniowym	O
+420	B-ORG
+ml	I-ORG
+
+WOOLITE	B-PER
+Dark	O
+Płyn	O
+do	O
+prania	O
+Ciemne	O
+Kolory	O
+&	O
+Jeans	O
+
+Ambi	O
+Pur	O
+z	O
+zestawem	O
+startowym	O
+do	O
+elektrycznego	O
+odświeżacza	O
+powietrza	O
+Ambi	O
+Pur	O
+Ocean,	B-ORG
+20ml	O
+
+Hortex	B-PER
+Sok	O
+100%	O
+multiwitamina	O
+300	B-ORG
+ml	I-ORG
+
+Lenor	B-PER
+Parfum	O
+Des	O
+Secrets	O
+Blush	O
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+900	B-ORG
+ml	I-ORG
+
+Fortuna	B-PER
+Nektar	O
+grejpfrut	O
+czerwony	O
+1	B-ORG
+l	I-ORG
+
+KUBUŚ	B-PER
+100%	O
+Sok	O
+multiwitamina	O
+
+DUCK	B-PER
+Aqua	O
+Green	O
+4w1	O
+Zawieszka	O
+do	O
+WC	O
+
+KUBUŚ	B-PER
+Waterrr	O
+o	O
+smaku	O
+truskawki	O
+
+FAIRY	B-PER
+Sensitive	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+drzewo	O
+herbaciane	O
+z	O
+miętą	O
+
+Kubuś	B-PER
+Waterrr	O
+Napój	O
+o	O
+smaku	O
+cytryny	O
+1,5	B-ORG
+l	I-ORG
+
+YOPE	B-PER
+Płyn	O
+naturalny	O
+do	O
+podłóg	O
+Zielona	O
+Herbata	O
+
+Red	B-PER
+Bull	I-PER
+Napój	O
+energetyczny	O
+bez	O
+cukru	O
+250	B-ORG
+ml	I-ORG
+
+Perlux	B-PER
+Multicaps	O
+Color	O
+Perły	O
+do	O
+prania	O
+552	B-ORG
+g	I-ORG
+(24	O
+prania)	O
+
+TYMBARK	B-PER
+Sok	O
+100%	O
+Malina	O
+jabłko	O
+wiśnia	O
+winogrono	O
+
+Kubuś	B-PER
+Waterrr	O
+Napój	O
+o	O
+smaku	O
+cytryny	O
+500	B-ORG
+ml	I-ORG
+
+Cappy	B-PER
+Sok	O
+pomarańczowy	O
+100%	O
+1	B-ORG
+l	I-ORG
+
+AIR	B-PER
+WICK	I-PER
+Botanica	O
+Odświeżacz	O
+powietrza	O
+Marokańska	O
+Mięta	O
+&	O
+Różowy	O
+Grejpfrut	O
+
+FAIRY	B-PER
+PLATINUM	O
+All	O
+in	O
+One	O
+Kapsułki	O
+do	O
+zmywarek	O
+Lemon	O
+37	B-ORG
+szt.	I-ORG
+
+Pronto	B-PER
+Original	O
+Płyn	O
+do	O
+drewna	O
+1	B-ORG
+l	I-ORG
+
+PRONTO	B-PER
+Emulsja	O
+do	O
+drewna	O
+
+DOBROWIANKA	B-PER
+Woda	O
+mineralna	O
+niegazowana	O
+
+Glade	B-PER
+Sensual	O
+Sandalwood	O
+&	O
+Jasmine	O
+Odświeżacz	O
+powietrza	O
+w	O
+aerozolu	O
+300	B-ORG
+ml	I-ORG
+
+Baby	B-PER
+Zdrój	I-PER
+niegazowana	O
+woda	O
+źródlana	O
+1,5	B-ORG
+l	I-ORG
+
+Fairy	B-PER
+Clean	O
+&	O
+Fresh	O
+Pomarańcza	O
+z	O
+Trawą	O
+Cytrynową	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+450	O
+ml	O
+
+Staropolanka	B-PER
+800	O
+Naturalna	O
+woda	O
+mineralna	O
+średniozmineralizowana	O
+niegazowana	O
+1,5	B-ORG
+l	I-ORG
+
+SURF	B-PER
+Color	O
+Kapsułki	O
+do	O
+prania	O
+koloru	O
+Tropical	O
+lily	O
+&	O
+Ylang	O
+ylang	O
+30	B-ORG
+szt.	I-ORG
+
+Łowicz	B-PER
+Syrop	O
+o	O
+smaku	O
+truskawkowym	O
+400	B-ORG
+ml	I-ORG
+
+Finish	O
+Sól	O
+do	O
+zmywarki	O
+1,5	B-ORG
+kg	I-ORG
+
+SOMAT	B-PER
+All	O
+in	O
+1	O
+Tabletki	O
+do	O
+zmywarek	O
+Lemon	O
+&	O
+Lime	O
+80	B-ORG
+szt.	I-ORG
+
+Kubuś	B-PER
+100%	O
+Sok	O
+malina	O
+marchew	O
+jabłko	O
+300	B-ORG
+ml	I-ORG
+
+Kostki	B-PER
+do	O
+wc	O
+o	O
+zapachu	O
+morskim	O
+
+Lenor	B-PER
+Unstoppables	O
+Fresh	O
+Wzmacniacz	O
+zapachu	O
+stosowany	O
+podczas	O
+prania	O
+210g	B-ORG
+
+Glade	B-PER
+Touch	O
+&	O
+Fresh	O
+Muguet	O
+Zapas	O
+do	O
+odświeżacza	O
+powietrza	O
+10	B-ORG
+ml	I-ORG
+
+PERSIL	B-PER
+COLOR	O
+GEL	O
+Żel	O
+do	O
+prania	O
+tkanin	O
+kolorowych	O
+
+TIGER	B-PER
+Energy	O
+Drink	O
+Napój	O
+energetyzujący	O
+
+NAŁĘCZOWIANKA	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+niegazowana	O
+
+Bryza	B-PER
+Lanza	O
+Expert	O
+Mix	O
+Color	O
+Proszek	O
+do	O
+prania	O
+kolorowych	O
+tkanin	O
+9,375	B-ORG
+kg	I-ORG
+(125	O
+prań)	O
+
+WOOLITE	B-PER
+Mix	O
+Colors	O
+Płyn	O
+do	O
+prania	O
+tkanin	O
+kolorowych	O
+
+HORTEX	B-PER
+VITAMINKA	O
+Sok	O
+marchwiowo-jabłkowo-bananowy	O
+
+GLADE	B-PER
+Odświeżacz	O
+powietrza	O
+konwalia	O
+
+Hortex	B-PER
+Vitaminka	O
+Sok	O
+malina	O
+marchew	O
+jabłko	O
+1	B-ORG
+l	I-ORG
+
+Kubuś	B-PER
+Play!	O
+Woda	O
+i	O
+owoce	O
+Napój	O
+owocowy	O
+jabłko	O
+malina	O
+400	B-ORG
+ml	I-ORG
+
+SADY	B-PER
+WINCENTA	I-PER
+Sok	O
+jabłko	O
+-	O
+gruszka	O
+w	O
+butelce	O
+tłoczony	O
+
+FAIRY	B-PER
+PLATINUM	O
+Plus	O
+Kapsułki	O
+do	O
+zmywarki	O
+cytrynowe	O
+30szt	B-ORG
+
+Domestos	B-PER
+Przedłużona	O
+Moc	O
+Citrus	O
+Fresh	O
+Płyn	O
+czyszcząco-dezynfekujący	O
+1250	B-ORG
+ml	I-ORG
+
+Fanta	B-PER
+Pomarańczowa	O
+Napój	O
+gazowany	O
+2	B-ORG
+x	I-ORG
+1,5	I-ORG
+l	I-ORG
+
+PRESTO	B-PER
+CLEAN	I-PER
+Ściereczki	O
+czyszczące	O
+do	O
+podłóg	O
+16	B-ORG
+sztuk	I-ORG
+
+E	B-PER
+Żel	O
+do	O
+prania	O
+3,00	B-ORG
+l	I-ORG
+(60	O
+prań)	O
+
+Kret	B-PER
+Żel	O
+do	O
+udrożniania	O
+rur	O
+1	B-ORG
+kg	I-ORG
+
+HERBAPOL	B-PER
+Owocowa	O
+Spiżarnia	O
+Syrop	O
+malinowy	O
+
+SOMAT	B-PER
+Gold	O
+Tabletki	O
+do	O
+mycia	O
+naczyń	O
+w	O
+zmywarkach	O
+Lemon	O
+&	O
+Lime	O
+36	B-ORG
+szt.	I-ORG
+
+ŻYWIEC	B-PER
+ZDRÓJ	I-PER
+Ze	O
+Smakiem	O
+jabłka	O
+
+Ajax	B-PER
+Środek	O
+czyszczący	O
+uniwersalny	O
+750	B-ORG
+ml	I-ORG
+
+Cisowianka	B-PER
+Perlage	O
+Naturalna	O
+woda	O
+mineralna	O
+musująca	O
+niskosodowa	O
+700	B-ORG
+ml	I-ORG
+
+FuzeTea	B-PER
+Napój	O
+o	O
+smaku	O
+cytrynowym	O
+z	O
+ekstraktem	O
+z	O
+zielonej	O
+herbaty	O
+500	B-ORG
+ml	I-ORG
+
+YOPE	B-PER
+Płyn	O
+naturalny	O
+do	O
+mycia	O
+łazienki	O
+Francuska	O
+Lawenda	O
+
+FAIRY	B-PER
+Original	O
+All	O
+In	O
+One	O
+Tabletki	O
+do	O
+zmywania	O
+cytrynowe	O
+44	B-ORG
+szt	I-ORG
+
+CIF	B-PER
+Trigger	O
+Naturals	O
+Spray	O
+do	O
+czyszczenia	O
+łazienki	O
+z	O
+dodatkiem	O
+octu	O
+
+CIF	B-PER
+Płyn	O
+do	O
+czyszczenia	O
+Przeciw	O
+Kamieniowi	O
+-	O
+spray	O
+
+VANISH	B-PER
+Clean&Fresh	O
+Proszek	O
+do	O
+dywanów	O
+
+TYMBARK	B-PER
+Jabłko	O
+mięta	O
+Napój	O
+PET	O
+
+CLIN	B-PER
+Windows&Glass	O
+Płyn	O
+do	O
+mycia	O
+szyb	O
+Apple	O
+z	O
+pompką	O
+
+Mola	B-PER
+Giga	O
+XXL	O
+Ręcznik	O
+papierowy	O
+
+Ajax	B-PER
+Żel	O
+do	O
+łazienek	O
+500	B-ORG
+ml	I-ORG
+
+Hortex	B-PER
+Sok	O
+100%	O
+multiwitamina	O
+300	B-ORG
+ml	I-ORG
+
+PEPSI	B-PER
+Wild	O
+Cherry	O
+Napój	O
+gazowany	O
+
+Lenor	B-PER
+Fresh	O
+Meadow	O
+Płyn	O
+do	O
+płukania	O
+tkanin,	O
+1800ML,	O
+60	O
+prań	O
+
+SIDOLUX	B-PER
+EXPERT	O
+Środek	O
+do	O
+mycia	O
+paneli	O
+
+ARIEL	B-PER
+Allin1	O
+Pods	O
++Active	O
+Odor	O
+Defense	O
+Kapsułki	O
+do	O
+prania	O
+31	B-ORG
+szt.	I-ORG
+
+Hortex	B-PER
+Vitaminka	O
+Sok	O
+malina	O
+marchew	O
+jabłko	O
+1	B-ORG
+l	I-ORG
+
+AIR	B-PER
+WICK	I-PER
+Life	O
+Scents	O
+Odświeżacz	O
+powietrza	O
+elektryczny	O
+wkład	O
+Świeżość	O
+Letniego	O
+Poranka	O
+
+SOMAT	B-PER
+Classic	O
+Tabletki	O
+do	O
+zmywarki	O
+60	B-ORG
+szt.	I-ORG
+
+Cisowianka	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+lekko	O
+gazowana	O
+niskosodowa	O
+6	B-ORG
+x	I-ORG
+1,5	I-ORG
+l	I-ORG
+
+Ludwik	O
+Care	O
+Płyn	O
+do	O
+mycia	O
+drewna	O
+1	B-ORG
+l	I-ORG
+
+AMBI	B-PER
+PUR	I-PER
+Freshelle	O
+Spray	O
+Odświeżacz	O
+powietrza	O
+w	O
+sprayu	O
+Ocean	O
+Mist	O
+
+HORTEX	B-PER
+Napój	O
+pomarańcza-mango	O
+
+Żywiec	B-PER
+Zdrój	O
+Napój	O
+niegazowany	O
+z	O
+nutą	O
+pomarańczy	O
+i	O
+mango	O
+1,5	B-ORG
+l	I-ORG
+
+Tymbark	B-PER
+Napój	O
+jabłko	O
+mięta	O
+1	B-ORG
+l	I-ORG
+
+Lenor	B-PER
+Unstoppables	O
+Dreams	O
+Perełki	O
+zapachowe,	O
+210	O
+g	O
+
+Morning	B-PER
+Fresh	I-PER
+Original	O
+Skoncentrowany	O
+płyn	O
+do	O
+mycia	O
+naczyń	O
+450	B-ORG
+ml	I-ORG
+
+Balsam	O
+do	O
+prania	O
+tkanin	O
+delikatnych	O
+i	O
+wełny	O
+
+Lenor	B-PER
+Spring	O
+Awakening	O
+Perełki	O
+zapachowe	O
+210g	B-ORG
+
+Zawieszka	O
+Wc	O
+lawenda	O
+3x55ml	B-ORG
+
+Bryza	B-PER
+Lanza	O
+Expert	O
+Mix	O
+Color	O
+Proszek	O
+do	O
+prania	O
+6,375	B-ORG
+kg	I-ORG
+(85	O
+prań)	O
+
+SOMAT	B-PER
+Gold	O
+Tabletki	O
+do	O
+zmywarek	O
+Lemon	O
+&	O
+Lime	O
+54	B-ORG
+szt.	I-ORG
+
+Sprite	B-PER
+Napój	O
+gazowany	O
+1,5	B-ORG
+l	I-ORG
+
+COCCOLINO	B-PER
+Care	O
+Żel	O
+do	O
+prania	O
+białych	O
+tkanin	O
+
+FOXY	B-PER
+Tornado	O
+Papierowy	O
+ręcznik	O
+3-warstwowy	O
+
+FROSCH	B-PER
+Octowy	O
+środek	O
+usuwający	O
+Kamień	O
+
+Clin	B-PER
+Vinegar	O
+Płyn	O
+do	O
+czyszczenia	O
+okien	O
+500	B-ORG
+ml	I-ORG
+
+Mr	B-PER
+Muscle	I-PER
+5w1	O
+Płyn	O
+do	O
+szyb	O
+i	O
+innych	O
+powierzchni	O
+500	B-ORG
+ml	I-ORG
+
+DrWitt	B-PER
+Premium	O
+Uroda	O
+Napój	O
+pomarańcza-marchew	O
+1	B-ORG
+l	I-ORG
+
+Herbapol	B-PER
+Syrop	O
+o	O
+smaku	O
+kiwi	O
+420	B-ORG
+ml	I-ORG
+
+Syrop	O
+miętowy	O
+1L	B-ORG
+
+Płyn	O
+uniwersalny	O
+do	O
+mycia	O
+podłóg	O
+
+CIF	B-PER
+Mleczko	O
+do	O
+czyszczenia	O
+Normal	O
+
+Hortex	B-PER
+Napój	O
+jabłko	O
+mięta	O
+500	B-ORG
+ml	I-ORG
+
+Woolite	B-PER
+Czerń	O
+ciemne	O
+kolory	O
+&	O
+jeans	O
+z	O
+keratyną	O
+Płyn	O
+do	O
+prania	O
+4,5	B-ORG
+l	I-ORG
+(75	O
+prań)	O
+
+FAIRY	B-PER
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+Lemon	O
+
+Naturalnie	O
+mętny	O
+sok	O
+jabłkowy	O
+Sady	B-PER
+Wincenta	I-PER
+
+PERRIER	B-PER
+Woda	O
+mineralna	O
+naturalnie	O
+gazowana	O
+
+Tiger	B-PER
+Carbon	O
+Gazowany	O
+napój	O
+energetyzujący	O
+500	B-ORG
+ml	I-ORG
+
+Napój	B-PER
+przecierowy	O
+z	O
+marchwi,	O
+brzoskwiń	O
+i	O
+jabłek.	O
+Wzbogacony	O
+witaminą	O
+c,	O
+słodzony,	O
+pasteryzowany.	O
+
+NAŁĘCZOWIANKA	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+gazowana	O
+
+Air	B-PER
+Wick	O
+Wkład	O
+do	O
+odświeżacza	O
+powietrza	O
+białe	O
+kwiaty	O
+250	B-ORG
+ml	I-ORG
+
+FINISH	B-PER
+POWERBALL	O
+Quantum	O
+MAX	O
+Kapsułki	O
+do	O
+zmywarki	O
+Regular	O
+45	B-ORG
+szt	I-ORG
+
+CIF	B-PER
+Perfect	O
+Finish	O
+Płyn	O
+do	O
+czyszczenia	O
+Przeciw	O
+Kamieniowi	O
+-	O
+spray	O
+
+Monster	B-PER
+Energy	O
+Mango	O
+Loco	O
+Gazowany	O
+napój	O
+energetyczny	O
+500	B-ORG
+ml	I-ORG
+
+Sanytol	B-PER
+Płyn	O
+czyszczący	O
+i	O
+dezynfekujący	O
+do	O
+łazienki	O
+w	O
+sprayu	O
+eukaliptus	O
+500	B-ORG
+ml	I-ORG
+
+Żywiec	B-PER
+Zdrój	I-PER
+Mocny	O
+Gaz	O
+Woda	O
+źródlana	O
+1,5	B-ORG
+l	I-ORG
+
+VANISH	B-PER
+Płyn	O
+do	O
+płukania	O
+białych	O
+firanek	O
+
+AIR	B-PER
+WICK	I-PER
+Freshmatic	O
+Odświeżacz	O
+powietrza	O
+i	O
+wkład	O
+Białe	O
+Kwiaty	O
+
+Kubuś	B-PER
+Sok	O
+mango	O
+banan	O
+jabłko	O
+marchew	O
+900	B-ORG
+ml	I-ORG
+
+ARIEL	B-PER
+Touch	O
+of	O
+LENOR	O
+FRESH	O
+Kapsułki	O
+do	O
+prania	O
+tkanin	O
+33	B-ORG
+szt.	I-ORG
+
+Pronto	B-PER
+Original	O
+Pasta	O
+nabłyszczająca	O
+do	O
+drewna	O
+750	B-ORG
+ml	I-ORG
+
+Bref	B-PER
+WC	O
+Color	O
+Aktiv+	O
+Zawieszka	O
+do	O
+muszli	O
+WC	O
+cytryna	O
+2	B-ORG
+x	I-ORG
+50	I-ORG
+g	I-ORG
+
+Pina	O
+colada	O
+-	O
+napój	O
+bezalkoholowy	O
+na	O
+bazie	O
+zagęszczonego	O
+soku	O
+ananasowego	O
+i	O
+mleczka	O
+kokosowego,	O
+aromatyzowany.	O
+Pasteryzowany.	O
+
+SIDOLUX	B-PER
+Dish	O
+Spa	O
+Strong	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+-	O
+bazylia	O
+i	O
+mięta	O
+
+Coca-Cola	B-PER
+Napój	O
+gazowany	O
+1,5	B-ORG
+l	I-ORG
+
+Fanta	B-PER
+Shokata	O
+Napój	O
+gazowany	O
+500	B-ORG
+ml	I-ORG
+
+Hortex	B-PER
+Napój	O
+pomarańcza	O
+ananas	O
+1,75	B-ORG
+l	I-ORG
+
+Dawtona	B-PER
+Sok	O
+pomidorowy	O
+pikantny	O
+330	B-ORG
+ml	I-ORG
+
+Płyn	O
+do	O
+wc	O
+o	O
+zapachu	O
+lawendowym	O
+
+Sidolux	B-PER
+Expert	O
+Środek	O
+do	O
+mycia	O
+paneli	O
+750	B-ORG
+ml	I-ORG
+
+SILAN	B-PER
+Aromatheraphy	O
+Płyn	O
+do	O
+płukania	O
+Coconut	O
+Water	O
+Scent	O
+&	O
+Minerals	O
+
+KUBUŚ	B-PER
+GO!	O
+Marchew	O
+jabłko	O
+brzoskwinia	O
+Sok	O
+z	O
+warzyw	O
+i	O
+owoców	O
+
+ŻYWIEC	B-PER
+ZDRÓJ	I-PER
+Z	O
+nutą	O
+JABŁKA	O
+
+FROSCH	B-PER
+Uniwersalny	O
+środek	O
+czyszczący	O
+neutralny	O
+
+FORTUNA	B-PER
+Sok	O
+wielowarzywny	O
+100%	O
+
+Calgon	B-PER
+3w1	O
+Proszek	O
+do	O
+pralek	O
+przeciw	O
+osadzaniu	O
+się	O
+kamienia	O
+500	B-ORG
+g	I-ORG
+(20	O
+prań)	O
+
+Powerade	B-PER
+Mountain	O
+Blast	O
+Napój	O
+izotoniczny	O
+500	B-ORG
+ml	I-ORG
+
+Kinga	B-PER
+Pienińska	I-PER
+Naturalna	O
+woda	O
+mineralna	O
+gazowana	O
+niskosodowa	O
+1,5	B-ORG
+l	I-ORG
+
+PERRIER	B-PER
+Woda	O
+mineralna	O
+naturalnie	O
+gazowana,	O
+PET	O
+
+PRONTO	B-PER
+Płyn	O
+do	O
+drewna	O
+Original	O
+
+Pepsi	B-PER
+Wild	O
+Cherry	O
+Napój	O
+gazowany	O
+1,5	B-ORG
+l	I-ORG
+
+Pysio	B-PER
+Napój	O
+banan	O
+brzoskwinia	O
+gruszka	O
+900	B-ORG
+ml	I-ORG
+
+CIF	B-PER
+Mleczko	O
+do	O
+czyszczenia	O
+Lemon	O
+
+FINISH	B-PER
+POWERBALL	O
+Quantum	O
+MAX	O
+Kapsułki	O
+do	O
+zmywania	O
+Regular	O
+36	B-ORG
+szt	I-ORG
+
+Kubuś	B-PER
+100%	O
+Sok	O
+pomarańcza	O
+jabłko	O
+300	B-ORG
+ml	I-ORG
+
+Cif	B-PER
+Cream	O
+Original	O
+z	O
+mikrokryształkami	O
+Mleczko	O
+do	O
+czyszczenia	O
+powierzchni	O
+780	B-ORG
+g	I-ORG
+
+Oshee	B-PER
+for	O
+Runners	O
+Napój	O
+izotoniczny	O
+niegazowany	O
+o	O
+smaku	O
+pomarańczowym	O
+0,75	B-ORG
+l	I-ORG
+
+WM	B-PER
+Odświeżacz	O
+powietrza	O
+leśna	O
+wyprawa	O
+250ml	B-ORG
+
+Hellena	B-PER
+Oranżada	O
+żółta	O
+1,25	B-ORG
+l	I-ORG
+
+CLIN	B-PER
+Windows&Glass	O
+Płyn	O
+do	O
+mycia	O
+szyb	O
+Citrus	O
+-	O
+uzupełnienie	O
+
+MIRINDA	B-PER
+Orange	O
+Napój	O
+gazowany	O
+
+FUZETEA	B-PER
+Napój	O
+o	O
+smaku	O
+cytr.	O
+z	O
+ekstraktem	O
+z	O
+czarnej	O
+herbaty	O
+i	O
+trawy	O
+cytr.	O
+
+Płyn	O
+do	O
+mycia	O
+paneli	O
+750ml	B-ORG
+
+Fairy	B-PER
+Cytryna	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+1,35	B-ORG
+l	I-ORG
+
+Vanish	B-PER
+Oxi	O
+Action	O
+Odplamiacz	O
+do	O
+tkanin	O
+w	O
+płynie	O
+500	B-ORG
+ml	I-ORG
+
+Sprite	B-PER
+Napój	O
+gazowany	O
+850	B-ORG
+ml	I-ORG
+
+Lenor	B-PER
+Summer	O
+Breeze	O
+Płyn	O
+do	O
+płukania	O
+tkanin,	O
+1800ML,	O
+60	O
+prań	O
+
+Coca-Cola	O
+zero	O
+Napój	O
+gazowany	O
+330	B-ORG
+ml	I-ORG
+
+Ace	B-PER
+Colors	O
+Odplamiacz	O
+1	B-ORG
+l	I-ORG
+
+ARIEL	B-PER
+MOUNTAIN	O
+SPRING	O
+Kapsułki	O
+do	O
+prania	O
+14	B-ORG
+szt.	I-ORG
+
+Perlux	B-PER
+Multicaps	O
+Color	O
+Perły	O
+do	O
+prania	O
+552	B-ORG
+g	I-ORG
+(24	O
+prania)	O
+
+Mleczko	O
+do	O
+pielęgnacji	O
+mebli	O
+classic	O
+250ml	B-ORG
+
+ARIEL	B-PER
+MOUNTAIN	O
+SPRING	O
+Płyn	O
+do	O
+prania	O
+tkanin	O
+białych	O
+
+Fairy	B-PER
+Clean	O
+&	O
+Fresh	O
+Jabłko	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+450	O
+ml	O
+
+MOLA	B-PER
+Ręcznik	O
+papierowy	O
+Połysk	O
+
+VANISH	B-PER
+Chusteczki	O
+zapobiegające	O
+zafarbowaniu	O
+ubrań	O
+20	B-ORG
+szt.	I-ORG
+
+Glade	B-PER
+Lavender	O
+Odświeżacz	O
+powietrza	O
+w	O
+aerozolu	O
+300	B-ORG
+ml	I-ORG
+
+AIR	B-PER
+WICK	I-PER
+Odświeżacz	O
+powietrza	O
+wkład	O
+Citrus	O
+
+Proszek	O
+do	O
+prania	O
+tkanin	O
+kolorowych	O
+
+HERBAPOL	B-PER
+na	O
+zimno	O
+Herbata	O
+biała	O
+malina	O
+PET	O
+
+Hellena	B-PER
+Oranżada	O
+czerwona	O
+1,25	B-ORG
+l	I-ORG
+
+FINISH	B-PER
+Quantum	O
+Ultimate	O
+Kapsułki	O
+do	O
+zmywarki	O
+Lemon	O
+cytrynowe	O
+40	B-ORG
+szt	I-ORG
+
+Hortex	B-PER
+Sok	O
+100%	O
+mango	O
+&	O
+jabłko	O
+1	B-ORG
+l	I-ORG
+
+FINISH	B-PER
+Quantum	O
+Ultimate	O
+Tabletki	O
+do	O
+mycia	O
+naczyń	O
+w	O
+zmywarce	O
+32	B-ORG
+szt	I-ORG
+
+Powerade	B-PER
+Lemon	O
+Napój	O
+izotoniczny	O
+500	B-ORG
+ml	I-ORG
+
+Black	B-PER
+Energy	O
+Zero	O
+Sugar	O
+Gazowany	O
+napój	O
+energetyzujący	O
+bez	O
+cukru	O
+250	B-ORG
+ml	I-ORG
+
+Dettol	B-PER
+Antybakteryjne	O
+chusteczki	O
+do	O
+mycia	O
+powierzchni	O
+84	B-ORG
+sztuki	I-ORG
+
+Ajax	B-PER
+Boost	O
+Środek	O
+czyszczący	O
+500	B-ORG
+ml	I-ORG
+
+Cif	B-PER
+Cream	O
+Original	O
+z	O
+mikrokryształkami	O
+Mleczko	O
+do	O
+czyszczenia	O
+powierzchni	O
+780	B-ORG
+g	I-ORG
+
+Domestos	B-PER
+Przedłużona	O
+Moc	O
+Biel	O
+i	O
+połysk	O
+Płyn	O
+czyszcząco-dezynfekujący	O
+750	B-ORG
+ml	I-ORG
+
+FINISH	B-PER
+Powerball	O
+Tabletki	O
+do	O
+zmywarek	O
+0%	O
+Zero	O
+40	B-ORG
+szt.	I-ORG
+
+Bref	B-PER
+WC	O
+Pro	O
+Nature	O
+Grapefruit	O
+Płynny	O
+środek	O
+do	O
+mycia	O
+muszli	O
+WC	O
+700	B-ORG
+ml	I-ORG
+
+Cif	B-PER
+Nature's	O
+Recipe	O
+Spray	O
+do	O
+kuchni	O
+750	B-ORG
+ml	I-ORG
+
+Seventh	B-PER
+Generation	I-PER
+Free	O
+&	O
+Clear	O
+Spray	O
+do	O
+czyszczenia	O
+łazienki	O
+500	B-ORG
+ml	I-ORG
+
+Syrop	O
+pomarańczowy.	O
+
+Somat	B-PER
+Classic	O
+Tabletki	O
+do	O
+mycia	O
+naczyń	O
+w	O
+zmywarkach	O
+1050	B-ORG
+g	I-ORG
+(60	B-ORG
+sztuk)	I-ORG
+
+Domestos	B-PER
+Power	O
+5	O
+Pine	O
+Kostka	O
+toaletowa	O
+55	B-ORG
+g	I-ORG
+
+MORNING	B-PER
+FRESH	I-PER
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+aloe	O
+vera	O
+
+Pysio	B-PER
+Sok	O
+marchew	O
+banan	O
+jabłko	O
+900	B-ORG
+ml	I-ORG
+
+AIR	B-PER
+WICK	I-PER
+Botanica	O
+Spray	O
+odświeżacz	O
+pow.	O
+Egzotycznej	O
+Róży	O
+&	O
+Afrykańskiego	O
+Geranium	O
+
+BIAŁY	B-PER
+JELEŃ	I-PER
+Hipoalergiczny	O
+koncentrat	O
+do	O
+płukania	O
+tkanin	O
+
+Bref	B-PER
+WC	O
+Color	O
+Aktiv+	O
+Zawieszka	O
+do	O
+muszli	O
+WC	O
+morski	O
+2	B-ORG
+x	I-ORG
+50	I-ORG
+g	I-ORG
+
+COCCOLINO	B-PER
+Care	O
+Żel	O
+do	O
+prania	O
+czarnych	O
+i	O
+ciemnych	O
+tkanin	O
+
+ŻYWIEC	B-PER
+ZDRÓJ	I-PER
+Mocny	O
+Gaz	O
+
+TYMBARK	B-PER
+Wiśnia	O
+jabłko	O
+Napój	O
+PET	O
+
+Lenor	B-PER
+Gold	O
+Orchid	O
+Płyn	O
+do	O
+płukania	O
+tkanin,	O
+750ML,	O
+25	O
+prań	O
+
+CAPPY	B-PER
+Sok	O
+pomarańczowy	O
+100%	O
+
+AJAX	B-PER
+Floral	O
+Fiesta	O
+Płyn	O
+do	O
+czyszczenia	O
+Kwiat	O
+Lotosu	O
+
+HERBAPOL	B-PER
+Syrop	O
+do	O
+mleka	O
+o	O
+smaku	O
+truskawkowym	O
+
+Sofin	O
+Fresh	O
+&	O
+Care	O
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+delikatny	O
+3,3	B-ORG
+l	I-ORG
+(66	O
+prań)	O
+
+ARIEL	B-PER
++Complete	O
+Fiber	O
+Protecti	O
+Kapsułki	O
+do	O
+prania	O
+tkanin	O
+kolorowych	O
+24	B-ORG
+szt.	I-ORG
+
+Glade	B-PER
+Touch	O
+&	O
+Fresh	O
+Fresh	O
+Lemon	O
+Zapas	O
+do	O
+odświeżacza	O
+powietrza	O
+10	B-ORG
+ml	I-ORG
+
+CAPPY	B-PER
+Sok	O
+jabłkowy	O
+100%	O
+
+Cappy	B-PER
+Sok	O
+jabłkowy	O
+100%	O
+1	B-ORG
+l	I-ORG
+
+FAIRY	B-PER
+Sensitive	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+aloes	O
+i	O
+jaśmin	O
+
+Nałęczowianka	B-PER
+Sport	O
+Naturalna	O
+woda	O
+mineralna	O
+niegazowana	O
+0,75	B-ORG
+l	I-ORG
+
+VANISH	B-PER
+Oxi	O
+Action	O
+Odplamiacz	O
+do	O
+dywanów	O
+i	O
+tapicerki	O
+-	O
+spray	O
+
+OSHEE	B-PER
+ZERO	O
+Napój	O
+izotoniczny	O
+o	O
+smaku	O
+wieloowocowym	O
+
+SILAN	B-PER
+Sensitive	O
+Płyn	O
+do	O
+zmiękczania	O
+tkanin	O
+
+CLIN	B-PER
+Anty-Para	O
+Płyn	O
+do	O
+mycia	O
+szyb	O
+-	O
+uzupełnienie	O
+
+Bref	B-PER
+WC	O
+Hygienically	O
+Clean	O
+&	O
+Shine	O
+Fresh	O
+Mist	O
+Środek	O
+czyszczący	O
+do	O
+WC	O
+700	B-ORG
+ml	I-ORG
+
+SOMAT	B-PER
+All	O
+in	O
+1	O
+Tabletki	O
+do	O
+zmywarek	O
+Lemon	O
+&	O
+Lime	O
+48	B-ORG
+szt.	I-ORG
+
+Cif	B-PER
+Nature's	O
+Recipe	O
+Spray	O
+do	O
+łazienki	O
+750	B-ORG
+ml	I-ORG
+
+AIR	B-PER
+WICK	I-PER
+Freshmatic	O
+Odświeżacz	O
+powietrza	O
+Orzeźwiająca	O
+Bawełna	O
+-	O
+wkład	O
+
+Rex	B-PER
+Proszek	O
+do	O
+prania	O
+tkanin	O
+białych	O
+amazońska	O
+świeżość	O
+1,5	B-ORG
+kg	I-ORG
+(20	O
+prań)	O
+
+Ambi	O
+Pur	O
+Moonlight	O
+Vanilla	O
+Odświeżacz	O
+powietrza	O
+w	O
+sprayu	O
+300	O
+ml	O
+
+TYMBARK	B-PER
+Pomidor	O
+pikantny	O
+Sok	O
+100%	O
+
+Fairy	B-PER
+Sensitive	O
+Drzewo	O
+herbaciane	O
+z	O
+miętą	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+450	B-ORG
+ml	I-ORG
+
+Pronto	B-PER
+Jasmine	O
+Aerozol	O
+przeciw	O
+kurzowi	O
+300	B-ORG
+ml	I-ORG
+
+Kinga	B-PER
+Pienińska	I-PER
+Naturalna	O
+woda	O
+mineralna	O
+niegazowana	O
+niskosodowa	O
+500	B-ORG
+ml	I-ORG
+
+Ekologiczny	O
+płyn	O
+do	O
+płukania	O
+tkanin	O
+
+Lenor	B-PER
+Parfum	O
+Des	O
+Secrets	O
+Blush	O
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+900	B-ORG
+ml	I-ORG
+
+Cif	B-PER
+Nature's	O
+Recipe	O
+Spray	O
+do	O
+kuchni	O
+750	B-ORG
+ml	I-ORG
+
+WM	B-PER
+Szampon	O
+do	O
+dywanów	O
+500ml	B-ORG
+
+CISOWIANKA	B-PER
+Classique	O
+Naturalna	O
+woda	O
+mineralna	O
+niegazowana	O
+-	O
+szkło	O
+
+SAN	B-PER
+PELLEGRINO	I-PER
+Woda	O
+mineralna	O
+naturalnie	O
+gazowana	O
+-	O
+szklana	O
+butelka	O
+
+TYMBARK	B-PER
+Nektar	O
+Czarna	O
+Porzeczka	O
+PET	O
+
+AIR	B-PER
+WICK	I-PER
+Life	O
+Scents	O
+Wkład	O
+do	O
+odświeżacza	O
+powietrza	O
+Deszczowa	O
+świeżość	O
+lasów	O
+Amazonii	O
+
+CILLIT	B-PER
+BANG	I-PER
+Płyn	O
+do	O
+czyszczenia	O
+toalet	O
+Cytrynowy	O
++	O
+50%	O
+Gratis	O
+
+KUBUŚ	B-PER
+marchew	O
+malina	O
+jabłko	O
+Sok	O
+z	O
+warzyw	O
+i	O
+owoców	O
+
+ARIEL	B-PER
+COLOR	O
+Kapsułki	O
+do	O
+prania	O
+tkanin	O
+kolorowych	O
+26	B-ORG
+szt.	I-ORG
+
+Płyn	O
+do	O
+wc	O
+o	O
+zapachu	O
+morskim	O
+
+NAŁĘCZOWIANKA	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+niegazowana	O
+
+Nałęczowianka	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+niegazowana	O
+6	B-ORG
+x	I-ORG
+1,5	I-ORG
+l	I-ORG
+
+Hortex	B-PER
+Leon	O
+Napój	O
+wieloowocowy	O
+jabłka	O
+truskawki	O
+wiśnie	O
+200	B-ORG
+ml	I-ORG
+
+CISOWIANKA	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+gazowana	O
+
+Ariel	B-PER
+Allin1	O
+Pods	O
+Mountain	O
+Spring	O
+Kapsułki	O
+do	O
+prania,	O
+33	O
+prań	O
+
+Air	B-PER
+Wick	I-PER
+Wkład	O
+do	O
+automatycznego	O
+odświeżacza	O
+powietrza	O
+Magnolia	O
+i	O
+kwiat	O
+wiśni	O
+250	B-ORG
+ml	I-ORG
+
+COCA-COLA	B-PER
+Napój	O
+gazowany	O
+4x330ml	B-ORG
+
+Tymbark	B-PER
+Sok	O
+100%	O
+pomarańcza	O
+1	B-ORG
+l	I-ORG
+
+Lenor	B-PER
+Perfumy	O
+do	O
+prania	O
+z	O
+Gold	O
+Orchid,	O
+210	B-ORG
+g	I-ORG
+
+MILL	O
+clean	O
+ECO	O
+płyn	O
+czyszczący	O
+podłogi	O
+drewno,	O
+panele	O
+
+Ariel	B-PER
+Color	O
+&	O
+Style	O
+Proszek	O
+do	O
+prania	O
+2.7kg	B-ORG
+36	O
+prań	O
+
+ARIEL	B-PER
+Allin1	O
+Pods	O
++Unstoppable	O
+Kapsułki	O
+do	O
+prania	O
+tkanin	O
+24	B-ORG
+szt.	I-ORG
+
+Cif	B-PER
+Power	O
+&	O
+Shine	O
+Spray	O
+czyszczący	O
+łazienka	O
+750	B-ORG
+ml	I-ORG
+
+Air	B-PER
+Wick	I-PER
+Wkład	O
+do	O
+automatycznego	O
+odświeżacza	O
+powietrza	O
+Księżycowa	O
+lilia	O
+otulona	O
+satyną	O
+250	B-ORG
+ml	I-ORG
+
+OBOLON	B-PER
+Kwas	O
+chlebowy	O
+napój	O
+gazowany	O
+bezalkoholowy	O
+
+TYMBARK	B-PER
+H2Owoc	O
+Napój	O
+malina	O
+winogrono	O
+jabłko	O
+borówka	O
+
+Oshee	B-PER
+Napój	O
+izotoniczny	O
+niegazowany	O
+o	O
+smaku	O
+czarnej	O
+porzeczki	O
+0,75	B-ORG
+l	I-ORG
+
+ANDROS	B-PER
+Sok	O
+100%	O
+NFC	O
+z	O
+mandarynek	O
+wyciskanych	O
+
+HERBAPOL	B-PER
+na	O
+zimno	O
+Herbata	O
+zielona	O
+cytryna	O
+&	O
+mięta	O
+
+Presto	B-PER
+Ściereczki	O
+nawilżane	O
+do	O
+powierzchni	O
+kamiennych	O
+16	B-ORG
+sztuk	I-ORG
+
+CISOWIANKA	B-PER
+Naturalna	O
+niegazowana	O
+woda	O
+mineralna	O
+
+TYMBARK	B-PER
+Sok	O
+100%	O
+tłoczony	O
+z	O
+jabłek	O
+Antonówka	O
+
+Fairy	B-PER
+Sensitive	O
+Rumianek	O
+z	O
+witaminą	O
+E	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+1350	O
+ML	O
+
+Odplamiacz	O
+w	O
+proszku	O
+do	O
+koloru	O
+750g	B-ORG
+
+FAIRY	B-PER
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+Cytryna	O
+
+Domestos	B-PER
+Przedłużona	O
+Moc	O
+Original	O
+Płyn	O
+czyszcząco-dezynfekujący	O
+750	B-ORG
+ml	I-ORG
+
+Persil	B-PER
+Malodor	O
+Regular	O
+Żel	O
+do	O
+prania	O
+2,7	B-ORG
+l	I-ORG
+(54	O
+prania)	O
+
+Sidolux	B-PER
+Dish	O
+Spa	O
+Strong	O
+bazylia	O
+i	O
+mięta	O
+Żel	O
+do	O
+mycia	O
+naczyń	O
+500	B-ORG
+ml	I-ORG
+
+Hortex	B-PER
+Sok	O
+100%	O
+jabłko	O
+300	B-ORG
+ml	I-ORG
+
+Andros	B-PER
+100%	O
+Sok	O
+z	O
+mandarynek	O
+wyciskanych	O
+1,5	B-ORG
+l	I-ORG
+
+Napój	O
+gazowany	O
+tonic	O
+jurajski	O
+1,5	B-ORG
+l	I-ORG
+
+VIZIR	B-PER
+SENSITIVE	O
+Proszek	O
+do	O
+prania	O
+tkanin	O
+białych	O
+i	O
+kolorowych	O
+
+Herbapol	B-PER
+na	O
+zimno	O
+Herbata	O
+biała	O
+malina	O
+300	B-ORG
+ml	I-ORG
+
+Fortuna	B-PER
+Sok	O
+100%	O
+pomidor	O
+pikantny	O
+300	B-ORG
+ml	I-ORG
+
+Bref	B-PER
+WC	O
+Power	O
+Aktiv	O
+Zawieszka	O
+myjąco-zapachowa	O
+do	O
+muszli	O
+WC	O
+soczysta	O
+cytryna	O
+2	B-ORG
+x	I-ORG
+50	I-ORG
+g	I-ORG
+
+VIZIR	B-PER
+Proszek	O
+do	O
+prania	O
+kolorowych	O
+tkanin	O
+
+DOMESTOS	B-PER
+Płyn	O
+do	O
+dezynfekcji	O
+Atlantic	O
+Fresh	O
+
+Coccolino	B-PER
+Orange	O
+Rush	O
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+koncentrat	O
+1800	B-ORG
+ml	I-ORG
+(72	O
+prania)	O
+
+Żywiec	B-PER
+Zdrój	O
+Black	O
+Tea	O
+Napój	O
+niegazowany	O
+czarna	O
+herbata	O
+brzoskwinia	O
+pomarańcza	O
+500	B-ORG
+ml	I-ORG
+
+CIF	B-PER
+Perfect	O
+Finish	O
+Płyn	O
+do	O
+czyszczenia	O
+pleśni	O
+-	O
+spray	O
+
+FROSCH	B-PER
+Żel	O
+do	O
+czyszczenia	O
+WC	O
+o	O
+zapachu	O
+cytrynowym	O
+
+Schweppes	B-PER
+Indian	O
+Tonic	O
+Napój	O
+gazowany	O
+0,9	B-ORG
+l	I-ORG
+
+Hortex	B-PER
+Napój	O
+jabłko	O
+wiśnia	O
+1,75	B-ORG
+l	I-ORG
+
+Płyn	O
+do	O
+mycia	O
+szyb	O
+-	O
+zapas	O
+
+Coca-Cola	O
+Napój	O
+gazowany	O
+500	B-ORG
+ml	I-ORG
+
+Tymbark	B-PER
+Nektar	O
+ananas	O
+1	B-ORG
+l	I-ORG
+
+VANISH	B-PER
+Oxi	O
+Action	O
+Odplamiacz	O
+do	O
+tkanin	O
+w	O
+proszku	O
+
+Duck	B-PER
+Deep	O
+Action	O
+Marine	O
+Żel	O
+do	O
+czyszczenia	O
+i	O
+dezynfekcji	O
+toalet	O
+750	B-ORG
+ml	I-ORG
+
+Bref	B-PER
+WC	O
+10xEffect	O
+Power	O
+Gel	O
+Max	O
+White	O
+Płynny	O
+środek	O
+do	O
+mycia	O
+muszli	O
+WC	O
+700	B-ORG
+ml	I-ORG
+
+Bref	B-PER
+WC	O
+Perfume	O
+Switch	O
+Zawieszka	O
+myjąco-zapachowa	O
+do	O
+muszli	O
+WC	O
+brzoskwinia-słodkie	O
+jabłko	O
+2	B-ORG
+x	I-ORG
+50	I-ORG
+g	I-ORG
+
+Kinley	B-PER
+Tonic	O
+Water	O
+Napój	O
+gazowany	O
+1	B-ORG
+l	I-ORG
+
+Sidolux	B-PER
+Crystal	O
+Flower	O
+Płyn	O
+do	O
+mycia	O
+szyb	O
+500	B-ORG
+ml	I-ORG
+
+TIGER	B-PER
+Energy	O
+Drink	O
+ZERO	O
+Gazowany	O
+napój	O
+energetyzujący	O
+
+DUCK	B-PER
+Fresh	O
+Discs	O
+Krążki	O
+żelowe	O
+do	O
+toalety	O
+Lime	O
+-	O
+zapas	O
+2	B-ORG
+szt.	I-ORG
+
+Kinley	B-PER
+Tonic	O
+Water	O
+Napój	O
+gazowany	O
+500	B-ORG
+ml	I-ORG
+
+Nałęczowianka	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+niegazowana	O
+8	B-ORG
+x	I-ORG
+0,5	I-ORG
+l	I-ORG
+
+E	B-PER
+Magiczna	O
+Miękkość	O
+Skoncentrowany	O
+płyn	O
+do	O
+zmiękczania	O
+tkanin	O
+Satynowy	O
+dotyk	O
+
+FAIRY	B-PER
+Sensitive	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+o	O
+zapachu	O
+mięty	O
+i	O
+drzewa	O
+herbacianego	O
+
+E	B-PER
+Duo-Caps	O
+Color	O
+Kapsułki	O
+do	O
+prania	O
+800	B-ORG
+g	I-ORG
+(40	B-ORG
+sztuk)	I-ORG
+
+DUCK	B-PER
+Deep	O
+Action	O
+Marine	O
+Żel	O
+do	O
+czyszczenia	O
+i	O
+dezynfekcji	O
+toalet	O
+
+Fortuna	B-PER
+Karotka	O
+Sok	O
+marchew	O
+banan	O
+jabłko	O
++	O
+witaminy	O
+A	O
+C	O
+E	O
+1	B-ORG
+l	I-ORG
+
+ARIEL	B-PER
+COLOR	O
+Kapsułki	O
+do	O
+prania	O
+tkanin	O
+kolorowych	O
+14	B-ORG
+szt.	I-ORG
+
+Veroni	B-PER
+Active	O
+Isotonic	O
+Napój	O
+izotoniczny	O
+niegazowany	O
+o	O
+smaku	O
+owocowym	O
+700	B-ORG
+ml	I-ORG
+
+Air	B-PER
+Wick	I-PER
+Wkład	O
+do	O
+automatycznego	O
+odświeżacza	O
+powietrza	O
+Świeżość	O
+letniego	O
+poranka	O
+250	B-ORG
+ml	I-ORG
+
+Sidolux	B-PER
+Uniwersalny	O
+Płyn	O
+do	O
+mycia	O
+kwiat	O
+orchidei	O
+1	B-ORG
+l	I-ORG
+
+FINISH	B-PER
+All	O
+in	O
+1	O
+MAX	O
+Tabletki	O
+do	O
+zmywarki	O
+Lemon	O
+cytrynowe	O
+53	B-ORG
+szt	I-ORG
+
+Żywiec	B-PER
+Zdrój	O
+Zdrojek	O
+Niegazowany	O
+Woda	O
+źródlana	O
+310	B-ORG
+ml	I-ORG
+
+Oshee	B-PER
+Vitamin	O
+Energy	O
+Witamina	O
+D+K	O
+Napój	O
+gazowany	O
+o	O
+smaku	O
+mięta	O
+limonka	O
+cytryna	O
+250	B-ORG
+ml	I-ORG
+
+Glade	B-PER
+Touch	O
+&	O
+Fresh	O
+Muguet	O
+Zapas	O
+do	O
+odświeżacza	O
+powietrza	O
+3	B-ORG
+x	I-ORG
+10	I-ORG
+ml	I-ORG
+
+HORTEX	B-PER
+Nektar	O
+wiśniowy	O
+
+Ariel	B-PER
+Allin1	O
+Pods	O
+Touch	O
+of	O
+Lenor	O
+Fresh	O
+Color	O
+Kapsułki	O
+do	O
+prania,	O
+33	O
+prań	O
+
+Clin	B-PER
+Lemon	O
+Płyn	O
+do	O
+mycia	O
+powierzchni	O
+szklanych	O
+opakowanie	O
+uzupełniające	O
+500	B-ORG
+ml	I-ORG
+
+Coccolino	B-PER
+Orange	O
+Rush	O
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+koncentrat	O
+1800	B-ORG
+ml	I-ORG
+(72	O
+prania)	O
+
+KUBUŚ	B-PER
+GO!	O
+Marchew	O
+jabłko	O
+banan	O
+truskawka	O
+Sok	O
+z	O
+warzyw	O
+i	O
+owoców	O
+
+Lenor	B-PER
+Parfum	O
+Des	O
+Secrets	O
+Mystery	O
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+900	B-ORG
+ml	I-ORG
+
+Ace	B-PER
+Ultra	O
+Power	O
+Gel	O
+Lemon	O
+Odtłuszczający	O
+żel	O
+z	O
+wybielaczem	O
+750	B-ORG
+ml	I-ORG
+
+Oshee	B-PER
+Vitamin	O
+Energy	O
+Napój	O
+gazowany	O
+o	O
+smaku	O
+owoców	O
+tropikalnych	O
+250	B-ORG
+ml	I-ORG
+
+COCA-COLA	B-PER
+Energy	O
+Napój	O
+gazowany	O
+energetyzujący	O
+bez	O
+cukru	O
+
+Hortex	B-PER
+Leon	O
+Sok	O
+jabłko	O
+marchew	O
+banan	O
+1	B-ORG
+l	I-ORG
+
+Bref	B-PER
+Płynny	O
+środek	O
+do	O
+czyszczenia	O
+powierzchni	O
+w	O
+łazience	O
+750	B-ORG
+ml	I-ORG
+
+Cillit	B-PER
+Bang	I-PER
+Aktywna	O
+piana	O
+bakterie	O
+i	O
+brud	O
+Środek	O
+czyszczący	O
+600	B-ORG
+ml	I-ORG
+
+Ace	B-PER
+Ultra	O
+Power	O
+Gel	O
+Odtłuszczający	O
+żel	O
+z	O
+wybielaczem	O
+750	B-ORG
+ml	I-ORG
+
+Hortex	B-PER
+Napój	O
+winogrona	O
+1	B-ORG
+l	I-ORG
+
+KUBUŚ	B-PER
+GO!	O
+Marchew	O
+malina	O
+jabłko	O
+Sok	O
+z	O
+warzyw	O
+i	O
+owoców	O
+
+Fairy	B-PER
+Clean	O
+&	O
+Fresh	O
+Granat	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+450	O
+ml	O
+
+Pronto	B-PER
+Original	O
+Płyn	O
+do	O
+paneli	O
+i	O
+płytek	O
+1	B-ORG
+l	I-ORG
+
+Frosch	B-PER
+ecological	O
+Mydło	O
+marsylskie	O
+uniwersalny	O
+środek	O
+czyszczący	O
+1000	B-ORG
+ml	I-ORG
+
+HORTEX	B-PER
+VITAMINKA	O
+Sok	O
+marchwiowo-jabłkowo-truskawkowy	O
+
+Fairy	B-PER
+Cytryna	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+450	B-ORG
+ml	I-ORG
+
+Staropolanka	B-PER
+800	O
+Naturalna	O
+woda	O
+mineralna	O
+średniozmineralizowana	O
+lekko	O
+gazowana	O
+1,5	B-ORG
+l	I-ORG
+
+Perwoll	B-PER
+Renew	O
+&	O
+Repair	O
+Color	O
+&	O
+Fiber	O
+Płynny	O
+środek	O
+do	O
+prania	O
+1,8	B-ORG
+l	I-ORG
+(30	O
+prań)	O
+
+KUBUŚ	B-PER
+Waterrr	O
+o	O
+smaku	O
+jabłka	O
+
+Black	B-PER
+Energy	O
+Mojito	O
+Gazowany	O
+napój	O
+energetyzujący	O
+250	B-ORG
+ml	I-ORG
+
+HORTEX	B-PER
+Napój	O
+jabłko-mięta	O
+
+Bryza	B-PER
+Lanza	O
+Expert	O
+Mix	O
+Color	O
+Proszek	O
+do	O
+prania	O
+6,375	B-ORG
+kg	I-ORG
+(85	O
+prań)	O
+
+PIWNICZANKA	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+lekko	O
+gazowana	O
+
+PYSIO	B-PER
+Sok	O
+marchew,	O
+jabłko,	O
+banan	O
+
+Coccolino	B-PER
+Creations	O
+Tiare	O
+Flower	O
+&	O
+Red	O
+Fruits	O
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+koncentrat	O
+1450	B-ORG
+ml	I-ORG
+(58	O
+prań)	O
+
+Lenor	B-PER
+Emerald	O
+&	O
+Ivory	O
+Flower	O
+Płyn	O
+do	O
+płukania	O
+tkanin,	O
+1420ML,	O
+48	O
+prań	O
+
+Herbapol	B-PER
+Syrop	O
+o	O
+smaku	O
+arbuz	O
+&	O
+mięta	O
+420	B-ORG
+ml	I-ORG
+
+ARIEL	B-PER
+Touch	O
+of	O
+LENOR	O
+FRESH	O
+Kapsułki	O
+do	O
+prania	O
+28	B-ORG
+szt.	I-ORG
+
+Tymbark	B-PER
+Nektar	O
+biały	O
+grejpfrut	O
+1	B-ORG
+l	I-ORG
+
+Ajax	B-PER
+Optimal	O
+7	B-ORG
+Lemon	I-ORG
+Płyn	O
+do	O
+szyb	O
+500	B-ORG
+ml	I-ORG
+
+Płyn	O
+do	O
+wc	O
+o	O
+zapachu	O
+cytrynowym	O
+
+Ajax	B-PER
+Floral	O
+Fiesta	O
+Wiosenny	O
+Bukiet	O
+Płyn	O
+do	O
+szyb	O
+Zapas	O
+750	B-ORG
+ml	I-ORG
+
+ROYAL	B-PER
+APPLE	I-PER
+Sok	O
+jabłkowy	O
+w	O
+kartonie	O
+tłoczony	O
+
+CISOWIANKA	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+lekko	O
+gazowana	O
+
+Presto	B-PER
+Ściereczki	O
+nawilżane	O
+do	O
+toalet	O
+48	B-ORG
+sztuk	I-ORG
+
+MUSZYNIANKA	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+częściowo	O
+odgazowana	O
+
+Hortex	B-PER
+Napój	O
+jabłko	O
+mięta	O
+1	B-ORG
+l	I-ORG
+
+KUBUŚ	B-PER
+Waterrr	O
+o	O
+smaku	O
+truskawki	O
+
+Smaki	B-PER
+Victorii	O
+Sok	O
+marchew-banan-jabłko	O
+250	B-ORG
+ml	I-ORG
+
+Pepsi	B-PER
+Wild	O
+Cherry	O
+Napój	O
+gazowany	O
+0,85	B-ORG
+l	I-ORG
+
+Frosch	B-PER
+ecological	O
+Pomarańczowy	O
+środek	O
+do	O
+czyszczenia	O
+drewna	O
+750	B-ORG
+ml	I-ORG
+
+BRYZA	B-PER
+Proszek	O
+do	O
+prania	O
+tkanin	O
+kolorowych	O
+
+KUBUŚ	B-PER
+Play!	O
+Napój	O
+owocowy	O
+woda	O
+i	O
+owoce	O
+jabłko	O
+malina	O
+
+Hortex	B-PER
+Leon	O
+Napój	O
+wieloowocowy	O
+jabłka	O
+mango	O
+gruszki	O
+200	B-ORG
+ml	I-ORG
+
+COCCOLINO	B-PER
+Płyn	O
+do	O
+płukania	O
+Happy	O
+Yellow	O
+
+Herbapol	B-PER
+Suplement	O
+diety	O
+syrop	O
+do	O
+mleka	O
+truskawka	O
+420	B-ORG
+ml	I-ORG
+
+Kropla	B-PER
+Beskidu	I-PER
+Naturalna	O
+woda	O
+mineralna	O
+niegazowana	O
+1,5	B-ORG
+l	I-ORG
+
+CILLIT	B-PER
+BANG	I-PER
+Żel	O
+do	O
+WC	O
+Kamień	O
+i	O
+Trudne	O
+Zabrudzenia	O
+
+OKF	B-PER
+Aloe	O
+Vera	O
+King	O
+Napój	O
+aloesowy	O
+
+Domestos	B-PER
+Power	O
+5	O
+Ocean	O
+Kostka	O
+toaletowa	O
+2	B-ORG
+x	I-ORG
+55	I-ORG
+g	I-ORG
+
+Clin	B-PER
+Windows	O
+&	O
+Glass	O
+Płyn	O
+do	O
+mycia	O
+okien	O
+750	B-ORG
+ml	I-ORG
+
+Cisowianka	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+niegazowana	O
+niskosodowa	O
+500	B-ORG
+ml	I-ORG
+
+Dawtona	B-PER
+Sok	O
+pomidorowy	O
+z	O
+selerem	O
+naciowym	O
+330	B-ORG
+ml	I-ORG
+
+Kropla	B-PER
+Beskidu	I-PER
+Naturalna	O
+woda	O
+mineralna	O
+gazowana	O
+500	B-ORG
+ml	I-ORG
+
+Żywiec	O
+Zdrój	O
+Mocny	O
+Gaz	O
+Woda	O
+źródlana	O
+6	B-ORG
+x	I-ORG
+1,5	I-ORG
+l	I-ORG
+
+Velvet	B-PER
+Extra	O
+Long	O
+Decor	O
+Ręcznik	O
+papierowy	O
+3	O
+rolki	O
+
+KUBUŚ	B-PER
+Play!	O
+Napój	O
+marchewka	O
+truskawka	O
+jabłko	O
+limetka	O
+
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+o	O
+zapachu	O
+cytrynowym	O
+
+Ariel	B-PER
+Allin1	O
+Pods	O
+Mountain	O
+Spring	O
+Kapsułki	O
+do	O
+prania,	O
+26	O
+prań	O
+
+LUDWIK	B-PER
+Uniwersalny	O
+płyn	O
+do	O
+mycia	O
+-	O
+Mydło	O
+Marsylskie	O
+
+Uzdrowisko	B-PER
+Wysowa	I-PER
+Henryk	O
+Lecznicza	O
+woda	O
+mineralna	O
+500	B-ORG
+ml	I-ORG
+
+Woolite	B-PER
+Płyn	O
+do	O
+prania	O
+delikatne	O
+tkaniny	O
+i	O
+wełna	O
+3,6	B-ORG
+l	I-ORG
+60	O
+prań	O
+
+Kubuś	B-PER
+Play!	O
+Napój	O
+z	O
+marchwi	O
+i	O
+owoców	O
+marchew	O
+czereśnia	O
+jabłko	O
+limetka	O
+400	B-ORG
+ml	I-ORG
+
+Coca-Cola	B-PER
+Napój	O
+gazowany	O
+330	B-ORG
+ml	I-ORG
+
+TYMBARK	B-PER
+Owoce	O
+świata	O
+Żurawina	O
+Napój	O
+wieloowocowy	O
+
+HELLENA	B-PER
+Oranżada	O
+czerwona	O
+
+TYMBARK	B-PER
+Nektar	O
+Czarna	O
+porzeczka	O
+
+BREF	B-PER
+10xEffect	O
+Power	O
+Gel	O
+Płynny	O
+środek	O
+do	O
+mycia	O
+muszli	O
+WC	O
+maksymalna	O
+biel	O
+
+LENOR	B-PER
+DeepSea	O
+Minerals	O
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+
+LOVELA	B-PER
+Odplamiacz	O
+do	O
+ubranek	O
+niemowlęcych	O
+i	O
+dziecięcych	O
+
+PRONTO	B-PER
+Aerozol	O
+do	O
+mebli	O
+drewnianych	O
+Lavender	O
+
+Persil	B-PER
+Color	O
+Proszek	O
+do	O
+prania	O
+3,51	B-ORG
+kg	I-ORG
+(54	O
+prania)	O
+
+Domestos	B-PER
+Przedłużona	O
+Moc	O
+Biel	O
+i	O
+połysk	O
+Płyn	O
+czyszcząco-dezynfekujący	O
+1250	B-ORG
+ml	I-ORG
+
+Coccolino	B-PER
+Care	O
+Kapsułki	O
+3w1	O
+do	O
+prania	O
+kolorowych	O
+tkanin	O
+783	B-ORG
+g	I-ORG
+(29	O
+prań)	O
+
+FINISH	B-PER
+Odświeżacz	O
+Deo	O
+do	O
+zmywarek	O
+scent	O
+control	O
+Cytryna	O
+i	O
+Limonka	O
+
+Coccolino	B-PER
+Happy	O
+Yellow	O
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+koncentrat	O
+1800	B-ORG
+ml	I-ORG
+(72	O
+prania)	O
+
+VIZIR	B-PER
+SENSITIVE	O
+Proszek	O
+do	O
+prania	O
+białych	O
+i	O
+kolorowych	O
+tkanin	O
+
+Wielka	B-PER
+Pieniawa	I-PER
+Woda	O
+1,5	B-ORG
+l	I-ORG
+
+Ludwik	B-PER
+All	O
+in	O
+one	O
+Ekologiczne	O
+tabletki	O
+do	O
+zmywarek	O
+1,62	B-ORG
+kg	I-ORG
+(90	B-ORG
+sztuk)	I-ORG
+
+Napój	O
+z	O
+sokiem	O
+cytrynowym	O
+i	O
+miąższem	O
+cytrynowym.	O
+Pasteryzowany	O
+metodą	O
+flash.	O
+
+Tymbark	B-PER
+H2Owoc	O
+Napój	O
+malina	O
+winogrono	O
+jabłko	O
+borówka	O
+400	B-ORG
+ml	I-ORG
+
+Pepsi	B-PER
+Lime	O
+Napój	O
+gazowany	O
+0,85	B-ORG
+l	I-ORG
+
+Herbapol	B-PER
+Syrop	O
+o	O
+smaku	O
+pomarańcza	O
+420	B-ORG
+ml	I-ORG
+
+WOOLITE	B-PER
+Płyn	O
+do	O
+prania	O
+tkanin	O
+białych	O
+i	O
+jasnych	O
+kolorów	O
+
+Ariel	B-PER
+Baby	O
+Płyn	O
+do	O
+prania,	O
+2.2l,	B-ORG
+40	O
+prań	O
+
+Cillit	B-PER
+Bang	I-PER
+Czystość	O
+i	O
+połysk	O
+w	O
+łazience	O
+Spray	O
+750	B-ORG
+ml	I-ORG
+
+Surf	B-PER
+Color	O
+Tropical	O
+Lily	O
+&	O
+Ylang	O
+Ylang	O
+Kapsułki	O
+do	O
+prania	O
+723	B-ORG
+g	I-ORG
+(30	O
+prań)	O
+
+Ace	B-PER
+Płyn	O
+wybielający	O
+1	B-ORG
+l	I-ORG
+
+Ace	B-PER
+Płyn	O
+wybielający	O
+1	B-ORG
+l	I-ORG
+
+VIZIR	B-PER
+TOUCH	O
+OF	O
+LENOR	O
+Kapsułki	O
+do	O
+prania	O
+tkanin	O
+kolorowych	O
+36	B-ORG
+szt.	I-ORG
+
+GLADE	B-PER
+Odświeżacz	O
+powietrza	O
+w	O
+aerozolu	O
+Drzewo	O
+sandałowe	O
+i	O
+jaśmin	O
+
+Staropolanka	B-PER
+Kids	O
+Woda	O
+źródlana	O
+niegazowana	O
+330	B-ORG
+ml	I-ORG
+
+Coccolino	B-PER
+Blue	O
+Splash	O
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+koncentrat	O
+1800	B-ORG
+ml	I-ORG
+(72	O
+prania)	O
+
+TYMBARK	B-PER
+Sok	O
+100%	O
+Jabłko	O
+PET	O
+
+Air	B-PER
+Wick	I-PER
+Wkład	O
+do	O
+elektrycznego	O
+odświeżacza	O
+powietrza	O
+Pierwszy	O
+dzień	O
+wiosny	O
+19	B-ORG
+ml	I-ORG
+
+Coccolino	B-PER
+Care	O
+Żel	O
+do	O
+prania	O
+kolorowych	O
+tkanin	O
+1,8	B-ORG
+l	I-ORG
+(45	O
+prań)	O
+
+COCA-COLA	B-PER
+LIME	O
+Napój	O
+gazowany	O
+
+KINGA	B-PER
+PIENIŃSKA	I-PER
+Naturalna	O
+woda	O
+mineralna	O
+niegazowana	O
+niskosodowa	O
+
+PERSIL	B-PER
+POWER	O
+GEL	O
+Żel	O
+do	O
+prania	O
+tkanin	O
+białych	O
+
+FAIRY	B-PER
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+Cytryna	O
+
+FROSCH	B-PER
+Malinowy	O
+płyn	O
+do	O
+WC	O
+
+PERWOLL	B-PER
+Brilliant	O
+Color	O
+Płyn	O
+do	O
+prania	O
+tkanin	O
+kolorowych	O
+
+Fortuna	B-PER
+Karotka	O
+Sok	O
+marchew	O
+banan	O
+jabłko	O
++	O
+witaminy	O
+A	O
+C	O
+E	O
+1	B-ORG
+l	I-ORG
+
+Veroni	B-PER
+Active	O
+Isotonic	O
+Napój	O
+izotoniczny	O
+niegazowany	O
+o	O
+smaku	O
+owocowym	O
+700	B-ORG
+ml	I-ORG
+
+Lenor	B-PER
+Summer	O
+Breeze	O
+Płyn	O
+do	O
+płukania	O
+tkanin,	O
+930ML,	O
+31	O
+prań	O
+
+Biały	B-PER
+Jeleń	I-PER
+Hipoalergiczny	O
+żel	O
+do	O
+mycia	O
+naczyń	O
+500	B-ORG
+ml	I-ORG
+
+PEPSI	B-PER
+Mango	O
+Napój	O
+gazowany	O
+
+Cisowianka	B-PER
+Perlage	O
+Naturalna	O
+woda	O
+mineralna	O
+musująca	O
+niskosodowa	O
+330	B-ORG
+ml	I-ORG
+
+Proszek	O
+do	O
+prania	O
+tkanin	O
+białych	O
+
+FANTA	B-PER
+Shokata	O
+Napój	O
+gazowany	O
+
+AJAX	B-PER
+Optimal	O
+7	O
+Płyn	O
+czyszczący	O
+migdał	O
+
+Tymbark	B-PER
+Napój	O
+jabłko	O
+mięta	O
+250	B-ORG
+ml	I-ORG
+
+TYMBARK	B-PER
+Pomarańcza	O
+brzoskwinia	O
+Napój	O
+PET	O
+
+Coccolino	B-PER
+Creations	O
+Tuberose	O
+&	O
+Vanilla	O
+Flower	O
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+koncentrat	O
+1450	B-ORG
+ml	I-ORG
+(58	O
+prań)	O
+
+KUBUŚ	B-PER
+Waterrr	O
+o	O
+smaku	O
+maliny	O
+
+Lenor	B-PER
+Diamond	O
+&	O
+Lotus	O
+Flower	O
+Płyn	O
+do	O
+płukania	O
+tkanin,	O
+1420ML,	O
+48	O
+prań	O
+
+PEPSI	B-PER
+Lime	O
+Napój	O
+gazowany	O
+
+RED	B-PER
+BULL	I-PER
+Sugar	O
+Free	O
+Napój	O
+energetyczny	O
+bez	O
+cukru	O
+
+Cif	B-PER
+Power	O
+&	O
+Shine	O
+Spray	O
+czyszczący	O
+łazienka	O
+750	B-ORG
+ml	I-ORG
+
+Fairy	B-PER
+Sensitive	O
+Drzewo	O
+herbaciane	O
+z	O
+miętą	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+1350	O
+ML	O
+
+Kinley	B-PER
+Virgin	O
+Mojito	O
+Napój	O
+gazowany	O
+1	B-ORG
+l	I-ORG
+
+Ariel	B-PER
+Allin1	O
+Pods	O
++Complete	O
+Fiber	O
+Protection	O
+Kapsułki	O
+do	O
+prania,	O
+31	O
+prań	O
+
+Finish	B-PER
+Quantum	O
+Ultimate	O
+Lemon	O
+Tabletki	O
+do	O
+mycia	O
+naczyń	O
+w	O
+zmywarce	O
+400	B-ORG
+g	I-ORG
+(32	B-ORG
+sztuki)	I-ORG
+
+Tymbark	B-PER
+Napój	O
+jabłko	O
+brzoskwinia	O
+1	B-ORG
+l	I-ORG
+
+ARIEL	B-PER
+COLOR&STYLE	O
+Proszek	O
+do	O
+prania	O
+tkanin	O
+kolorowych	O
+
+Dawtona	B-PER
+Sok	O
+pomidorowy	O
+z	O
+imbirem	O
+330	B-ORG
+ml	I-ORG
+
+Coca-Cola	B-PER
+zero	O
+Napój	O
+gazowany	O
+1,5	B-ORG
+l	I-ORG
+
+Vanish	B-PER
+Gold	O
+Carpet	O
+Care	O
+Czyszczenie	O
+ręczne	O
+świeżość	O
+bryzy	O
+Szampon	O
+do	O
+dywanów	O
+500	B-ORG
+ml	I-ORG
+
+BREF	B-PER
+PRO	O
+NATURE	O
+Płynny	O
+środek	O
+myjący	O
+do	O
+muszli	O
+WC	O
+-	O
+grapefruit	O
+
+Hortex	B-PER
+Napój	O
+pomarańcza	O
+brzoskwinia	O
+1	B-ORG
+l	I-ORG
+
+Nałęczowianka	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+delikatnie	O
+gazowana	O
+8	B-ORG
+x	I-ORG
+0,5	I-ORG
+l	I-ORG
+
+FUZETEA	B-PER
+ZERO	O
+Napój	O
+o	O
+smaku	O
+brzoskwini	O
+i	O
+róży	O
+z	O
+ekstraktem	O
+z	O
+czarnej	O
+herbaty	O
+
+Fortuna	B-PER
+Sok	O
+100%	O
+pomarańcza	O
+1	B-ORG
+l	I-ORG
+
+WOOLITE	B-PER
+Black	O
+Darks	O
+Denim	O
+Kapsułki	O
+do	O
+prania	O
+28	B-ORG
+szt.	I-ORG
+
+Fortuna	B-PER
+Trawienie	O
+Pomidor	O
+z	O
+chili	O
+Sok	O
+100%	O
+1	B-ORG
+l	I-ORG
+
+WM	B-PER
+ODSWIEZACZ	O
+POWIETRZA	O
+W	O
+ZELOWYCH	O
+KULKACH	O
+FRUITS	O
+250G	O
+
+REGINA	B-PER
+Ręcznik	O
+kuchenny	O
+Najdłuższe	O
+rolki	O
+2	B-ORG
+szt.	I-ORG
+
+Coca-Cola	B-PER
+Napój	O
+gazowany	O
+1,5	B-ORG
+l	I-ORG
+
+Fortuna	B-PER
+Sok	O
+100%	O
+pomidorowo	O
+warzywny	O
+1	B-ORG
+l	I-ORG
+
+BRYZA	B-PER
+Proszek	O
+do	O
+prania	O
+tkanin	O
+białych	O
+
+Mola	B-PER
+Complex	O
+3w1	O
+Ręcznik	O
+papierowy	O
+
+Herbapol	B-PER
+Detox	O
+Napój	O
+owocowo-ziołowy	O
+pokrzywa	O
+pigwa	O
+&	O
+zielona	O
+herbata	O
+300	B-ORG
+ml	I-ORG
+
+MONSTER	B-PER
+Energy	O
+Napój	O
+energentyzujący	O
+gazowany	O
+
+Biały	B-PER
+Jeleń	I-PER
+Hipoalergiczny	O
+koncentrat	O
+do	O
+płukania	O
+1	B-ORG
+l	I-ORG
+
+Perwoll	B-PER
+Care	O
+&	O
+Condition	O
+Płynny	O
+środek	O
+do	O
+prania	O
+2,7	B-ORG
+l	I-ORG
+(45	O
+prań)	O
+
+Nałęczowianka	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+niegazowana	O
+0,33	B-ORG
+l	I-ORG
+
+Cisowianka	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+lekko	O
+gazowana	O
+niskosodowa	O
+1,5	B-ORG
+l	I-ORG
+
+Kinga	B-PER
+Pienińska	I-PER
+Naturalna	O
+woda	O
+mineralna	O
+gazowana	O
+niskosodowa	O
+1,5	B-ORG
+l	I-ORG
+
+Hortex	B-PER
+Sok	O
+100%	O
+mango	O
+&	O
+pomarańcza	O
+1	B-ORG
+l	I-ORG
+
+Kubuś	B-PER
+Sok	O
+marchew	O
+brzoskwinia	O
+jabłko	O
+900	B-ORG
+ml	I-ORG
+
+Sprite	B-PER
+Napój	O
+gazowany	O
+850	B-ORG
+ml	I-ORG
+
+Frosch	B-PER
+ecological	O
+Lawendowy	O
+środek	O
+czyszczący	O
+do	O
+łazienki	O
+500	B-ORG
+ml	I-ORG
+
+Persil	B-PER
+Power	O
+Żel	O
+do	O
+prania	O
+2,50	B-ORG
+l	I-ORG
+(50	O
+prań)	O
+
+Finish	B-PER
+Płyn	O
+nabłyszczający	O
+cytrynowy	O
+800	B-ORG
+ml	I-ORG
+
+ŻYWIEC	B-PER
+ZDRÓJ	I-PER
+Niegazowany	O
+
+TYMBARK	B-PER
+Jabłko	O
+Gruszka	O
+Napój	O
+owocowy	O
+
+LENOR	B-PER
+Summer	O
+Breeze	O
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+koncentrat	O
+
+TYMBARK	B-PER
+VITAMINI	O
+Sok	O
+brzoskwinia	O
+marchew	O
+jabłko	O
+PET	O
+
+FINISH	B-PER
+Płyn	O
+nabłyszczający	O
+Nabłyszczacz	O
+do	O
+zmywarek	O
+Regular	O
+
+Hortex	B-PER
+Vitaminka	O
+Sok	O
+banan	O
+marchew	O
+jabłko	O
+300	B-ORG
+ml	I-ORG
+
+Odświeżacz	O
+powietrza	O
+w	O
+żelowych	O
+kulkach	O
+fruits	O
+250g	B-ORG
+
+Hortex	B-PER
+Sok	O
+100%	O
+multiwitamina	O
+1	B-ORG
+l	I-ORG
+
+WOOLITE	B-PER
+Delicate	O
+Płyn	O
+do	O
+prania	O
+do	O
+delikatnych	O
+tkanin	O
+i	O
+wełny	O
+
+Żywiec	O
+Zdrój	O
+Niegazowany	O
+Woda	O
+źródlana	O
+12	B-ORG
+x	I-ORG
+0,5	I-ORG
+l	I-ORG
+
+BREF	B-PER
+Power	O
+Aktiv	O
+Zawieszka	O
+do	O
+WC	O
+-	O
+Morska	O
+bryza	O
+
+PERWOLL	B-PER
+renew	O
+Advanced	O
+Effect	O
+Płyn	O
+do	O
+prania	O
+tkanin	O
+białych	O
+
+Jurajska	B-PER
+Napój	O
+niegazowany	O
+z	O
+poziomkowym	O
+smakiem	O
+1,5	B-ORG
+l	I-ORG
+
+FINISH	B-PER
+Classic	O
+Tabletki	O
+do	O
+zmywarki	O
+Lemon	O
+cytrynowe	O
+77	B-ORG
+szt	I-ORG
+
+FORTUNA	B-PER
+Sok	O
+pomidorowy	O
+Tabasco	O
+100%	O
+
+Ajax	B-PER
+Środek	O
+czyszczący	O
+uniwersalny	O
+750	B-ORG
+ml	I-ORG
+
+PEPSI	B-PER
+Lime	O
+Napój	O
+gazowany	O
+
+LENOR	B-PER
+Silk	O
+Tree	O
+Blossom	O
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+
+Herbapol	B-PER
+Detox	O
+Napój	O
+owocowo-ziołowy	O
+pokrzywa	O
+pigwa	O
+&	O
+zielona	O
+herbata	O
+300	B-ORG
+ml	I-ORG
+
+Seventh	B-PER
+Generation	I-PER
+Pine	O
+&	O
+Sage	O
+Płyn	O
+do	O
+czyszczenia	O
+toalet	O
+500	B-ORG
+ml	I-ORG
+
+HORTEX	B-PER
+Sok	O
+pomarańczowy	O
+100%	O
+
+Płyn	O
+do	O
+mycia	O
+szyb	O
+zapas	O
+1L	B-ORG
+
+Domestos	B-PER
+Przedłużona	O
+Moc	O
+Biel	O
+i	O
+połysk	O
+Płyn	O
+czyszcząco-dezynfekujący	O
+1250	B-ORG
+ml	I-ORG
+
+Fortuna	B-PER
+Karotka	O
+Sok	O
+marchew	O
+brzoskwinia	O
+jabłko	O
++	O
+witaminy	O
+A	O
+C	O
+E	O
+1	B-ORG
+l	I-ORG
+
+Kinga	B-PER
+Pienińska	I-PER
+Naturalna	O
+woda	O
+mineralna	O
+niskosodowa	O
+500	B-ORG
+ml	I-ORG
+
+Somat	B-PER
+All	O
+in	O
+1	B-ORG
+Lemon	I-ORG
+&	O
+Lime	O
+Tabletki	O
+do	O
+mycia	O
+naczyń	O
+w	O
+zmywarkach	O
+864	B-ORG
+g	I-ORG
+(48	B-ORG
+sztuk)	I-ORG
+
+Coccolino	B-PER
+Creations	O
+Purple	O
+Orchid	O
+&	O
+Blueberries	O
+Płyn	O
+do	O
+płukania	O
+koncentrat	O
+1450	B-ORG
+ml	I-ORG
+(58	O
+prań)	O
+
+Velvet	B-PER
+Excellence	O
+Ręcznik	O
+papierowy	O
+chłonne	O
+gąbki	O
+2	O
+rolki	O
+
+Staropolanka	B-PER
+800	O
+Naturalna	O
+woda	O
+mineralna	O
+średniozmineralizowana	O
+gazowana	O
+500	B-ORG
+ml	I-ORG
+
+Vanish	B-PER
+Płyn	O
+do	O
+płukania	O
+białych	O
+firanek	O
+125	B-ORG
+ml	I-ORG
+
+Fanta	B-PER
+Pomarańczowa	O
+Napój	O
+gazowany	O
+330	B-ORG
+ml	I-ORG
+
+Żywiec	B-PER
+Zdrój	O
+Zero	O
+Cukru	O
+Napój	O
+niegazowany	O
+z	O
+nutą	O
+arbuza	O
+1,5	B-ORG
+l	I-ORG
+
+ARIEL	B-PER
+Allin1	O
+Pods	O
++Active	O
+Odor	O
+Defense	O
+Kapsułki	O
+do	O
+prania	O
+tkanin	O
+24	B-ORG
+szt.	I-ORG
+
+KINLEY	B-PER
+Napój	O
+gazowany	O
+o	O
+smaku	O
+Bitter	O
+Rose	O
+
+Cisowianka	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+gazowana	O
+niskosodowa	O
+1,5	B-ORG
+l	I-ORG
+
+SCHWEPPES	B-PER
+Tonic	O
+Napój	O
+gazowany	O
+
+BREF	B-PER
+Power	O
+Aktiv	O
+Zawieszka	O
+do	O
+WC	O
+-	O
+Morska	O
+bryza	O
+3x50g	B-ORG
+
+COCA-COLA	B-PER
+Napój	O
+gazowany	O
+
+SAN	B-PER
+PELLEGRINO	I-PER
+Woda	O
+mineralna	O
+naturalnie	O
+gazowana,	O
+PET	O
+
+Cappy	B-PER
+Nektar	O
+z	O
+czarnych	O
+porzeczek	O
+1	B-ORG
+l	I-ORG
+
+Kubuś	B-PER
+Go!	O
+Sok	O
+marchew	O
+malina	O
+jabłko	O
+300	B-ORG
+ml	I-ORG
+
+Nestea	B-PER
+Napój	O
+herbaciany	O
+o	O
+smaku	O
+cytrynowym	O
+1,5	B-ORG
+l	I-ORG
+
+DOMESTOS	B-PER
+Power	O
+5	O
+Kostka	O
+toaletowa	O
+Pine	O
+
+Perwoll	B-PER
+Renew	O
+&	O
+Blossom	O
+Płynny	O
+środek	O
+do	O
+prania	O
+900	B-ORG
+ml	I-ORG
+(15	O
+prań)	O
+
+Pronto	B-PER
+Lavender	O
+Aerozol	O
+do	O
+mebli	O
+drewnianych	O
+300	B-ORG
+ml	I-ORG
+
+Nestlé	B-PER
+Pure	O
+Life	O
+Woda	O
+źródlana	O
+gazowana	O
+1,5	B-ORG
+l	I-ORG
+
+Kinley	B-PER
+Virgin	O
+Mojito	O
+Napój	O
+gazowany	O
+500	B-ORG
+ml	I-ORG
+
+Royal	B-PER
+apple	I-PER
+Sok	O
+jabłkowo-aroniowy	O
+3	B-ORG
+l	I-ORG
+
+Herbapol	B-PER
+Owocowa	O
+Spiżarnia	O
+Syrop	O
+owocowy	O
+wiśnia	O
+420	B-ORG
+ml	I-ORG
+
+FORTUNA	B-PER
+Sok	O
+100%	O
+pomidorowo	O
+warzywny	O
+
+FROSCH	B-PER
+Tabletki	O
+do	O
+zmywarek	O
+30	B-ORG
+szt	I-ORG
+
+CISOWIANKA	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+lekko	O
+gazowana	O
+
+Sidolux	B-PER
+do	O
+nagrobków	O
+Mleczko	O
+do	O
+czyszczenia	O
+330	B-ORG
+g	I-ORG
+
+Ręcznik	O
+papierowy	O
+3	O
+warstwy,	O
+100	B-ORG
+listków	I-ORG
+
+Cisowianka	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+niegazowana	O
+niskosodowa	O
+500	B-ORG
+ml	I-ORG
+
+LUDWIK	B-PER
+Mleczko	O
+do	O
+czyszczenia	O
+kuchni	O
+(spray)	O
+
+Veroni	B-PER
+Active	O
+Isotonic	O
+Napój	O
+izotoniczny	O
+niegazowany	O
+o	O
+smaku	O
+pomarańczowym	O
+700	B-ORG
+ml	I-ORG
+
+Żywiec	B-PER
+Zdrój	O
+Napój	O
+niegazowany	O
+z	O
+nutą	O
+pomarańczy	O
+i	O
+mango	O
+500	B-ORG
+ml	I-ORG
+
+Uzdrowisko	B-PER
+Wysowa	I-PER
+Henryk	O
+Lecznicza	O
+woda	O
+mineralna	O
+500	B-ORG
+ml	I-ORG
+
+TYMBARK	B-PER
+Jabłko	O
+brzoskwinia	O
+Napój	O
+
+Sanytol	B-PER
+Płyn	O
+czyszczący	O
+i	O
+dezynfekujący	O
+uniwersalny	O
+w	O
+sprayu	O
+eukaliptus	O
+500	B-ORG
+ml	I-ORG
+
+Coccolino	B-PER
+Happy	O
+Yellow	O
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+koncentrat	O
+1800	B-ORG
+ml	I-ORG
+(72	O
+prania)	O
+
+Ajax	B-PER
+Boost	O
+Środek	O
+czyszczący	O
+soda	O
+oczyszczona	O
++	O
+cytryna	O
+1	B-ORG
+l	I-ORG
+
+FuzeTea	B-PER
+Zero	O
+Sugar	O
+Napój	O
+z	O
+ekstraktem	O
+z	O
+zielonej	O
+herbaty	O
+o	O
+smaku	O
+marakui	O
+1,5	B-ORG
+l	I-ORG
+
+ARIEL	B-PER
+Allin1	O
+Pods	O
++Unstoppable	O
+Kapsułki	O
+do	O
+prania	O
+31	B-ORG
+szt.	I-ORG
+
+Red	O
+Bull	O
+Napój	O
+energetyczny	O
+owoce	O
+tropikalne	O
+250	B-ORG
+ml	I-ORG
+
+Coccolino	B-PER
+Creations	O
+Passion	O
+Flower	O
+&	O
+Bergamot	O
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+koncentrat	O
+1450	B-ORG
+ml	I-ORG
+(58	O
+prań)	O
+
+Air	B-PER
+Wick	I-PER
+Wkład	O
+do	O
+odświeżacza	O
+powietrza	O
+białe	O
+kwiaty	O
+250	B-ORG
+ml	I-ORG
+
+MAGNESIA	B-PER
+RED	O
+Napój	O
+gazowany	O
+malina	O
+
+Coccolino	B-PER
+Care	O
+Kapsułki	O
+3w1	O
+do	O
+prania	O
+czarnych	O
+i	O
+ciemnych	O
+tkanin	O
+1080	B-ORG
+g	I-ORG
+(40	O
+prań)	O
+
+STAROPOLANKA	B-PER
+Woda	O
+mineralna	O
+średniozmineralizowana	O
+niegazowana	O
+
+Sidolux	B-PER
+Crystal	O
+Lemon	O
+Płyn	O
+do	O
+mycia	O
+szyb	O
+500	B-ORG
+ml	I-ORG
+
+REGINA	B-PER
+Premium	O
+Ręcznik	O
+kuchenny	O
+2	O
+rolki	O
+
+WM	O
+MLECZKO	O
+DO	O
+CZYSZCZENIA	O
+ACTIV	O
+430	O
+ML	O
+
+Pepsi	B-PER
+Napój	O
+gazowany	O
+1,5	B-ORG
+l	I-ORG
+
+Odświeżacz	O
+powietrza	O
+w	O
+żelu	O
+japońska	O
+wiosna	O
+
+Ace	B-PER
+Ultra	O
+Power	O
+Gel	O
+Lemon	O
+Odtłuszczający	O
+żel	O
+z	O
+wybielaczem	O
+750	B-ORG
+ml	I-ORG
+
+Mola	B-PER
+Complex	O
+3w1	O
+Ręcznik	O
+papierowy	O
+
+AIR	B-PER
+WICK	I-PER
+Botanica	O
+Odświeżacz	O
+powietrza	O
+Egzotycznej	O
+Róży	O
+&	O
+Afrykańskiego	O
+Geranium	O
+
+Nektar	O
+morelowy	O
+1L	B-ORG
+
+Sok	O
+wieloowocowy	O
+1,2	B-ORG
+L	I-ORG
+(6	B-ORG
+x	I-ORG
+200ml)	I-ORG
+
+SOMAT	B-PER
+All	O
+in	O
+1	O
+Tabletki	O
+do	O
+zmywarek	O
+48	B-ORG
+szt.	I-ORG
+
+Fairy	B-PER
+Clean	O
+&	O
+Fresh	O
+Jabłko	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+1350ML	O
+
+Raid	B-PER
+Lep	O
+na	O
+muchy	O
+4	B-ORG
+sztuki	I-ORG
+
+KUBUŚ	B-PER
+Play!	O
+Napój	O
+marchewka	O
+malina	O
+jabłko	O
+limetka	O
+
+Oshee	B-PER
+Napój	O
+izotoniczny	O
+niegazowany	O
+o	O
+smaku	O
+czarnej	O
+porzeczki	O
+0,75	B-ORG
+l	I-ORG
+
+Air	B-PER
+Wick	I-PER
+Pure	O
+Wiosenna	O
+świeżość	O
+Odświeżacz	O
+powietrza	O
+250	B-ORG
+ml	I-ORG
+
+Hortex	B-PER
+Nektar	O
+wieloowocowy	O
+1	B-ORG
+l	I-ORG
+
+FINISH	B-PER
+All	O
+in	O
+1	O
+Tabletki	O
+do	O
+zmywarek	O
+Lemon	O
+cytrynowe	O
+63	B-ORG
+szt	I-ORG
+
+Tymbark	B-PER
+Owoce	O
+Świata	O
+Napój	O
+wieloowocowy	O
+zielony	O
+banan	O
+1	B-ORG
+l	I-ORG
+
+Clin	B-PER
+Płyn	O
+do	O
+mycia	O
+powierzchni	O
+szklanych	O
+500	B-ORG
+ml	I-ORG
+
+BREF	B-PER
+Color	O
+Aktiv	O
+Zawieszka	O
+do	O
+WC	O
+-	O
+Morski	O
+2x50g	B-ORG
+
+Orangina	B-PER
+Napój	O
+gazowany	O
+smak	O
+czerwonej	O
+pomarańczy	O
+1,4	B-ORG
+l	I-ORG
+
+BREF	B-PER
+Power	O
+Aktiv	O
+Zawieszka	O
+do	O
+WC	O
+-	O
+Sosnowy	O
+las	O
+3x50g	B-ORG
+
+Kubuś	B-PER
+100%	O
+Sok	O
+pomarańcza	O
+jabłko	O
+300	B-ORG
+ml	I-ORG
+
+Bref	B-PER
+WC	O
+ProNature	O
+Zawieszka	O
+do	O
+muszli	O
+WC	O
+grejpfrut	O
+2	B-ORG
+x	I-ORG
+50	I-ORG
+g	I-ORG
+
+Lenor	B-PER
+Parfum	O
+Des	O
+Secrets	O
+Charm	O
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+900	B-ORG
+ml	I-ORG
+
+LENOR	B-PER
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+Gold	O
+Orchid	O
+
+Cisowianka	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+niegazowana	O
+niskosodowa	O
+1,5	B-ORG
+l	I-ORG
+
+Cisowianka	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+gazowana	O
+niskosodowa	O
+6	B-ORG
+x	I-ORG
+1,5	I-ORG
+l	I-ORG
+
+Kret	B-PER
+Granulki	O
+do	O
+udrożniania	O
+rur	O
+400	B-ORG
+g	I-ORG
+
+Fairy	B-PER
+Platinum	O
+All	O
+in	O
+One	O
+Lemon	O
+Kapsułki	O
+do	O
+zmywarki	O
+18	B-ORG
+sztuk	I-ORG
+
+KINLEY	B-PER
+Napój	O
+gazowany	O
+o	O
+smaku	O
+limonkowo-miętowym	O
+
+Kostka	O
+barwiąca	O
+do	O
+wc	O
+zielona	O
+45g	B-ORG
+
+Domestos	B-PER
+Power	O
+5	O
+Pine	O
+Kostka	O
+toaletowa	O
+55	B-ORG
+g	I-ORG
+
+Sidolux	B-PER
+Uniwersalny	O
+Płyn	O
+do	O
+mycia	O
+konwaliowy	O
+1	B-ORG
+l	I-ORG
+
+Eco+	B-PER
+PROSZEK	O
+DO	O
+PRANIA	O
+COLOR	O
+300G	O
+
+Tymbark	B-PER
+Owoce	O
+Świata	O
+Napój	O
+wieloowocowy	O
+mango	O
+1	B-ORG
+l	I-ORG
+
+PUR	B-PER
+Sekrety	O
+Pielęgnacji	O
+Aloes	O
+Balsam	O
+do	O
+mycia	O
+naczyń	O
+
+Fairy	B-PER
+Sensitive	O
+Drzewo	O
+herbaciane	O
+z	O
+miętą	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+1350	O
+ML	O
+
+Cif	B-PER
+Perfect	O
+Finish	O
+Specjalistyczny	O
+spray	O
+stal	O
+nierdzewna	O
+435	B-ORG
+ml	I-ORG
+
+Hortex	B-PER
+Sok	O
+100%	O
+jabłko	O
+1	B-ORG
+l	I-ORG
+
+KUBUŚ	B-PER
+banan	O
+marchew	O
+jabłko	O
+Sok	O
+z	O
+warzyw	O
+i	O
+owoców	O
+
+Baby	B-PER
+Zdrój	I-PER
+woda	O
+źródlana	O
+niegazowana	O
+3l	B-ORG
+
+Somat	B-PER
+All	O
+in	O
+1	O
+Extra	O
+Tabletki	O
+do	O
+mycia	O
+naczyń	O
+w	O
+zmywarkach	O
+819	B-ORG
+g	I-ORG
+(45	B-ORG
+x	I-ORG
+18,2	I-ORG
+g)	I-ORG
+
+Jan	B-PER
+Niezbędny	I-PER
+Ściereczki	O
+nasączane	O
+antybakteryjne	O
+40	B-ORG
+sztuk	I-ORG
+
+Garden	B-PER
+Napój	O
+jabłko	O
+2	B-ORG
+l	I-ORG
+
+Morning	B-PER
+Fresh	I-PER
+Sensitive	O
+Aloe	O
+Vera	O
+Skoncentrowany	O
+płyn	O
+do	O
+mycia	O
+naczyń	O
+450	B-ORG
+ml	I-ORG
+
+Perwoll	B-PER
+Renew	O
+&	O
+Repair	O
+Color	O
+&	O
+Fiber	O
+Płynny	O
+środek	O
+do	O
+prania	O
+2,7	B-ORG
+l	I-ORG
+(45	O
+prań)	O
+
+DETTOL	B-PER
+Antybakteryjne	O
+chusteczki	O
+do	O
+mycia	O
+pow.	O
+Orginal	O
+84	B-ORG
+sztuki	I-ORG
+
+TYMBARK	B-PER
+Jabłko	O
+mięta	O
+Napój	O
+
+Tymbark	B-PER
+Nektar	O
+czarna	O
+porzeczka	O
+1	B-ORG
+l	I-ORG
+
+BLACK	B-PER
+Napój	O
+energetyczny	O
+
+ŻYWIEC	B-PER
+ZDRÓJ	I-PER
+Mocny	O
+Gaz	O
+I	O
+Nuta	O
+Marakuja	O
+i	O
+Limonka	O
+
+AIR	B-PER
+WICK	I-PER
+Life	O
+Scents	O
+Wkład	O
+do	O
+autom.	O
+odśwież.	O
+pow.	O
+Świeżość	O
+letniego	O
+poranka	O
+
+SADY	B-PER
+WINCENTA	I-PER
+Sok	O
+jabłko	O
+-	O
+gruszka	O
+w	O
+kartonie	O
+tłoczony	O
+
+Kubuś	B-PER
+Play!	O
+Woda	O
+i	O
+owoce	O
+Napój	O
+owocowy	O
+jabłko	O
+cytryna	O
+400	B-ORG
+ml	I-ORG
+
+FAIRY	B-PER
+Pure	O
+&	O
+Clean	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+
+Frosch	B-PER
+ecological	O
+Nabłyszczacz	O
+na	O
+bazie	O
+bioalkoholu	O
+750	B-ORG
+ml	I-ORG
+
+Staropolanka	B-PER
+800	O
+Naturalna	O
+woda	O
+mineralna	O
+średniozmineralizowana	O
+lekko	O
+gazowana	O
+330	B-ORG
+ml	I-ORG
+
+Botanica	B-PER
+by	I-PER
+Air	I-PER
+Wick	I-PER
+Elektryczny	O
+odświeżacz	O
+powietrza	O
+egzotyczna	O
+róża	O
+&	O
+afrykańskie	O
+geranium	O
+19	B-ORG
+ml	I-ORG
+
+PUR	B-PER
+Sekrety	O
+Świata	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+Litchi-Jaśmin	O
+
+LENOR	B-PER
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+Lavender&Camomile	O
+
+Hortex	B-PER
+Vitaminka	O
+Sok	O
+marchewka	O
+300	B-ORG
+ml	I-ORG
+
+FORTUNA	B-PER
+Sok	O
+pomidorowy	O
+ze	O
+świeżych	O
+pomidorów	O
+100%	O
+
+Fortuna	B-PER
+Sok	O
+100%	O
+pomidorowo	O
+warzywny	O
+300	B-ORG
+ml	I-ORG
+
+Ludwik	B-PER
+do	O
+kuchni	O
+Mleczko	O
+do	O
+czyszczenia	O
+kuchni	O
+750	B-ORG
+ml	I-ORG
+
+Uzdrowisko	B-PER
+Wysowa	I-PER
+Józef	O
+Lecznicza	O
+woda	O
+mineralna	O
+500	B-ORG
+ml	I-ORG
+
+OSHEE	B-PER
+Napój	O
+izotoniczny	O
+o	O
+smaku	O
+czerwonej	O
+pomarańczy	O
+
+Kubuś	B-PER
+Go!	O
+Sok	O
+marchew	O
+brzoskwinia	O
+jabłko	O
+300	B-ORG
+ml	I-ORG
+
+MOLA	B-PER
+Ręcznik	O
+papierowy	O
+Giga	O
+Rolka	O
+
+SADY	B-PER
+WINCENTA	I-PER
+Sok	O
+jabłko	O
+-	O
+pomarańcza	O
+w	O
+butelce	O
+tłoczony	O
+
+E	B-PER
+White	O
+Płynny	O
+środek	O
+do	O
+prania	O
+tkanin	O
+białych	O
+
+AIR	B-PER
+WICK	I-PER
+Odświeżacz	O
+powietrza	O
+wkład	O
+Białe	O
+Kwiaty	O
+
+FINISH	B-PER
+All	O
+in	O
+1	O
+Żel	O
+do	O
+zmywarek	O
+Max	O
+Shine	O
+&	O
+Protect	O
+
+ŻYWIEC	B-PER
+ZDRÓJ	I-PER
+Z	O
+NUTĄ	O
+Mięty	O
+i	O
+Limonki	O
+
+Pur	B-PER
+Sekrety	O
+Kucharza	O
+Apple	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+750	B-ORG
+ml	I-ORG
+
+Persil	B-PER
+Color	O
+Żel	O
+do	O
+prania	O
+1,00	B-ORG
+l	I-ORG
+(20	O
+prań)	O
+
+FORTUNA	B-PER
+WW+	O
+100%	O
+Sok	O
+wielowarzywny	O
++	O
+żeń	O
+szeń	O
+
+VANISH	B-PER
+Gold	O
+Carpet	O
+Care	O
+Szampon	O
+do	O
+dywanów	O
+-	O
+czyszczenie	O
+mechaniczne	O
+
+TARCZYN	B-PER
+Napój	O
+Multiwitamina	O
+Zielone	O
+owoce	O
+
+OKF	B-PER
+Farmer's	O
+Aloe	O
+Vera	O
+Napój	O
+aloesowy	O
+z	O
+cząstkami	O
+aloesu	O
+
+Uzdrowisko	B-PER
+Wysowa	I-PER
+Franciszek	O
+Lecznicza	O
+woda	O
+mineralna	O
+500	B-ORG
+ml	I-ORG
+
+Persil	B-PER
+Color	O
+Lavender	O
+Freshness	O
+Żel	O
+do	O
+prania	O
+2,50	B-ORG
+l	I-ORG
+(50	O
+prań)	O
+
+KUBUŚ	B-PER
+marchew	O
+jabłko	O
+banan	O
+truskawka	O
+Sok	O
+z	O
+warzyw	O
+i	O
+owoców	O
+
+Finish	O
+Quantum	O
+Ultimate	O
+Lemon	O
+Tabletki	O
+do	O
+mycia	O
+naczyń	O
+w	O
+zmywarce	O
+400	B-ORG
+g	I-ORG
+(32	B-ORG
+sztuki)	I-ORG
+
+CILLIT	B-PER
+BANG	I-PER
+Żel	O
+do	O
+WC	O
+Wybielanie	O
+i	O
+Dezynfekcja	O
+
+Ludwik	B-PER
+Animal	O
+Odor	O
+Control	O
+Płyn	O
+uniwersalny	O
+1	B-ORG
+l	I-ORG
+
+Hortex	B-PER
+Sok	O
+100%	O
+multiwitamina	O
+1	B-ORG
+l	I-ORG
+
+Finish	B-PER
+Płyn	O
+nabłyszczający	O
+800	B-ORG
+ml	I-ORG
+
+Proszek	O
+do	O
+prania	O
+białego	O
+300g	B-ORG
+
+CILLIT	B-PER
+BANG	I-PER
+Naturally	O
+Powerful	O
+Spray	O
+czyszczący	O
+do	O
+kuchni	O
+z	O
+sodą	O
+oczyszczoną	O
+
+Air	B-PER
+Wick	I-PER
+Automatyczny	O
+odświeżacz	O
+powietrza	O
+i	O
+wkład	O
+Świeżość	O
+letniego	O
+poranka	O
+250	B-ORG
+ml	I-ORG
+
+Ariel	B-PER
+Mountain	O
+Spring	O
+Proszek	O
+do	O
+prania	O
+2.7kg	B-ORG
+36	O
+prań	O
+
+Woolite	B-PER
+Black	O
+Darks	O
+Denim	O
+Kapsułki	O
+do	O
+prania	O
+616	B-ORG
+g	I-ORG
+(28	B-ORG
+x	I-ORG
+22	I-ORG
+g)	I-ORG
+
+Magnesia	B-PER
+Red	O
+Napój	O
+żurawina	O
+1,5	B-ORG
+l	I-ORG
+
+OSHEE	B-PER
+Napój	O
+izotoniczny	O
+o	O
+smaku	O
+limetkowo-miętowym	O
+
+Clin	B-PER
+Windows	O
+&	O
+Glass	O
+Płyn	O
+do	O
+mycia	O
+okien	O
+750	B-ORG
+ml	I-ORG
+
+COCCOLINO	B-PER
+Creations	O
+Płyn	O
+do	O
+płukania	O
+Tiare	O
+Flower	O
+&	O
+Red	O
+Fruits	O
+
+Perwoll	B-PER
+Wool	O
+&	O
+Delicates	O
+Płynny	O
+środek	O
+do	O
+prania	O
+2,7	B-ORG
+l	I-ORG
+(45	O
+prań)	O
+
+Cif	B-PER
+Cream	O
+Original	O
+Mleczko	O
+z	O
+mikrokryształkami	O
+300	B-ORG
+g	I-ORG
+
+Ajax	B-PER
+WC	O
+Power	O
+Płyn	O
+do	O
+mycia	O
+i	O
+dezynfekcji	O
+toalet	O
+500	B-ORG
+ml	I-ORG
+
+Tymbark	B-PER
+H2Owoc	O
+Napój	O
+truskawka	O
+winogrono	O
+jabłko	O
+400	B-ORG
+ml	I-ORG
+
+Clin	B-PER
+Płyn	O
+do	O
+mycia	O
+powierzchni	O
+szklanych	O
+opakowanie	O
+uzupełniające	O
+500	B-ORG
+ml	I-ORG
+
+KUBUŚ	B-PER
+Waterrr	O
+o	O
+smaku	O
+maliny	O
+
+LUDWIK	B-PER
+Płyn	O
+nabłyszczający	O
+do	O
+zmywarek	O
+o	O
+zapachu	O
+cytrynowym	O
+
+VIZIR	B-PER
+Allin1	O
+Color	O
+Kapsułki	O
+do	O
+prania	O
+tkanin	O
+kolorowych	O
+27	B-ORG
+szt.	I-ORG
+
+Regina	B-PER
+Super	O
+Clean	O
+Ręcznik	O
+papierowy	O
+
+Nałęczowianka	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+gazowana	O
+6	B-ORG
+x	I-ORG
+1,5	I-ORG
+l	I-ORG
+
+DOMESTOS	B-PER
+Power	O
+5	O
+Kostka	O
+toaletowa	O
+Lime	O
+
+ARIEL	B-PER
+Baby	O
+Płyn	O
+do	O
+prania	O
+tkanin	O
+
+Presto	B-PER
+Ściereczki	O
+nawilżane	O
+do	O
+łazienki	O
+72	B-ORG
+sztuki	I-ORG
+
+PERSIL	B-PER
+Discs	O
+Kapsułki	O
+do	O
+prania	O
+białego	O
+28	B-ORG
+szt	I-ORG
+
+FINISH	B-PER
+Płyn	O
+nabłyszczający	O
+Nabłyszczacz	O
+do	O
+zmywarki	O
+Regular	O
+
+Herbapol	B-PER
+Owocowa	O
+Spiżarnia	O
+Syrop	O
+owocowy	O
+czarna	O
+porzeczka	O
+420	B-ORG
+ml	I-ORG
+
+Kubuś	B-PER
+Waterrr	O
+Napój	O
+o	O
+smaku	O
+maliny	O
+500	B-ORG
+ml	I-ORG
+
+E	B-PER
+Proszek	O
+do	O
+prania	O
+górska	O
+świeżość	O
+3,9	B-ORG
+kg	I-ORG
+(60	O
+prań)	O
+
+Kubuś	B-PER
+Waterrr	O
+Napój	O
+o	O
+smaku	O
+maliny	O
+1,5	B-ORG
+l	I-ORG
+
+MR	B-PER
+MUSCLE	I-PER
+Płyn	O
+do	O
+mycia	O
+szyb	O
+zielony	O
+-	O
+rozpylacz	O
+
+Tymbark	B-PER
+Sok	O
+100%	O
+pomidor	O
+1	B-ORG
+l	I-ORG
+
+Fortuna	B-PER
+Sok	O
+100%	O
+jabłko	O
+200	B-ORG
+ml	I-ORG
+
+Napój	O
+gazowany	O
+tonic,	O
+pasteryzowany.	O
+
+Pronto	B-PER
+Original	O
+Pasta	O
+nabłyszczająca	O
+do	O
+paneli	O
+750	B-ORG
+ml	I-ORG
+
+BREF	B-PER
+Power	O
+Aktiv	O
+Zawieszka	O
+do	O
+WC	O
+-	O
+Lawendowe	O
+pole	O
+3x50g	B-ORG
+
+HERBAPOL	B-PER
+Owocowa	O
+Spiżarnia	O
+Syrop	O
+truskawkowy	O
+
+Glade	O
+Muguet	O
+Odświeżacz	O
+powietrza	O
+w	O
+aerozolu	O
+300	B-ORG
+ml	I-ORG
+
+Kubuś	B-PER
+Sok	O
+marchew	O
+jabłko	O
+pomarańcza	O
+900	B-ORG
+ml	I-ORG
+
+LENOR	B-PER
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+Sparkling	O
+bloom&Yellow	O
+poppy	O
+
+LENOR	B-PER
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+Amethyst&floral	O
+bouquet	O
+
+PERWOLL	B-PER
+Color	O
+Magic	O
+Płyn	O
+do	O
+prania	O
+tkanin	O
+kolorowych	O
+
+Domestos	B-PER
+Power	O
+5	O
+Pine	O
+Kostka	O
+toaletowa	O
+2	B-ORG
+x	I-ORG
+55	I-ORG
+g	I-ORG
+
+4Move	B-PER
+Napój	O
+izotoniczny	O
+niegazowany	O
+o	O
+smaku	O
+cytrynowym	O
+0,75	B-ORG
+l	I-ORG
+
+ARIEL	B-PER
+Allin1	O
+Pods	O
++Complete	O
+Fiber	O
+Protection	O
+Kapsułki	O
+do	O
+prania	O
+31	B-ORG
+szt.	I-ORG
+
+PERSIL	B-PER
+POWER	O
+GEL	O
+Żel	O
+do	O
+prania	O
+tkanin	O
+białych	O
+
+Fortuna	B-PER
+Nektar	O
+czarna	O
+porzeczka	O
+300	B-ORG
+ml	I-ORG
+
+FORTUNA	B-PER
+Sok	O
+jabłkowy	O
+100%	O
+
+Domestos	B-PER
+Power	O
+5	B-ORG
+Lime	I-ORG
+Kostka	O
+toaletowa	O
+3	B-ORG
+x	I-ORG
+55	I-ORG
+g	I-ORG
+
+Kiwi	B-PER
+Parade	O
+Gloss	O
+Prestige	O
+Pasta	O
+do	O
+butów	O
+bezbarwna	O
+50	B-ORG
+ml	I-ORG
+
+PRONTO	B-PER
+Aerozol	O
+przeciw	O
+kurzowi	O
+Jasmine	O
+
+FROSCH	B-PER
+Środek	O
+do	O
+kabin	O
+prysznicowych	O
+cytrynowy	O
+
+ANDROS	B-PER
+Sok	O
+NFC	O
+pomarańczowy	O
+
+Syrop	O
+o	O
+smaku	O
+mięty.	O
+
+Hortex	B-PER
+Leon	O
+Koktajl	O
+owocowy	O
+jabłko	O
+banan	O
+mango	O
+1	B-ORG
+l	I-ORG
+
+CIF	B-PER
+Perfect	O
+Finish	O
+Płyn	O
+do	O
+czyszczenia	O
+stali	O
+nierdzewnej	O
+-	O
+spray	O
+
+Żywiec	B-PER
+Zdrój	O
+Napój	O
+niegazowany	O
+z	O
+nutą	O
+limonki	O
+i	O
+mięty	O
+500	B-ORG
+ml	I-ORG
+
+Chusteczki	O
+chroniące	O
+przed	O
+zafarbowaniem	O
+25szt	B-ORG
+
+Botanica	B-PER
+by	I-PER
+Air	I-PER
+Wick	I-PER
+Odświeżacz	O
+powietrza	O
+egzotyczna	O
+róża	O
+&	O
+afrykańskie	O
+geranium	O
+236	B-ORG
+ml	I-ORG
+
+BREF	B-PER
+Bathroom	O
+Spray	O
+do	O
+czyszczenia	O
+łazienki	O
+Pro	O
+Nature	O
+
+VANISH	B-PER
+Oxi	O
+Action	O
+Odplamiacz	O
+do	O
+białych	O
+tkanin	O
+w	O
+proszku	O
+
+Velvet	B-PER
+Extra	O
+Long	O
+Ręcznik	O
+papierowy	O
+3	O
+rolki	O
+
+Wielka	B-PER
+Pieniawa	I-PER
+Woda	O
+1,5	B-ORG
+l	I-ORG
+
+Kubuś	B-PER
+Sok	O
+marchew	O
+brzoskwinia	O
+jabłko	O
+300	B-ORG
+ml	I-ORG
+
+Domestos	B-PER
+Zero	O
+Kamienia	O
+Żel	O
+do	O
+toalet	O
+Blue	O
+750	B-ORG
+ml	I-ORG
+
+Raid	B-PER
+Przeciw	O
+komarom	O
+Wkładki	O
+do	O
+elektrofumigatora	O
+owadobójczego	O
+30	B-ORG
+sztuk	I-ORG
+
+LENOR	B-PER
+Unstoppables	O
+Perełki	O
+zapachowe	O
+do	O
+prania	O
+Dreams	O
+
+Kubuś	B-PER
+Play!	O
+Woda	O
+i	O
+owoce	O
+Napój	O
+owocowy	O
+jabłko	O
+brzoskwinia	O
+400	B-ORG
+ml	I-ORG
+
+Coca-Cola	B-PER
+zero	O
+Napój	O
+gazowany	O
+850	B-ORG
+ml	I-ORG
+
+Płyn	O
+do	O
+mycia	O
+szyb	O
+500	B-ORG
+ml	I-ORG
+
+HORTEX	B-PER
+Sok	O
+pomarańczowy	O
+100%	O
+
+Morning	B-PER
+Fresh	I-PER
+Sweet	O
+Pea	O
+&	O
+Freesia	O
+Skoncentrowany	O
+płyn	O
+do	O
+mycia	O
+naczyń	O
+900	B-ORG
+ml	I-ORG
+
+Finish	B-PER
+All	O
+in	O
+1	O
+Max	O
+Lemon	O
+Tabletki	O
+do	O
+mycia	O
+naczyń	O
+w	O
+zmywarce	O
+672	B-ORG
+g	I-ORG
+(42	B-ORG
+sztuki)	I-ORG
+
+ARIEL	B-PER
+Color	O
+Reveal	O
+Płyn	O
+do	O
+prania	O
+tkanin	O
+kolorowych	O
+
+Black	B-PER
+Energy	O
+Mojito	O
+Gazowany	O
+napój	O
+energetyzujący	O
+250	B-ORG
+ml	I-ORG
+
+OKF	O
+Farmer's	O
+Aloe	O
+Vera	O
+Napój	O
+original	O
+1,5	B-ORG
+l	I-ORG
+
+FUZETEA	B-PER
+Napój	O
+o	O
+smaku	O
+brzosk.	O
+z	O
+ekstraktem	O
+z	O
+czarnej	O
+herbaty	O
+i	O
+hibiskusa	O
+
+AJAX	B-PER
+Boost	O
+Płyn	O
+czyszczący	O
+soda	O
+oczyszczona	O
++	O
+cytryna	O
+
+Ariel	B-PER
+Allin1	O
+Pods	O
+Touch	O
+of	O
+Lenor	O
+Fresh	O
+Color	O
+Kapsułki	O
+do	O
+prania,	O
+28	O
+prań	O
+
+Tlenowy	O
+dplamiacz	O
+w	O
+proszku	O
+
+ŁOWICZ	B-PER
+Syrop	O
+o	O
+smaku	O
+malinowym	O
+z	O
+cytryną	O
+
+HORTEX	B-PER
+Napój	O
+ogrodowy	O
+jabłkowo	O
+-	O
+miętowy	O
+
+ACE	B-PER
+Odplamiacz	O
+Lawenda	O
+
+7UP	B-PER
+Napój	O
+gazowany	O
+0,85	B-ORG
+l	I-ORG
+
+Fairy	B-PER
+Cytryna	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+900	B-ORG
+ml	I-ORG
+
+Orangina	B-PER
+Napój	O
+gazowany	O
+smak	O
+klasycznej	O
+pomarańczy	O
+1,4	B-ORG
+l	I-ORG
+
+LENOR	B-PER
+Perełki	O
+zapachowe	O
+do	O
+prania	O
+Amethyst&Floral	O
+bouquet	O
+
+DUCK	B-PER
+EXTRA	O
+POWER	O
+Żel	O
+do	O
+toalet	O
+piana+wybielacz	O
+Pine	O
+-	O
+żel	O
+
+Perwoll	B-PER
+Renew	O
+&	O
+Repair	O
+White	O
+&	O
+Fiber	O
+Płynny	O
+środek	O
+do	O
+prania	O
+2,7	B-ORG
+l	I-ORG
+(45	O
+prań)	O
+
+Persil	B-PER
+Color	O
+Proszek	O
+do	O
+prania	O
+3,51	B-ORG
+kg	I-ORG
+(54	O
+prania)	O
+
+Dosia	B-PER
+Multi	O
+Powder	O
+Proszek	O
+do	O
+prania	O
+tkanin	O
+kolorowych	O
+300	B-ORG
+g	I-ORG
+(4	O
+prania)	O
+
+Kubuś	B-PER
+100%	O
+Sok	O
+multiwitamina	O
+300	B-ORG
+ml	I-ORG
+
+Woolite	B-PER
+Płyn	O
+do	O
+prania	O
+tkanin	O
+do	O
+kolorów	O
+z	O
+keratyną	O
+3,6	B-ORG
+l	I-ORG
+(60	O
+prań)	O
+
+Biały	B-PER
+Jeleń	I-PER
+Hipoalergiczny	O
+żel	O
+do	O
+mycia	O
+naczyń	O
+500	B-ORG
+ml	I-ORG
+
+Fanta	B-PER
+Pomarańczowa	O
+Napój	O
+gazowany	O
+2	B-ORG
+x	I-ORG
+1,5	I-ORG
+l	I-ORG
+
+Polo	B-PER
+Cockta	I-PER
+Napój	O
+gazowany	O
+o	O
+smaku	O
+cola	O
+2	B-ORG
+l	I-ORG
+
+NESTEA	B-PER
+Ice	O
+Tea	O
+Napój	O
+herbaciany	O
+o	O
+smaku	O
+cytrynowym	O
+
+ARIEL	B-PER
+Touch	O
+of	O
+Lenor	O
+COLOR	O
+Kapsułki	O
+do	O
+prania	O
+tkanin	O
+kolorowych	O
+26	B-ORG
+szt.	I-ORG
+
+Fortuna	B-PER
+Sok	O
+100%	O
+jabłko	O
+1	B-ORG
+l	I-ORG
+
+Lenor	B-PER
+Floral	O
+Romance	O
+Płyn	O
+do	O
+płukania	O
+tkanin,	O
+1800ML,	O
+60	O
+prań	O
+
+Tiger	B-PER
+Energy	O
+Drink	O
+Classic	O
+Gazowany	O
+napój	O
+energetyzujący	O
+250	B-ORG
+ml	I-ORG
+
+Napój	B-PER
+przecierowy	O
+z	O
+marchwi,	O
+bananów	O
+i	O
+jabłek.	O
+Wzbogacony	O
+witaminą	O
+c,	O
+słodzony,	O
+pasteryzowany.	O
+
+Cif	B-PER
+UltraSzybki	O
+Kuchnia	O
+Spray	O
+500	B-ORG
+ml	I-ORG
+
+PERSIL	B-PER
+Color	O
+Lavender	O
+Freshness	O
+Płynny	O
+środek	O
+do	O
+prania	O
+
+Somat	B-PER
+All	O
+in	O
+1	B-ORG
+Lemon	I-ORG
+&	O
+Lime	O
+Tabletki	O
+do	O
+mycia	O
+naczyń	O
+w	O
+zmywarkach	O
+1440	B-ORG
+g	I-ORG
+(80	B-ORG
+sztuk)	I-ORG
+
+HERBAPOL	B-PER
+Owocowa	O
+Spiżarnia	O
+Syrop	O
+malinowy	O
+z	O
+żurawiną	O
+
+Cillit	B-PER
+Bang	I-PER
+Kamień	O
+i	O
+rdza	O
+Produkt	O
+do	O
+czyszczenia	O
+i	O
+dezynfekcji	O
+muszli	O
+toaletowej	O
+750	B-ORG
+ml	I-ORG
+
+Tiger	B-PER
+Nitro	O
+Gazowany	O
+napój	O
+energetyzujący	O
+o	O
+smaku	O
+limonki	O
+500	B-ORG
+ml	I-ORG
+
+LENOR	B-PER
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+Emerald&Ivory	O
+flower	O
+
+TYMBARK	B-PER
+pomarańcza	O
+Sok	O
+100%	O
+
+Chusteczki	O
+nawilżane	O
+do	O
+czyszczenia	O
+obuwia	O
+20	B-ORG
+szt	I-ORG
+
+TYMBARK	B-PER
+Sok	O
+100%	O
+Multiwitamina	O
+
+Mirinda	B-PER
+Orange	O
+Napój	O
+gazowany	O
+0,85	B-ORG
+l	I-ORG
+
+Coca-Cola	B-PER
+Cherry	O
+Napój	O
+gazowany	O
+330	B-ORG
+ml	I-ORG
+
+Hortex	B-PER
+Nektar	O
+ananas	O
+1	B-ORG
+l	I-ORG
+
+Sok	O
+marchwiowo	O
+-	O
+bananowo	O
+-	O
+jabłkowy	O
+750ml	B-ORG
+
+FROSCH	B-PER
+Płyn	O
+czyszczący	O
+na	O
+bazie	O
+sody	O
+
+Pronto	B-PER
+Lavender	O
+Aerozol	O
+do	O
+mebli	O
+drewnianych	O
+300	B-ORG
+ml	I-ORG
+
+Glade	O
+Touch	O
+&	O
+Fresh	O
+Fresh	O
+Lemon	O
+Zapas	O
+do	O
+odświeżacza	O
+powietrza	O
+10	B-ORG
+ml	I-ORG
+
+Fortuna	B-PER
+Nektar	O
+czarna	O
+porzeczka	O
+300	B-ORG
+ml	I-ORG
+
+E	B-PER
+Żel	O
+do	O
+prania	O
+górska	O
+świeżość	O
+3,00	B-ORG
+l	I-ORG
+(60	O
+prań)	O
+
+HORTEX	B-PER
+Napój	O
+pomarańcza	O
+mango	O
+
+Dawtona	B-PER
+Sok	O
+pomidorowy	O
+330	B-ORG
+ml	I-ORG
+
+ACQUA	B-PER
+PANNA	I-PER
+Naturalna	O
+woda	O
+mineralna	O
+niegazowana	O
+
+Bryza	B-PER
+Lanza	O
+Expert	O
+Mix	O
+Color	O
+Proszek	O
+do	O
+prania	O
+4,5	B-ORG
+kg	I-ORG
+(60	O
+prań)	O
+
+PERWOLL	B-PER
+Color	O
+Magic	O
+Płyn	O
+do	O
+prania	O
+tkanin	O
+kolorowych	O
+
+Coccolino	B-PER
+Care	O
+Żel	O
+do	O
+prania	O
+białych	O
+tkanin	O
+1,8	B-ORG
+l	I-ORG
+(45	O
+prań)	O
+
+Żel	O
+kamień	O
+i	O
+rdza	O
+500	B-ORG
+ml	I-ORG
+
+STAROPOLANKA	B-PER
+2000	O
+Woda	O
+mineralna	O
+wysokozmineralizowana	O
+lekko	O
+gazowana	O
+
+Vanish	B-PER
+Płukanie	O
+firanek	O
+Płyn	O
+do	O
+płukania	O
+białych	O
+firanek	O
+500	B-ORG
+ml	I-ORG
+
+Red	O
+Bull	O
+Napój	O
+energetyczny	O
+250	B-ORG
+ml	I-ORG
+
+Tymbark	B-PER
+Sok	O
+100%	O
+jabłko	O
+1	B-ORG
+l	I-ORG
+
+Frosch	B-PER
+ecological	O
+Sodowy	O
+środek	O
+czyszczący	O
+do	O
+kuchni	O
+500	B-ORG
+ml	I-ORG
+
+AIR	B-PER
+WICK	I-PER
+Life	O
+Scents	O
+Odświeżacz	O
+powietrza	O
+elektryczny	O
+wkład	O
+Wędrówka	O
+Leśną	O
+Ścieżką	O
+
+Pur	B-PER
+Sekrety	O
+Świata	O
+Raspberry	O
+&	O
+Red	O
+Currant	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+450	B-ORG
+ml	I-ORG
+
+Ręcznik	O
+kuchenny	O
+2-warstwowy	O
+celulozowy	O
+
+Hortex	B-PER
+Sok	O
+100%	O
+pomarańcza	O
+300	B-ORG
+ml	I-ORG
+
+Naturalnie	O
+mętny	O
+sok	O
+jabłkowy	O
+Sady	B-PER
+Wincenta	I-PER
+
+Pepsi	B-PER
+Lime	O
+Napój	O
+gazowany	O
+1,5	B-ORG
+l	I-ORG
+
+Sidolux	B-PER
+Expert	O
+Środek	O
+do	O
+mycia	O
+paneli	O
+i	O
+drewna	O
+750	B-ORG
+ml	I-ORG
+
+Odświeżacz	O
+powietrza	O
+o	O
+zapachu	O
+leśnym	O
+
+Dawtona	B-PER
+Sok	O
+pomidorowy	O
+z	O
+imbirem	O
+330	B-ORG
+ml	I-ORG
+
+Fortuna	B-PER
+Sok	O
+100%	O
+multiwitamina	O
+1	B-ORG
+l	I-ORG
+
+Cisowianka	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+lekko	O
+gazowana	O
+niskosodowa	O
+1,5	B-ORG
+l	I-ORG
+
+Vizir	B-PER
+Lenor	O
+Scent	O
+Touch	O
+Proszek	O
+do	O
+prania	O
+3.825	B-ORG
+kg,	I-ORG
+51	O
+prań	O
+
+TYMBARK	B-PER
+Sok	O
+100%	O
+Multiwitamina	O
+
+Glade	B-PER
+Relaxing	O
+Zen	O
+Odświeżacz	O
+powietrza	O
+w	O
+aerozolu	O
+300	B-ORG
+ml	I-ORG
+
+OSHEE	B-PER
+Vitamin	O
+Energy	O
+ZERO	O
+Napój	O
+gazowany	O
+Magnez+	O
+Witaminy	O
+i	O
+Minerały	O
+
+Lovela	B-PER
+Hipoalergiczny	O
+odplamiacz	O
+1	B-ORG
+l	I-ORG
+
+KINGA	B-PER
+PIENIŃSKA	I-PER
+Naturalna	O
+woda	O
+mineralna	O
+niskosodowa	O
+
+Kubuś	B-PER
+Play!	O
+Napój	O
+z	O
+marchwi	O
+i	O
+owoców	O
+marchew	O
+jabłko	O
+pomarańcza	O
+limetka	O
+400	B-ORG
+ml	I-ORG
+
+Herbapol	B-PER
+Suplement	O
+diety	O
+syrop	O
+do	O
+mleka	O
+kakao	O
+420	B-ORG
+ml	I-ORG
+
+Pur	B-PER
+Sekrety	O
+Kucharza	O
+Lemon	O
+Extra	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+750	B-ORG
+ml	I-ORG
+
+FINISH	B-PER
+POWERBALL	O
+Quantum	O
+MAX	O
+Kapsułki	O
+do	O
+zmywarki	O
+Lemon	O
+cytrynowe	O
+45	B-ORG
+szt	I-ORG
+
+KUBUŚ	B-PER
+GO!	O
+banan	O
+marchew	O
+jabłko	O
+Sok	O
+z	O
+warzyw	O
+i	O
+owoców	O
+
+Monster	B-PER
+Punch	O
+Mixxd	O
+Gazowany	O
+napój	O
+energetyczny	O
+500	B-ORG
+ml	I-ORG
+
+Domestos	B-PER
+Power	O
+5	B-ORG
+Lime	I-ORG
+Kostka	O
+toaletowa	O
+3	B-ORG
+x	I-ORG
+55	I-ORG
+g	I-ORG
+
+Coca-Cola	O
+Napój	O
+gazowany	O
+2	B-ORG
+x	I-ORG
+1,5	I-ORG
+l	I-ORG
+
+Domestos	B-PER
+Zero	O
+Kamienia	O
+Lime	O
+Żel	O
+do	O
+toalet	O
+750	B-ORG
+ml	I-ORG
+
+Perwoll	B-PER
+Wool	O
+&	O
+Delicates	O
+Płynny	O
+środek	O
+do	O
+prania	O
+3,6	B-ORG
+l	I-ORG
+(60	O
+prań)	O
+
+TARCZYN	B-PER
+Napój	O
+Multiwitamina	O
+
+HORTEX	B-PER
+Napój	O
+jabłko-	O
+rabarbar	O
+
+K2r	B-PER
+Colour	O
+Catcher	O
+Chusteczki	O
+do	O
+prania	O
+10	B-ORG
+sztuk	I-ORG
+
+Fortuna	B-PER
+Sok	O
+100%	O
+pomarańcza	O
+1	B-ORG
+l	I-ORG
+
+TYMBARK	B-PER
+Jabłko	O
+mięta	O
+Napój	O
+
+Mola	B-PER
+Extra	O
+Strong	O
+Ręczniki	O
+papierowe	O
+2	O
+rolki	O
+
+Kinley	B-PER
+Bitter	O
+Lemon	O
+Napój	O
+gazowany	O
+1	B-ORG
+l	I-ORG
+
+Hortex	B-PER
+Napój	O
+jabłko	O
+rabarbar	O
+1,75	B-ORG
+l	I-ORG
+
+ACE	B-PER
+Odplamiacz	O
+Lemon	O
+
+Ace	B-PER
+Lemon	O
+Płyn	O
+wybielający	O
+1	B-ORG
+l	I-ORG
+
+LENOR	B-PER
+Verbena	O
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+
+Surf	B-PER
+Color	O
+Hawaiian	O
+Dream	O
+Kapsułki	O
+do	O
+prania	O
+723	B-ORG
+g	I-ORG
+(30	O
+prań)	O
+
+Raid	B-PER
+Lep	O
+na	O
+muchy	O
+4	B-ORG
+sztuki	I-ORG
+
+Lenor	B-PER
+Unstoppables	O
+Dreams	O
+Wzmacniacz	O
+zapachu	O
+stosowany	O
+podczas	O
+prania	O
+210g	B-ORG
+
+Bref	B-PER
+WC	O
+Power	O
+Aktiv	O
+Zawieszka	O
+myjąco-zapachowa	O
+do	O
+muszli	O
+WC	O
+soczysta	O
+cytryna	O
+3	B-ORG
+x	I-ORG
+50	I-ORG
+g	I-ORG
+
+Fortuna	B-PER
+Sok	O
+100%	O
+pomidorowo	O
+warzywny	O
+300	B-ORG
+ml	I-ORG
+
+NAŁĘCZOWIANKA	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+gazowana	O
+
+Hortex	B-PER
+Napój	O
+pomarańcza	O
+mango	O
+1,75	B-ORG
+l	I-ORG
+
+Coca-Cola	O
+Napój	O
+gazowany	O
+250	B-ORG
+ml	I-ORG
+
+Żel	O
+do	O
+wc	O
+cytrynowy	O
+
+Lenor	B-PER
+Deep	O
+Sea	O
+Minerals	O
+Płyn	O
+do	O
+płukania	O
+tkanin,	O
+1.38L,	B-ORG
+46	O
+prań	O
+
+Ludwik	B-PER
+All	O
+in	O
+one	O
+Ekologiczne	O
+tabletki	O
+do	O
+zmywarek	O
+1,62	B-ORG
+kg	I-ORG
+(90	B-ORG
+sztuk)	I-ORG
+
+Lenor	B-PER
+Amethyst	O
+&	O
+Floral	O
+Bouquet	O
+Płyn	O
+do	O
+płukania	O
+tkanin,	O
+1420ML,	O
+48	O
+prań	O
+
+PRONTO	B-PER
+Płyn	O
+w	O
+rozpylaczu	O
+do	O
+czyszczenia	O
+powierzchni	O
+drewn.	O
+Aloe	O
+Vera	O
+
+Air	B-PER
+Wick	I-PER
+100%	O
+Naturalna	O
+mgiełka	O
+Odświeżacz	O
+powietrza	O
+Citrus	O
+240	B-ORG
+ml	I-ORG
+
+VELVET	B-PER
+Czysta	O
+Biel	O
+Ręcznik	O
+papierowy	O
+Extra	O
+Long	O
+a'2+1	O
+
+Sok	O
+marchwiowo	O
+-	O
+pomarańczowo	O
+-	O
+jabłkowy	O
+750ml	B-ORG
+
+Ariel	B-PER
+Color	O
+Reveal	O
+Płyn	O
+do	O
+prania,	O
+2.2l,	B-ORG
+40	O
+prań	O
+
+Staropolanka	B-PER
+Kids	O
+Woda	O
+źródlana	O
+niegazowana	O
+330	B-ORG
+ml	I-ORG
+
+Cisowianka	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+niegazowana	O
+niskosodowa	O
+700	B-ORG
+ml	I-ORG
+
+Ariel	B-PER
+Allin1	O
+Pods	O
+Color	O
+Kapsułki	O
+do	O
+prania,	O
+14	O
+prań	O
+
+Fanta	B-PER
+Pomarańczowa	O
+Napój	O
+gazowany	O
+1,5	B-ORG
+l	I-ORG
+
+Żywiec	B-PER
+Zdrój	O
+Niegazowany	O
+Woda	O
+źródlana	O
+300	B-ORG
+ml	I-ORG
+
+CISOWIANKA	B-PER
+Perlage	O
+Naturalna	O
+woda	O
+mineralna	O
+musująca	O
+-	O
+puszka	O
+
+SOMAT	B-PER
+Lemon	O
+&	O
+Lime	O
+Płyn	O
+nabłyszczający	O
+do	O
+zmywarek	O
+
+Regina	B-PER
+Super	O
+Clean	O
+Ręcznik	O
+papierowy	O
+
+Kubuś	B-PER
+Play!	O
+Woda	O
+i	O
+owoce	O
+Napój	O
+owocowy	O
+jabłko	O
+brzoskwinia	O
+400	B-ORG
+ml	I-ORG
+
+SIDOLUX	B-PER
+Anti	O
+-	O
+Bac	O
+Antybakteryjny	O
+płyn	O
+uniwersalny	O
+
+Kropla	B-PER
+Beskidu	I-PER
+Naturalna	O
+woda	O
+mineralna	O
+niegazowana	O
+1,5	B-ORG
+l	I-ORG
+
+Zbyszko	O
+3	O
+Pomarańcze	O
+Napój	O
+gazowany	O
+1,75	B-ORG
+l	I-ORG
+
+Ariel	B-PER
+Allin1	O
+Pods	O
+Mountain	O
+Spring	O
+Kapsułki	O
+do	O
+prania,	O
+33	O
+prań	O
+
+PYSIO	B-PER
+Jabłko	O
+Banan	O
+Kiwi	O
+Napój	O
+z	O
+owoców	O
+i	O
+marchwi	O
+
+Cillit	B-PER
+Bang	I-PER
+Naturally	O
+Powerful	O
+Spray	O
+do	O
+czyszczenia	O
+kuchni	O
+750	B-ORG
+ml	I-ORG
+
+SOMAT	B-PER
+Płyn	O
+nabłyszczający	O
+
+Burn	B-PER
+Apple	O
+Kiwi	O
+Gazowany	O
+napój	O
+energetyczny	O
+250	B-ORG
+ml	I-ORG
+
+Clin	B-PER
+ProNature	O
+Płyn	O
+do	O
+mycia	O
+powierzchni	O
+szklanych	O
+500	B-ORG
+ml	I-ORG
+
+PRONTO	B-PER
+Rozpylacz	O
+do	O
+czyszczenia	O
+różnych	O
+powierzchni	O
+Original	O
+
+Hortex	B-PER
+Leon	O
+Napój	O
+wieloowocowy	O
+jabłka	O
+mango	O
+gruszki	O
+200	B-ORG
+ml	I-ORG
+
+Finish	B-PER
+Sól	O
+do	O
+zmywarki	O
+4	B-ORG
+kg	I-ORG
+
+Pur	B-PER
+Sekrety	O
+Świata	O
+Fig	O
+&	O
+Pomegranate	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+750	B-ORG
+ml	I-ORG
+
+Fairy	B-PER
+Sensitive	O
+Rumianek	O
+z	O
+witaminą	O
+E	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+450	B-ORG
+ml	I-ORG
+
+BREF	B-PER
+Power	O
+Aktiv	O
+ProNature	O
+Zawieszka	O
+do	O
+WC	O
+-	O
+Mięta	O
+i	O
+Eukaliptus	O
+
+MORNING	B-PER
+FRESH	I-PER
+Lemon	O
+Skoncentrowany	O
+płyn	O
+do	O
+mycia	O
+naczyń	O
+
+Bryza	B-PER
+Lanza	O
+Expert	O
+White	O
+Proszek	O
+do	O
+prania	O
+białych	O
+tkanin	O
+4,5	B-ORG
+kg	I-ORG
+(60	O
+prań)	O
+
+PERSIL	B-PER
+COLOR	O
+Proszek	O
+do	O
+prania	O
+tkanin	O
+kolorowych	O
+(ColdZyme)	O
+
+Żywiec	B-PER
+Zdrój	O
+Zero	O
+Cukru	O
+Napój	O
+niegazowany	O
+z	O
+nutą	O
+truskawki	O
+500	B-ORG
+ml	I-ORG
+
+Frosch	B-PER
+ecological	O
+Limonkowy	O
+żel	O
+do	O
+mycia	O
+naczyń	O
+w	O
+zmywarkach	O
+650	B-ORG
+ml	I-ORG
+
+KUBUŚ	B-PER
+banan	O
+jabłko	O
+brzoskwinia	O
+Sok	O
+z	O
+owoców	O
+i	O
+warzyw	O
+
+Ariel	B-PER
+Allin1	O
+Pods	O
+Sensitive	O
+Kapsułki	O
+do	O
+prania,	O
+26	O
+prań	O
+
+Domestos	B-PER
+Power	O
+5	O
+Ocean	O
+Kostka	O
+toaletowa	O
+3	B-ORG
+x	I-ORG
+55	I-ORG
+g	I-ORG
+
+Coca-Cola	B-PER
+Energy	O
+No	O
+Sugar	O
+Napój	O
+gazowany	O
+energetyzujący	O
+250	B-ORG
+ml	I-ORG
+
+Pronto	B-PER
+Original	O
+Płyn	O
+do	O
+czyszczenia	O
+różnych	O
+powierzchni	O
+500	B-ORG
+ml	I-ORG
+
+Schweppes	B-PER
+Orange	O
+Napój	O
+gazowany	O
+1,4	B-ORG
+l	I-ORG
+
+OSHEE	B-PER
+Napój	O
+izotoniczny	O
+o	O
+smaku	O
+wieloowocowym	O
+
+Żywiec	O
+Zdrój	O
+Napój	O
+niegazowany	O
+z	O
+nutą	O
+cytryny	O
+500	B-ORG
+ml	I-ORG
+
+Zbyszko	B-PER
+3	O
+Czerwone	O
+pomarańcze	O
+Napój	O
+gazowany	O
+1,75	B-ORG
+l	I-ORG
+
+PERWOLL	B-PER
+Black	O
+Magic	O
+Płyn	O
+do	O
+prania	O
+tkanin	O
+w	O
+ciemnych	O
+kolorach	O
+
+Obolon	B-PER
+Kwas	O
+chlebowy	O
+bohatyrski	O
+1	B-ORG
+l	I-ORG
+
+Zawieszka	O
+WC	O
+cytryna	O
+3x55ml	B-ORG
+
+Hortex	B-PER
+Nektar	O
+czarna	O
+porzeczka	O
+1	B-ORG
+l	I-ORG
+
+Pronto	B-PER
+Lime	O
+Aerozol	O
+przeciw	O
+kurzowi	O
+300	B-ORG
+ml	I-ORG
+
+Cappy	B-PER
+Napój	O
+niegazowany	O
+Truskawkowy	O
+Mix	O
+330	B-ORG
+ml	I-ORG
+
+BREF	B-PER
+Color	O
+Aktiv	O
+Zawieszka	O
+do	O
+WC	O
+-	O
+Świeże	O
+kwiaty	O
+2x50g	B-ORG
+
+Mola	B-PER
+Połysk	O
+Ręcznik	O
+papierowy	O
+
+Płyn	O
+do	O
+mycia	O
+drewna	O
+750	B-ORG
+ml	I-ORG
+
+Bref	B-PER
+Płynny	O
+środek	O
+do	O
+czyszczenia	O
+powierzchni	O
+w	O
+łazience	O
+750	B-ORG
+ml	I-ORG
+
+WM	B-PER
+BARWIĄCE	O
+KOSTKI	O
+DO	O
+WC	O
+OCEAN	O
+FLOWER	O
+
+Pepsi	B-PER
+Max	O
+Napój	O
+gazowany	O
+1,5	B-ORG
+l	I-ORG
+
+AJAX	B-PER
+Boost	O
+Płyn	O
+czyszczący	O
+ocet	O
++	O
+lawenda	O
+
+Oshee	B-PER
+Napój	O
+izotoniczny	O
+niegazowany	O
+o	O
+smaku	O
+czerwonej	O
+pomarańczy	O
+0,75	B-ORG
+l	I-ORG
+
+VELVET	B-PER
+TURBO	O
+Ręcznik	O
+papierowy	O
+
+Nałęczowianka	B-PER
+Bio	O
+Napój	O
+niegazowany	O
+smak	O
+cytryny	O
+i	O
+limonki	O
+0,5	B-ORG
+l	I-ORG
+
+Coccolino	B-PER
+Blue	O
+Splash	O
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+koncentrat	O
+1800	B-ORG
+ml	I-ORG
+(72	O
+prania)	O
+
+LUDWIK	B-PER
+Uniwersalny	O
+płyn	O
+do	O
+mycia	O
+-	O
+Super	O
+Połysk	O
+
+DOMESTOS	B-PER
+Przedłużona	O
+Moc	O
+Płyn	O
+czyszcząco-dezynfekujący	O
+Pine	O
+Fresh	O
+
+WOOLITE	B-PER
+Mix	O
+Colors	O
+Płyn	O
+do	O
+prania	O
+tkanin	O
+kolorowych	O
+
+SOMAT	B-PER
+Gold	O
+Tabletki	O
+do	O
+zmywarek	O
+36	B-ORG
+szt.	I-ORG
+
+PRONTO	B-PER
+Płyn	O
+do	O
+paneli	O
+i	O
+płytek	O
+Original	O
+
+Ariel	B-PER
+Touch	O
+of	O
+Lenor	O
+Fresh	O
+Color	O
+Proszek	O
+do	O
+prania,	O
+3.375kg,	B-ORG
+45	O
+prań	O
+
+Cisowianka	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+gazowana	O
+niskosodowa	O
+6	B-ORG
+x	I-ORG
+1,5	I-ORG
+l	I-ORG
+
+Tarczyn	B-PER
+Napój	O
+multiwitamina	O
+10	O
+witamin	O
+300	B-ORG
+ml	I-ORG
+
+Perwoll	B-PER
+Renew	O
+&	O
+Repair	O
+Color	O
+&	O
+Fiber	O
+Płynny	O
+środek	O
+do	O
+prania	O
+900	B-ORG
+ml	I-ORG
+(15	O
+prań)	O
+
+Clin	B-PER
+Vinegar	O
+Płyn	O
+do	O
+czyszczenia	O
+okien	O
+500	B-ORG
+ml	I-ORG
+
+Kret	B-PER
+Granulki	O
+do	O
+udrożniania	O
+rur	O
+800	B-ORG
+g	I-ORG
+
+Cappy	B-PER
+Napój	O
+niegazowany	O
+Truskawkowy	O
+Mix	O
+330	B-ORG
+ml	I-ORG
+
+Coccolino	B-PER
+Care	O
+Kapsułki	O
+3w1	O
+do	O
+prania	O
+czarnych	O
+i	O
+ciemnych	O
+tkanin	O
+783	B-ORG
+g	I-ORG
+(29	O
+prań)	O
+
+DOMESTOS	B-PER
+Zero	O
+Kamienia-	O
+Niebieski	O
+
+Hortex	B-PER
+Napój	O
+jabłko	O
+wiśnia	O
+500	B-ORG
+ml	I-ORG
+
+Hortex	B-PER
+Vitaminka	O
+Sok	O
+malina	O
+marchew	O
+jabłko	O
+300	B-ORG
+ml	I-ORG
+
+Calgon	B-PER
+3w1	O
+Proszek	O
+do	O
+pralek	O
+przeciw	O
+osadzaniu	O
+się	O
+kamienia	O
+500	B-ORG
+g	I-ORG
+(20	O
+prań)	O
+
+KINLEY	B-PER
+Napój	O
+gazowany	O
+o	O
+smaku	O
+limonkowo-miętowym	O
+
+KUBUŚ	B-PER
+marchew	O
+brzoskwinia	O
+jabłko	O
+Sok	O
+z	O
+warzyw	O
+i	O
+owoców	O
+
+Finish	B-PER
+Classic	O
+Lemon	O
+Tabletki	O
+do	O
+zmywarki	O
+1232	B-ORG
+g	I-ORG
+(77	B-ORG
+sztuk)	I-ORG
+
+Frosch	B-PER
+ecological	O
+Octowy	O
+środek	O
+usuwający	O
+kamień	O
+1000	B-ORG
+ml	I-ORG
+
+Finish	B-PER
+Sól	O
+do	O
+zmywarki	O
+1,5	B-ORG
+kg	I-ORG
+
+TYMBARK	B-PER
+VITAMINI	O
+Sok	O
+Banan	O
+marchew	O
+jabłko	O
+PET	O
+
+BIO	B-PER
+WM	O
+Płyn	O
+do	O
+czyszczenia	O
+i	O
+konserwacji	O
+rur	O
+750ml	B-ORG
+
+Silan	B-PER
+Fresh	O
+Sky	O
+Płyn	O
+do	O
+zmiękczania	O
+tkanin	O
+2775	B-ORG
+ml	I-ORG
+(111	O
+prań)	O
+
+Ajax	B-PER
+Floral	O
+Fiesta	O
+Środek	O
+czyszczący	O
+polne	O
+kwiaty	O
+1	B-ORG
+l	I-ORG
+
+Fortuna	B-PER
+Sok	O
+100%	O
+multiwitamina	O
+1	B-ORG
+l	I-ORG
+
+Mola	B-PER
+Połysk	O
+Ręcznik	O
+papierowy	O
+
+Finish	B-PER
+All	O
+in	O
+1	O
+Max	O
+Lemon	O
+Tabletki	O
+do	O
+mycia	O
+naczyń	O
+w	O
+zmywarce	O
+848	B-ORG
+g	I-ORG
+(53	B-ORG
+sztuki)	I-ORG
+
+SPRITE	B-PER
+Zero	O
+Napój	O
+gazowany	O
+o	O
+smaku	O
+cytrynowo-limonkowym	O
+
+DOMESTOS	B-PER
+Power	O
+5	O
+Kostka	O
+toaletowa	O
+o	O
+zapachu	O
+sosny	O
+2x55g	B-ORG
+
+ACE	B-PER
+Odplamiacz	O
+Regular	O
+
+BREF	B-PER
+Bathroom	O
+Spray	O
+do	O
+czyszczenia	O
+powierzchni	O
+łazienkowych	O
+Pro	O
+Nature	O
+
+HERBAPOL	B-PER
+Owocowa	O
+Spiżarnia	O
+Syrop	O
+z	O
+dzikiej	O
+róży	O
+
+Perwoll	B-PER
+Renew	O
+&	O
+Repair	O
+White	O
+&	O
+Fiber	O
+Płynny	O
+środek	O
+do	O
+prania	O
+1,8	B-ORG
+l	I-ORG
+(30	O
+prań)	O
+
+Vanish	B-PER
+Płyn	O
+do	O
+płukania	O
+białych	O
+firanek	O
+125	B-ORG
+ml	I-ORG
+
+Fairy	B-PER
+Clean	O
+&	O
+Fresh	O
+Jabłko	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+1350ML	O
+
+Vizir	B-PER
+Lenor	O
+Scent	O
+Touch	O
+Proszek	O
+do	O
+prania	O
+3.825	B-ORG
+kg,	I-ORG
+51	O
+prań	O
+
+SIDOLUX	B-PER
+Crystal	O
+Płyn	O
+do	O
+mycia	O
+szyb	O
+-	O
+artic	O
+
+COCA-COLA	B-PER
+Napój	O
+gazowany	O
+
+Air	B-PER
+Wick	I-PER
+100%	O
+Naturalna	O
+mgiełka	O
+Odświeżacz	O
+powietrza	O
+Anti-Tabacco	O
+240	B-ORG
+ml	I-ORG
+
+REGINA	B-PER
+Super-Clean	O
+Ręcznik	O
+papierowy	O
+
+Herbapol	B-PER
+Owocowa	O
+Spiżarnia	O
+Syrop	O
+owocowy	O
+o	O
+smaku	O
+dzikiej	O
+róży	O
+420	B-ORG
+ml	I-ORG
+
+Perlux	B-PER
+Multicaps	O
+White	O
+Perły	O
+do	O
+prania	O
+368	B-ORG
+g	I-ORG
+(16	O
+prań)	O
+
+Domestos	B-PER
+Przedłużona	O
+Moc	O
+Pine	O
+Fresh	O
+Płyn	O
+czyszcząco-dezynfekujący	O
+1250	B-ORG
+ml	I-ORG
+
+Air	B-PER
+Wick	I-PER
+Odświeżacz	O
+powietrza	O
+i	O
+wkład	O
+księżycowa	O
+lilia	O
+otulona	O
+satyną	O
+250	B-ORG
+ml	I-ORG
+
+ŻYWIEC	B-PER
+ZDRÓJ	I-PER
+Lekki	O
+Gaz	O
+
+Schweppes	B-PER
+Mojito	O
+Napój	O
+gazowany	O
+0,9	B-ORG
+l	I-ORG
+
+CILLIT	B-PER
+BANG	I-PER
+Płyn	O
+do	O
+czyszczenia	O
+toalet	O
+Świeży	O
++	O
+50%	O
+Gratis	O
+
+EMSAL	B-PER
+Tuba	O
+pianka	O
+do	O
+dywanów	O
+i	O
+wykładzin	O
+
+Nestlé	O
+Pure	O
+Life	O
+Woda	O
+źródlana	O
+niegazowana	O
+6	B-ORG
+x	I-ORG
+1,5	I-ORG
+l	I-ORG
+
+Duck	B-PER
+Aqua	O
+Blue	O
+4w1	O
+Zawieszka	O
+do	O
+toalet	O
+40	B-ORG
+g	I-ORG
+
+ŻYWIEC	B-PER
+ZDRÓJ	I-PER
+Z	O
+NUTĄ	O
+Mięty	O
+i	O
+Limonki	O
+
+Domestos	B-PER
+Power	O
+5	O
+Fresh	O
+Orange	O
+Blossom	O
+Kostka	O
+toaletowa	O
+55	B-ORG
+g	I-ORG
+
+Napój	B-PER
+przecierowy	O
+z	O
+marchwi,	O
+pomarańczy	O
+i	O
+jabłek.	O
+Wzbogacony	O
+witaminą	O
+c,	O
+słodzony,	O
+pasteryzowany.	O
+
+Silan	B-PER
+Fresh	O
+Spring	O
+Płyn	O
+do	O
+zmiękczania	O
+tkanin	O
+1800	B-ORG
+ml	I-ORG
+(72	O
+prania)	O
+
+Kubuś	B-PER
+Go!	O
+Sok	O
+marchew	O
+malina	O
+jabłko	O
+300	B-ORG
+ml	I-ORG
+
+Staropolanka	B-PER
+800	O
+Naturalna	O
+woda	O
+mineralna	O
+średniozmineralizowana	O
+niegazowana	O
+6	B-ORG
+x	I-ORG
+1,5	I-ORG
+l	I-ORG
+
+PERLUX	B-PER
+Kapsułki	O
+piorące	O
+do	O
+tkanin	O
+jasnych	O
+24	B-ORG
+szt	I-ORG
+
+Muszynianka	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+wysokozmineralizowana	O
+niskonasycona	O
+CO2	O
+1,5	B-ORG
+l	I-ORG
+
+FUZETEA	B-PER
+Napój	O
+o	O
+smaku	O
+cytr.	O
+z	O
+ekstraktem	O
+z	O
+czarnej	O
+herbaty	O
+i	O
+trawy	O
+cytr.	O
+
+100%	O
+sok	O
+z	O
+różowych	O
+grejpfrutów,	O
+z	O
+miąższem.	O
+*Zawiera	O
+cukry	O
+naturalnie	O
+występujące	O
+w	O
+owocach.	O
+Pasteryzowany.	O
+
+Domestos	B-PER
+Power	O
+5	O
+Pink	O
+Magnolia	O
+Kostka	O
+toaletowa	O
+3	B-ORG
+x	I-ORG
+55	I-ORG
+g	I-ORG
+
+Żywiec	O
+Zdrój	O
+Napój	O
+niegazowany	O
+z	O
+nutą	O
+jabłka	O
+500	B-ORG
+ml	I-ORG
+
+Ariel	B-PER
+Color	O
+Reveal	O
+Płyn	O
+do	O
+prania,	O
+2.64l,	B-ORG
+48	O
+prań	O
+
+Herbapol	B-PER
+Owocowa	O
+Spiżarnia	O
+Syrop	O
+owocowy	O
+malina	O
+z	O
+melisą	O
+420	B-ORG
+ml	I-ORG
+
+TYMBARK	B-PER
+Owoce	O
+świata	O
+Kaktus	O
+Napój	O
+wieloowocowy	O
+
+Vanish	B-PER
+Oxi	O
+Action	O
+Odplamiacz	O
+do	O
+tkanin	O
+w	O
+płynie	O
+1	B-ORG
+l	I-ORG
+
+Hortex	B-PER
+Napój	O
+jabłko	O
+brzoskwinia	O
+1	B-ORG
+l	I-ORG
+
+Black	B-PER
+Energy	O
+Gazowany	O
+napój	O
+energetyzujący	O
+250	B-ORG
+ml	I-ORG
+
+Herbapol	B-PER
+na	O
+zimno	O
+Herbata	O
+zielona	O
+cytryna	O
+&	O
+mięta	O
+300	B-ORG
+ml	I-ORG
+
+SADY	B-PER
+WINCENTA	I-PER
+Sok	O
+jabłkowy	O
+w	O
+kartonie	O
+tłoczony	O
+
+Fortuna	B-PER
+WW+	O
+Sok	O
+100%	O
+pomidorowo-warzywny	O
++	O
+chili	O
+300	B-ORG
+ml	I-ORG
+
+OSHEE	B-PER
+Napój	O
+izotoniczny	O
+o	O
+smaku	O
+grejpfrutowym	O
+
+FROSCH	B-PER
+Środek	O
+do	O
+czyszczenia	O
+drewna	O
+
+TYMBARK	B-PER
+Jabłko	O
+brzoskwinia	O
+Napój	O
+
+Lenor	B-PER
+Spring	O
+Awakening	O
+Płyn	O
+do	O
+płukania	O
+tkanin,	O
+1800ML,	O
+60	O
+prań	O
+
+Somat	B-PER
+Gold	O
+Lemon	O
+&	O
+Lime	O
+Tabletki	O
+do	O
+mycia	O
+naczyń	O
+w	O
+zmywarkach	O
+1036,8	B-ORG
+g	I-ORG
+(54	B-ORG
+x	I-ORG
+19,2	I-ORG
+g)	I-ORG
+
+Bref	B-PER
+WC	O
+Power	O
+Aktiv	O
+Zawieszka	O
+myjąco-zapachowa	O
+do	O
+muszli	O
+WC	O
+sosnowy	O
+las	O
+2	B-ORG
+x	I-ORG
+50	I-ORG
+g	I-ORG
+
+Cisowianka	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+lekko	O
+gazowana	O
+niskosodowa	O
+500	B-ORG
+ml	I-ORG
+
+SILAN	B-PER
+Fresh	O
+Spring	O
+Płyn	O
+do	O
+zmiękczania	O
+tkanin	O
+
+SOMAT	B-PER
+All	O
+in	O
+1	O
+Tabletki	O
+do	O
+zmywarek	O
+80	B-ORG
+szt.	I-ORG
+
+Żywiec	B-PER
+Zdrój	O
+Napój	O
+niegazowany	O
+z	O
+nutą	O
+truskawki	O
+500	B-ORG
+ml	I-ORG
+
+Nałęczowianka	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+delikatnie	O
+gazowana	O
+0,5	B-ORG
+l	I-ORG
+
+Cif	B-PER
+Cream	O
+Lemon	O
+Mleczko	O
+z	O
+mikrokryształkami	O
+300	B-ORG
+g	I-ORG
+
+FROSCH	B-PER
+Malinowy	O
+środek	O
+usuwający	O
+kamień	O
+
+Napój	O
+gazowany	O
+tonic	O
+jurajski	O
+1,5	B-ORG
+l	I-ORG
+
+Silan	B-PER
+Suprême	O
+Romance	O
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+1200	B-ORG
+ml	I-ORG
+(48	O
+prań)	O
+
+TYMBARK	B-PER
+Jabłko	O
+wiśnia	O
+Napój	O
+PET	O
+
+Perwoll	B-PER
+Wool	O
+&	O
+Delicates	O
+Płynny	O
+środek	O
+do	O
+prania	O
+1,8	B-ORG
+l	I-ORG
+(30	O
+prań)	O
+
+SEVENTH	B-PER
+GENERATION	I-PER
+Płyn	O
+do	O
+czyszczenia	O
+toalet	O
+sosna	O
+i	O
+szałwia	O
+
+Pysio	B-PER
+Napój	O
+jabłko	O
+banan	O
+kiwi	O
+900	B-ORG
+ml	I-ORG
+
+DAWTONA	B-PER
+Sok	O
+z	O
+buraków	O
+z	O
+jabłkiem	O
+
+DOMESTOS	B-PER
+Power	O
+5	O
+Kostka	O
+toaletowa	O
+Lime	O
+(3x55g)	B-ORG
+
+Air	B-PER
+Wick	I-PER
+Elektryczny	O
+odświeżacz	O
+powietrza	O
+Białe	O
+kwiaty	O
+19	B-ORG
+ml	I-ORG
+
+FINISH	B-PER
+Płyn	O
+nabłyszczający	O
+Nabłyszczacz	O
+do	O
+zmywarki	O
+Lemon	O
+cytrynowy	O
+
+FAIRY	B-PER
+PLATINUM	O
+Plus	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+cytryna	O
+i	O
+limonka	O
+
+Kubuś	B-PER
+Sok	O
+marchew	O
+brzoskwinia	O
+jabłko	O
+300	B-ORG
+ml	I-ORG
+
+Fortuna	B-PER
+Sok	O
+100%	O
+pomarańcza	O
+300	B-ORG
+ml	I-ORG
+
+RED	B-PER
+BULL	I-PER
+Napój	O
+energetyczny	O
+Tropical	O
+
+Air	B-PER
+Wick	I-PER
+Life	O
+Scents	O
+Wkład	O
+do	O
+odświeżacza	O
+powietrza	O
+tajemnicze	O
+ogrody	O
+z	O
+dzieciństwa	O
+250	B-ORG
+ml	I-ORG
+
+TYMBARK	B-PER
+VITAMINI	O
+Sok	O
+Malina	O
+marchew	O
+jabłko	O
+PET	O
+
+Żywiec	B-PER
+Zdrój	O
+Zero	O
+Cukru	O
+Napój	O
+niegazowany	O
+z	O
+nutą	O
+cytryny	O
+1,5	B-ORG
+l	I-ORG
+
+Środek	O
+do	O
+czyszczenia	O
+kabin	O
+prysznicowych	O
+
+AIR	B-PER
+WICK	I-PER
+PURE	O
+Wiosenna	O
+świeżość	O
+Odświeżacz	O
+powietrza	O
+
+Herbapol	B-PER
+Uroda	O
+Napój	O
+owocowo-ziołowy	O
+skrzyp	O
+cytrusy	O
+&	O
+zielona	O
+herbata	O
++	O
+cynk	O
+biotyna	O
+300	B-ORG
+ml	I-ORG
+
+VIZIR	B-PER
+ALPINE	O
+FRESH	O
+Płyn	O
+do	O
+prania	O
+do	O
+kolorów	O
+
+Silan	B-PER
+Sensitive	O
+&	O
+Baby	O
+Płyn	O
+do	O
+zmiękczania	O
+tkanin	O
+2775	B-ORG
+ml	I-ORG
+(111	O
+prań)	O
+
+MONSTER	B-PER
+Pipline	O
+Punch	O
+Napój	O
+energentyzujący	O
+gazowany	O
+
+Tiger	B-PER
+Fuel	O
+Gazowany	O
+napój	O
+energetyzujący	O
+o	O
+smaku	O
+mango	O
+500	B-ORG
+ml	I-ORG
+
+HORTEX	B-PER
+Sok	O
+100%	O
+Pomarańcza	O
+
+SAN	B-PER
+PELLEGRINO	I-PER
+Woda	O
+mineralna	O
+naturalnie	O
+gazowana	O
+
+Air	B-PER
+Wick	I-PER
+Wkład	O
+do	O
+elektrycznego	O
+odświeżacza	O
+powietrza	O
+Świeżość	O
+letniego	O
+poranka	O
+19	B-ORG
+ml	I-ORG
+
+Ajax	B-PER
+Środek	O
+czyszczący	O
+migdał	O
+1	B-ORG
+l	I-ORG
+
+Red	O
+Bull	O
+Napój	O
+energetyczny	O
+bez	O
+cukru	O
+250	B-ORG
+ml	I-ORG
+
+Coccolino	B-PER
+Creations	O
+Honeysuckle	O
+&	O
+Sandalwood	O
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+koncentrat	O
+1450	B-ORG
+ml	I-ORG
+(58	O
+prań)	O
+
+Frosch	B-PER
+ecological	O
+Winogronowy	O
+środek	O
+do	O
+kabin	O
+prysznicowych	O
+500	B-ORG
+ml	I-ORG
+
+Pronto	B-PER
+Original	O
+Pasta	O
+nabłyszczająca	O
+do	O
+paneli	O
+750	B-ORG
+ml	I-ORG
+
+FORTUNA	B-PER
+Nektar	O
+Czarna	O
+Porzeczka	O
+
+Perwoll	B-PER
+Renew	O
+&	O
+Blossom	O
+Płynny	O
+środek	O
+do	O
+prania	O
+2,7	B-ORG
+l	I-ORG
+(45	O
+prań)	O
+
+Proszek	O
+do	O
+czyszczenia	O
+500g	B-ORG
+
+FuzeTea	B-PER
+Napój	O
+o	O
+smaku	O
+brzoskwiniowym	O
+z	O
+ekstraktem	O
+z	O
+czarnej	O
+herbaty	O
+i	O
+hibiskusa	O
+1,5	B-ORG
+l	I-ORG
+
+Coca-Cola	B-PER
+Lime	O
+Napój	O
+gazowany	O
+500	B-ORG
+ml	I-ORG
+
+Ambi	B-PER
+Pur	I-PER
+Ocean	O
+Mist	O
+Odświeżacz	O
+powietrza	O
+w	O
+sprayu	O
+300	O
+ml	O
+
+MORNING	B-PER
+FRESH	I-PER
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+jabłkowy	O
+
+Fortuna	B-PER
+Nektar	O
+ananasowy	O
+1	B-ORG
+l	I-ORG
+
+Staropolanka	B-PER
+Kids	O
+Woda	O
+źródlana	O
+niegazowana	O
+9x330	B-ORG
+ml	I-ORG
+
+AIR	B-PER
+WICK	I-PER
+Life	O
+Scents	O
+Pachnące	O
+patyczki	O
+wędrówka	O
+leśną	O
+ścieżką	O
+
+Fortuna	B-PER
+Nektar	O
+czarna	O
+porzeczka	O
+1	B-ORG
+l	I-ORG
+
+Duck	B-PER
+Aqua	O
+Green	O
+4w1	O
+Zawieszka	O
+do	O
+toalet	O
+40	B-ORG
+g	I-ORG
+
+Clin	B-PER
+Płyn	O
+do	O
+mycia	O
+powierzchni	O
+szklanych	O
+opakowanie	O
+uzupełniające	O
+500	B-ORG
+ml	I-ORG
+
+Kostka	O
+toaletowa	O
+do	O
+wc	O
+trójfazowa	O
+-	O
+zapach	O
+cytrynowy	O
+
+Jurajska	B-PER
+Napój	O
+gazowany	O
+z	O
+limonkowym	O
+smakiem	O
+1,5	B-ORG
+l	I-ORG
+
+LENOR	B-PER
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+Amethyst&Floral	O
+bouquet	O
+
+Ace	B-PER
+Colors	O
+Odplamiacz	O
+1	B-ORG
+l	I-ORG
+
+Ariel	B-PER
+Allin1	O
+Pods	O
+Touch	O
+of	O
+Lenor	O
+Fresh	O
+Color	O
+Kapsułki	O
+do	O
+prania,	O
+26	O
+prań	O
+
+Fortuna	B-PER
+WW+	O
+Sok	O
+100%	O
+pomidorowo-warzywny	O
++	O
+chili	O
+300	B-ORG
+ml	I-ORG
+
+Woolite	B-PER
+Płyn	O
+do	O
+prania	O
+tkanin	O
+czerń	O
+ciemne	O
+kolory	O
+&	O
+jeans	O
+z	O
+keratyną	O
+3,6	B-ORG
+l	I-ORG
+(60	O
+prań)	O
+
+KRYNICZANKA	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+niegazowana	O
+
+Fortuna	B-PER
+Sok	O
+100%	O
+pomarańcza	O
+1	B-ORG
+l	I-ORG
+
+TYMBARK	B-PER
+Sok	O
+100%	O
+Pomidor	O
+
+Dawtona	B-PER
+Sok	O
+pomidorowy	O
+z	O
+selerem	O
+naciowym	O
+330	B-ORG
+ml	I-ORG
+
+Tymbark	B-PER
+Sok	O
+100%	O
+multiwitamina	O
+1	B-ORG
+l	I-ORG
+
+NAŁĘCZOWIANKA	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+delikatnie	O
+gazowana	O
+
+BREF	B-PER
+Power	O
+Aktiv	O
+Zawieszka	O
+do	O
+WC	O
+-	O
+Morska	O
+bryza	O
+2x50g	B-ORG
+
+Silan	B-PER
+Aromatherapy	O
+Coconut	O
+Water	O
+Scent	O
+&	O
+Minerals	O
+Płyn	O
+do	O
+zmiękczania	O
+tkanin	O
+1800	B-ORG
+ml	I-ORG
+(72	O
+prania)	O
+
+Cisowianka	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+niegazowana	O
+niskosodowa	O
+1,5	B-ORG
+l	I-ORG
+
+AIR	B-PER
+WICK	I-PER
+Odświeżacz	O
+powietrza	O
+100%	O
+Naturalna	O
+Anti	O
+Tabbaco	O
+
+Nektar	O
+bananowy	O
+na	O
+bazie	O
+przecieru	O
+bananowego,	O
+pasteryzowany.	O
+Zawartość	O
+owoców	O
+minimum	O
+25%.	O
+
+Regina	B-PER
+Blitz	O
+Ręcznik	O
+papierowy	O
+uniwersalny	O
+
+Dosia	B-PER
+Multi	O
+Powder	O
+Proszek	O
+do	O
+prania	O
+tkanin	O
+białych	O
+300	B-ORG
+g	I-ORG
+(4	O
+prania)	O
+
+Hortex	B-PER
+Sok	O
+100%	O
+pomarańcza	O
+1	B-ORG
+l	I-ORG
+
+Hortex	B-PER
+Napój	O
+jabłko	O
+wiśnia	O
+1	B-ORG
+l	I-ORG
+
+Fairy	B-PER
+Platinum	O
+All	O
+In	O
+One	O
+Regular	O
+Kapsułki	O
+do	O
+zmywarki	O
+18	B-ORG
+sztuki	I-ORG
+
+Tymbark	B-PER
+Napój	O
+jabłko	O
+czerwona	O
+porzeczka	O
+2	B-ORG
+l	I-ORG
+
+Ariel	B-PER
+Allin1	O
+Pods	O
+Color	O
+Kapsułki	O
+do	O
+prania,	O
+33	O
+prań	O
+
+FuzeTea	B-PER
+No	O
+Sugar	O
+Napój	O
+niegazowany	O
+o	O
+smaku	O
+brzoskwini	O
+i	O
+róży	O
+1,5	B-ORG
+l	I-ORG
+
+Air	B-PER
+Wick	I-PER
+Elektryczny	O
+odświeżacz	O
+powietrza	O
+Wędrówka	O
+leśną	O
+ścieżką	O
+19	B-ORG
+ml	I-ORG
+
+Fairy	B-PER
+Sensitive	O
+Aloes	O
+i	O
+jaśmin	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+900	B-ORG
+ml	I-ORG
+
+DAWTONA	B-PER
+Sok	O
+wielowarzywny	O
+
+Monster	B-PER
+Energy	O
+Ultra	O
+Violet	O
+Gazowany	O
+napój	O
+energetyczny	O
+500	B-ORG
+ml	I-ORG
+
+Primavera	B-PER
+Woda	O
+źródlana	O
+gazowana	O
+1,5	B-ORG
+l	I-ORG
+
+ŻYWIEC	B-PER
+ZDRÓJ	I-PER
+Ze	O
+Smakiem	O
+cytryny	O
+
+Fairy	B-PER
+Extra	O
+Hygiene	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+650	B-ORG
+ml	I-ORG
+
+Tabletki	O
+do	O
+wc	O
+cytryna	O
+
+Fortuna	O
+Sok	O
+z	O
+dodatkiem	O
+witaminy	O
+C	O
+odporność	O
+pomarańcza	O
+1	B-ORG
+l	I-ORG
+
+Kubuś	B-PER
+Waterrr	O
+Napój	O
+o	O
+smaku	O
+cytryny	O
+1,5	B-ORG
+l	I-ORG
+
+Ariel	B-PER
+Sensitive	O
+Płyn	O
+do	O
+prania,	B-ORG
+2.2l,	O
+40	O
+prań	O
+
+CAPPY	B-PER
+Napój	O
+multiwitamina	O
+
+Woolite	B-PER
+Płyn	O
+do	O
+prania	O
+tkanin	O
+czerń	O
+ciemne	O
+kolory	O
+&	O
+jeans	O
+z	O
+keratyną	O
+3,6	B-ORG
+l	I-ORG
+(60	O
+prań)	O
+
+Lipton	B-PER
+Ice	O
+Tea	O
+Peach	O
+Napój	O
+niegazowany	O
+1,5	B-ORG
+l	I-ORG
+
+LUDWIK	B-PER
+Sól	O
+do	O
+zmywarek	O
+
+Fortuna	B-PER
+WW+	O
+Sok	O
+100%	O
+pomidorowo-warzywny	O
++	O
+imbir	O
+300	B-ORG
+ml	I-ORG
+
+FINISH	B-PER
+POWERBALL	O
+Quantum	O
+MAX	O
+Kapsułki	O
+do	O
+zmywania	O
+Lemon	O
+cytrynowe	O
+36	B-ORG
+szt	I-ORG
+
+Fortuna	B-PER
+Sok	O
+100%	O
+jabłko	O
+1	B-ORG
+l	I-ORG
+
+DAWTONA	B-PER
+Sok	O
+pomidorowy	O
+pikantny	O
+
+OSHEE	B-PER
+Vitamin	O
+Energy	O
+Napój	O
+gazowany	O
+Witamina	O
+C+Wapń+Wit.D	O
+
+Żywiec	O
+Zdrój	O
+Napój	O
+niegazowany	O
+z	O
+nutą	O
+cytryny	O
+1,5	B-ORG
+l	I-ORG
+
+HORTEX	B-PER
+Nektar	O
+z	O
+czarnych	O
+porzeczek	O
+
+Kostka	O
+barwiąca	O
+do	O
+wc	O
+niebieska	O
+45g	B-ORG
+
+Red	B-PER
+Bull	I-PER
+Napój	O
+energetyczny	O
+355	B-ORG
+ml	I-ORG
+
+Somat	B-PER
+Gold	O
+Tabletki	O
+do	O
+mycia	O
+naczyń	O
+w	O
+zmywarkach	O
+691,2	B-ORG
+g	I-ORG
+(36	B-ORG
+x	I-ORG
+19,2	I-ORG
+g)	I-ORG
+
+DOMESTOS	B-PER
+Power	O
+5	O
+Kostka	O
+toaletowa	O
+Ocean	O
+
+KUBUŚ	B-PER
+Waterrr	O
+o	O
+smaku	O
+cytryny	O
+
+Fortuna	B-PER
+Sok	O
+100%	O
+pomidor	O
+300	B-ORG
+ml	I-ORG
+
+Finish	O
+Płyn	O
+nabłyszczający	O
+cytrynowy	O
+400	B-ORG
+ml	I-ORG
+
+ARIEL	B-PER
+SENSITIVE	O
+Płyn	O
+do	O
+prania	O
+tkanin	O
+jasnych	O
+i	O
+kolorowych	O
+
+Tymbark	B-PER
+Napój	O
+jabłko	O
+arbuz	O
+250	B-ORG
+ml	I-ORG
+
+BRYZA	B-PER
+Lanza	O
+Original	O
+Płyn	O
+do	O
+czyszczenia	O
+pralki	O
+
+Hortex	B-PER
+Sok	O
+100%	O
+multiwitamina	O
+1	B-ORG
+l	I-ORG
+
+Hortex	B-PER
+Vitaminka	O
+Sok	O
+banan	O
+marchew	O
+jabłko	O
+300	B-ORG
+ml	I-ORG
+
+Sidolux	B-PER
+Expert	O
+Środek	O
+do	O
+mycia	O
+drewna	O
+750	B-ORG
+ml	I-ORG
+
+CISOWIANKA	B-PER
+Naturalna	O
+niegazowana	O
+woda	O
+mineralna	O
+
+ARIEL	B-PER
+Touch	O
+of	O
+LENOR	O
+FRESH	O
+Płyn	O
+do	O
+prania	O
+tkanin	O
+
+DrWitt	B-PER
+Premium	O
+Uroda	O
+Napój	O
+pomarańcza-marchew	O
+1	B-ORG
+l	I-ORG
+
+Foxy	B-PER
+Tornado	O
+3-warstwowy	O
+ręcznik	O
+papierowy	O
+
+Tymbark	B-PER
+Nektar	O
+banan	O
+1	B-ORG
+l	I-ORG
+
+Tarczyn	B-PER
+Nektar	O
+czarna	O
+porzeczka	O
+300	B-ORG
+ml	I-ORG
+
+Air	B-PER
+Wick	I-PER
+100%	O
+Naturalna	O
+mgiełka	O
+Odświeżacz	O
+powietrza	O
+Anti-Tabacco	O
+240	B-ORG
+ml	I-ORG
+
+LENOR	B-PER
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+Fresh	O
+Meadow	O
+
+TYMBARK	B-PER
+Pomarańcza	O
+Sok	O
+100%	O
+PET	O
+
+VIZIR	B-PER
+COLOR	O
+Proszek	O
+do	O
+prania	O
+tkanin	O
+kolorowych	O
+
+Granulki	O
+do	O
+udrażniania	O
+rur	O
+500g	B-ORG
+
+NAŁĘCZOWIANKA	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+delikatnie	O
+gazowana	O
+
+Lipton	B-PER
+Ice	O
+Tea	O
+Lemon	O
+Napój	O
+niegazowany	O
+500	B-ORG
+ml	I-ORG
+
+Acqua	B-PER
+Panna	I-PER
+Naturalna	O
+woda	O
+mineralna	O
+niegazowana	O
+250	B-ORG
+ml	I-ORG
+
+HORTEX	B-PER
+VITAMINKA	O
+Sok	O
+z	O
+marchwi	O
+
+ARIEL	B-PER
+MOUNTAIN	O
+SPRING	O
+Kapsułki	O
+do	O
+prania	O
+białych	O
+i	O
+jasnych	O
+tkanin	O
+26	B-ORG
+szt.	I-ORG
+
+TYMBARK	B-PER
+Sok	O
+100%	O
+Pomidor	O
+PET	O
+
+Tymbark	B-PER
+Vitamini	O
+Sok	O
+malina	O
+marchew	O
+jabłko	O
+300	B-ORG
+ml	I-ORG
+
+Ludwik	B-PER
+Sól	O
+ochronna	O
+do	O
+zmywarek	O
+1,5	B-ORG
+kg	I-ORG
+
+Kinley	B-PER
+Bitter	O
+Rose	O
+Napój	O
+gazowany	O
+500	B-ORG
+ml	I-ORG
+
+COCA-COLA	B-PER
+ZERO	O
+Napój	O
+gazowany	O
+
+Somat	B-PER
+Płyn	O
+nabłyszczający	O
+do	O
+zmywarek	O
+750	B-ORG
+ml	I-ORG
+
+E	B-PER
+Skoncentrowany	O
+płyn	O
+do	O
+zmiękczania	O
+tkanin	O
+różana	O
+łąka	O
+2	B-ORG
+l	I-ORG
+(66	O
+prania)	O
+
+Duck	B-PER
+Fresh	O
+Discs	O
+Lime	O
+Zapas	O
+krążka	O
+żelowego	O
+do	O
+toalety	O
+72	B-ORG
+ml	I-ORG
+(2	O
+zapasy)	O
+
+Cif	B-PER
+Power	O
+&	O
+Shine	O
+Multi-Purpose	O
+Spray	O
+wybielanie	O
+750	B-ORG
+ml	I-ORG
+
+Dato	B-PER
+Proszek	O
+do	O
+prania	O
+firanek	O
+365	B-ORG
+g	I-ORG
+
+STAROPOLANKA	B-PER
+Woda	O
+mineralna	O
+średniozmineralizowana	O
+niegazowana	O
+
+Smaki	B-PER
+Victorii	I-PER
+Sok	O
+marchew-banan-jabłko	O
+250	B-ORG
+ml	I-ORG
+
+Air	B-PER
+Wick	I-PER
+Life	O
+Scents	O
+Wkład	O
+do	O
+odświeżacza	O
+powietrza	O
+Deszczowa	O
+świeżość	O
+lasów	O
+Amazonii	O
+19	B-ORG
+ml	I-ORG
+
+Bryza	B-PER
+Lanza	O
+Expert	O
+White	O
+Proszek	O
+do	O
+prania	O
+białych	O
+tkanin	O
+9,375	B-ORG
+kg	I-ORG
+(125	O
+prań)	O
+
+AMBI	B-PER
+PUR	I-PER
+Fabric	O
+Freshener	O
+Odświeżacz	O
+do	O
+tkanin	O
+w	O
+sprayu	O
+
+HORTEX	B-PER
+Napój	O
+jabłkowo-wiśniowy	O
+
+Punktowy	O
+żel	O
+do	O
+wc	O
+o	O
+zapachu	O
+cytrynowym	O
+
+Żel	O
+do	O
+prania	O
+ręcznego	O
+w	O
+tubie.	O
+
+FOXY	B-PER
+Mega	O
+Ręcznik	O
+papierowy	O
+2	B-ORG
+szt	I-ORG
+
+PERLUX	B-PER
+Kapsułki	O
+piorące	O
+do	O
+tkanin	O
+kolorowych	O
+16	B-ORG
+szt	I-ORG
+
+VIZIR	B-PER
+Proszek	O
+do	O
+prania	O
+koloru	O
+
+Coca-Cola	B-PER
+zero	O
+Napój	O
+gazowany	O
+1,5	B-ORG
+l	I-ORG
+
+FAIRY	B-PER
+Sensitive	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+aloes	O
+i	O
+jaśmin	O
+
+CIF	B-PER
+Płyn	O
+do	O
+czyszczenia	O
+Przeciw	O
+Tłuszczowi	O
+-	O
+spray	O
+
+Lenor	B-PER
+Fresh	O
+Meadow	O
+Płyn	O
+do	O
+płukania	O
+tkanin,	O
+1800ML,	O
+60	O
+prań	O
+
+S.Pellegrino	O
+Naturalna	O
+woda	O
+mineralna	O
+gazowana	O
+500	B-ORG
+ml	I-ORG
+
+TYMBARK	B-PER
+Wiśnia	O
+jabłko	O
+Napój	O
+
+Bref	B-PER
+WC	O
+Power	O
+Aktiv	O
+Zawieszka	O
+myjąco-zapachowa	O
+do	O
+muszli	O
+WC	O
+soczysta	O
+cytryna	O
+3	B-ORG
+x	I-ORG
+50	I-ORG
+g	I-ORG
+
+Ariel	B-PER
+Allin1	O
+Pods	O
+Touch	O
+of	O
+Lenor	O
+Fresh	O
+Color	O
+Kapsułki	O
+do	O
+prania,	O
+26	O
+prań	O
+
+FuzeTea	B-PER
+Napój	O
+o	O
+smaku	O
+brzoskwiniowym	O
+z	O
+ekstraktem	O
+z	O
+czarnej	O
+herbaty	O
+i	O
+hibiskusa	O
+500	B-ORG
+ml	I-ORG
+
+Sok	O
+marchwiowo	O
+-	O
+malinowo	O
+-	O
+jabłkowy	O
+330	B-ORG
+ml	I-ORG
+
+Fortuna	B-PER
+Sok	O
+100%	O
+pomidor	O
+pikantny	O
+300	B-ORG
+ml	I-ORG
+
+Dobrowianka	B-PER
+Woda	O
+mineralna	O
+niegazowana	O
+6	B-ORG
+x	I-ORG
+1,5	I-ORG
+l	I-ORG
+
+Płyn	O
+do	O
+mycia	O
+podłóg	O
+panelowych	O
+i	O
+parkietów	O
+
+Kropla	B-PER
+Beskidu	I-PER
+Naturalna	O
+woda	O
+mineralna	O
+gazowana	O
+6	B-ORG
+x	I-ORG
+1,5	I-ORG
+l	I-ORG
+
+Jurajska	B-PER
+Napój	O
+gazowany	O
+z	O
+limonkowym	O
+smakiem	O
+1,5	B-ORG
+l	I-ORG
+
+Hortex	B-PER
+Sok	O
+100%	O
+multiwitamina	O
+1	B-ORG
+l	I-ORG
+
+Finish	B-PER
+Classic	O
+Lemon	O
+Tabletki	O
+do	O
+zmywarki	O
+1232	B-ORG
+g	I-ORG
+(77	B-ORG
+sztuk)	I-ORG
+
+SPRITE	B-PER
+Napój	O
+gazowany	O
+o	O
+smaku	O
+cytrynowo-limonkowym	O
+
+E	B-PER
+Sensitive	O
+Skoncentrowany	O
+płyn	O
+do	O
+zmiękczania	O
+tkanin	O
+2	B-ORG
+l	I-ORG
+(66	O
+prań)	O
+
+Vizir	B-PER
+Sensitive	O
+Proszek	O
+do	O
+prania	O
+3.825kg	B-ORG
+51	O
+prań	O
+
+Fairy	B-PER
+Clean	O
+&	O
+Fresh	O
+Granat	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+450	O
+ml	O
+
+Foxy	B-PER
+Cartapaglia	O
+Ręcznik	O
+kuchenny	O
+2	O
+rolki	O
+
+Kubuś	B-PER
+Play!	O
+Napój	O
+z	O
+marchwi	O
+i	O
+owoców	O
+multiwitamina	O
+400	B-ORG
+ml	I-ORG
+
+REGINA	B-PER
+Ręcznik	O
+kuchenny	O
+Najdłuższe	O
+rolki	O
+z	O
+nadrukiem	O
+2	B-ORG
+szt.	I-ORG
+
+Red	B-PER
+Bull	I-PER
+Napój	O
+energetyczny	O
+kokos-acai	O
+250	B-ORG
+ml	I-ORG
+
+Fortuna	B-PER
+Nektar	O
+czarna	O
+porzeczka	O
+1	B-ORG
+l	I-ORG
+
+LENOR	B-PER
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+Sensitive	O
+
+BREF	B-PER
+Power	O
+Aktiv	O
+Zawieszka	O
+do	O
+WC	O
+-	O
+Sosnowy	O
+las	O
+2x50g	B-ORG
+
+Coca-Cola	B-PER
+Napój	O
+gazowany	O
+500	B-ORG
+ml	I-ORG
+
+SILAN	B-PER
+Sensitive	O
+Płyn	O
+do	O
+zmiękczania	O
+tkanin	O
+
+7	B-PER
+UP	I-PER
+Napój	O
+gazowany	O
+
+Naturalnie	O
+mętny	O
+sok	O
+jabłkowo-pomarańczowy	O
+Sady	B-PER
+Wincenta	I-PER
+
+FROSCH	B-PER
+Pomarańczowy	O
+środek	O
+czyszczący	O
+do	O
+wszystkich	O
+powierzchni	O
+
+WM	B-PER
+Płyn	O
+uniwersalny	O
+z	O
+nanocząsteczkami	O
+500	B-ORG
+ml	I-ORG
+
+Tymbark	B-PER
+Owoce	O
+Świata	O
+Napój	O
+wieloowocowy	O
+kaktus	O
+1	B-ORG
+l	I-ORG
+
+FUZETEA	B-PER
+Napój	O
+o	O
+smaku	O
+brzosk.	O
+z	O
+ekstraktem	O
+z	O
+czarnej	O
+herbaty	O
+i	O
+hibisku	O
+
+Coca-Cola	O
+zero	O
+Napój	O
+gazowany	O
+500	B-ORG
+ml	I-ORG
+
+Raid	B-PER
+Zawieszki	O
+przeciw	O
+molom	O
+w	O
+żelu	O
+o	O
+zapachu	O
+cedrowym	O
+2	B-ORG
+x	I-ORG
+3	I-ORG
+g	I-ORG
+
+Ariel	B-PER
+Color	O
+&	O
+Style	O
+Proszek	O
+do	O
+prania	O
+2.7kg	B-ORG
+36	O
+prań	O
+
+MOLA	B-PER
+Ultra	O
+Chłonne	O
+Ręcznik	O
+papierowy	O
+3	B-ORG
+szt	I-ORG
++	O
+1	B-ORG
+szt	I-ORG
+GRATIS!	O
+
+Herbapol	B-PER
+Owocowa	O
+Spiżarnia	O
+Syrop	O
+owocowy	O
+truskawka	O
+420	B-ORG
+ml	I-ORG
+
+Kubuś	B-PER
+100%	O
+Sok	O
+jabłko	O
+300	B-ORG
+ml	I-ORG
+
+Bryza	B-PER
+Lanza	O
+Expert	O
+Mix	O
+Color	O
+Proszek	O
+do	O
+prania	O
+kolorowych	O
+tkanin	O
+9,375	B-ORG
+kg	I-ORG
+(125	O
+prań)	O
+
+Kropla	B-PER
+Beskidu	I-PER
+Naturalna	O
+woda	O
+mineralna	O
+gazowana	O
+6	B-ORG
+x	I-ORG
+1,5	I-ORG
+l	I-ORG
+
+CILLIT	B-PER
+BANG	I-PER
+Super	O
+Silny	O
+Środek	O
+do	O
+tłuszczu	O
+-	O
+spray	O
+(super	O
+cena)	O
+
+Staropolanka	B-PER
+Plus	O
+Naturalna	O
+woda	O
+mineralna	O
+średniozmineralizowana	O
+niegazowana	O
+0,7	B-ORG
+l	I-ORG
+
+Cillit	B-PER
+Bang	O
+Naturally	O
+Powerful	O
+Spray	O
+do	O
+czyszczenia	O
+łazienki	O
+750	B-ORG
+ml	I-ORG
+
+HERBAPOL	B-PER
+Owocowa	O
+Spiżarnia	O
+Syrop	O
+z	O
+czarnej	O
+porzeczki	O
+
+Frosch	B-PER
+ecological	O
+Cytrynowy	O
+środek	O
+do	O
+kabin	O
+prysznicowych	O
+500	B-ORG
+ml	I-ORG
+
+Fortuna	B-PER
+Sok	O
+100%	O
+pomarańcza	O
+1	B-ORG
+l	I-ORG
+
+Ludwik	B-PER
+Animal	O
+Odor	O
+Control	O
+Płyn	O
+uniwersalny	O
+1	B-ORG
+l	I-ORG
+
+CIF	B-PER
+Płyn	O
+do	O
+czyszczenia	O
+Kuchni	O
+-	O
+spray	O
+
+Pronto	B-PER
+Original	O
+Płyn	O
+do	O
+czyszczenia	O
+różnych	O
+powierzchni	O
+500	B-ORG
+ml	I-ORG
+
+Sidolux	B-PER
+Uniwersalny	O
+Płyn	O
+do	O
+mycia	O
+mydło	O
+marsylskie	O
+1	B-ORG
+l	I-ORG
+
+Ariel	B-PER
+Allin1	O
+Pods	O
++Active	O
+Odor	O
+Defense	O
+Kapsułki	O
+do	O
+prania,	O
+31	O
+prań	O
+
+Bryza	B-PER
+Ekspert	O
+do	O
+koloru	O
+Żel	O
+do	O
+prania	O
+3,96	B-ORG
+l	I-ORG
+
+Herbapol	B-PER
+Syrop	O
+owocowy	O
+malina	O
+z	O
+żurawiną	O
+420	B-ORG
+ml	I-ORG
+
+Lenor	B-PER
+Parfum	O
+Des	O
+Secrets	O
+Kiss	O
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+900	B-ORG
+ml	I-ORG
+
+Air	B-PER
+Wick	I-PER
+Life	O
+Scents	O
+Wkład	O
+do	O
+odświeżacza	O
+powietrza	O
+Deszczowa	O
+świeżość	O
+lasów	O
+Amazonii	O
+19	B-ORG
+ml	I-ORG
+
+Tymbark	B-PER
+Napój	O
+jabłko	O
+wiśnia	O
+2	B-ORG
+l	I-ORG
+
+ŻYWIEC	B-PER
+ZDRÓJ	I-PER
+Z	O
+nutą	O
+CYTRYNY	O
+
+Air	B-PER
+Wick	I-PER
+Life	O
+Scents	O
+Wkład	O
+do	O
+odświeżacza	O
+powietrza	O
+Tajemnicze	O
+ogrody	O
+z	O
+dzieciństwa	O
+19	B-ORG
+ml	I-ORG
+
+Ariel	B-PER
+Mountain	O
+Spring	O
+Płyn	O
+do	O
+prania,	O
+1.1l,	B-ORG
+20	O
+prań	O
+
+E	B-PER
+Duo-Caps	O
+Color	O
+Kapsułki	O
+do	O
+prania	O
+800	B-ORG
+g	I-ORG
+(40	B-ORG
+sztuk)	I-ORG
+
+Perwoll	B-PER
+Renew	O
+&	O
+Repair	O
+White	O
+&	O
+Fiber	O
+Płynny	O
+środek	O
+do	O
+prania	O
+1,8	B-ORG
+l	I-ORG
+(30	O
+prań)	O
+
+Tarczyn	B-PER
+Nektar	O
+czerwony	O
+grejpfrut	O
+300	B-ORG
+ml	I-ORG
+
+Fortuna	B-PER
+Sok	O
+100%	O
+pomarańcza	O
+300	B-ORG
+ml	I-ORG
+
+LUDWIK	B-PER
+Uniwersalny	O
+płyn	O
+do	O
+mycia	O
+-	O
+Kwiat	O
+Laguny	O
+
+Finish	O
+All	O
+in	O
+1	O
+Tabletki	O
+do	O
+mycia	O
+naczyń	O
+w	O
+zmywarce	O
+1008	B-ORG
+g	I-ORG
+(63	B-ORG
+sztuki)	I-ORG
+
+Oshee	B-PER
+Napój	O
+izotoniczny	O
+niegazowany	O
+o	O
+smaku	O
+grejpfrutowym	O
+0,75	B-ORG
+l	I-ORG
+
+Nałęczowianka	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+niegazowana	O
+1,5	B-ORG
+l	I-ORG
+
+OSHEE	B-PER
+Vitamin	O
+Energy	O
+Napój	O
+gazowany	O
+Witaminy	O
+i	O
+Minerały	O
+
+Żel	O
+do	O
+udrażniania	O
+rur	O
+1L	B-ORG
+
+TYMBARK	B-PER
+Jabłko	O
+Czerwona	O
+porzeczka	O
+Napój	O
+owocowy,	O
+PET	O
+
+Somat	B-PER
+Gold	O
+Tabletki	O
+do	O
+mycia	O
+naczyń	O
+w	O
+zmywarkach	O
+1036,8	B-ORG
+g	I-ORG
+(54	B-ORG
+x	I-ORG
+19,2	I-ORG
+g)	I-ORG
+
+Tarczyn	B-PER
+Sok	O
+100%	O
+jabłko	O
+300	B-ORG
+ml	I-ORG
+
+LENOR	B-PER
+Unstoppables	O
+Perełki	O
+zapachowe	O
+Sport	O
+
+Kubuś	B-PER
+Waterrr	O
+Napój	O
+o	O
+smaku	O
+truskawki	O
+500	B-ORG
+ml	I-ORG
+
+Finish	B-PER
+All	O
+in	O
+1	O
+Tabletki	O
+do	O
+mycia	O
+naczyń	O
+w	O
+zmywarce	O
+800	B-ORG
+g	I-ORG
+(50	B-ORG
+sztuk)	I-ORG
+
+Morning	B-PER
+Fresh	I-PER
+Original	O
+Skoncentrowany	O
+płyn	O
+do	O
+mycia	O
+naczyń	O
+450	B-ORG
+ml	I-ORG
+
+Coca-Cola	B-PER
+zero	O
+Napój	O
+gazowany	O
+500	B-ORG
+ml	I-ORG
+
+Ajax	B-PER
+Windows	O
+and	O
+Shiny	O
+Surfaces	O
+Płyn	O
+do	O
+czyszczenia	O
+500	B-ORG
+ml	I-ORG
+
+Oshee	B-PER
+for	O
+Bike	O
+Riders	O
+Napój	O
+izotoniczny	O
+niegazowany	O
+o	O
+smaku	O
+limetkowo-miętowym	O
+0,75	B-ORG
+l	I-ORG
+
+Ariel	B-PER
+Allin1	O
+Pods	O
++Unstoppables	O
+Kapsułki	O
+do	O
+prania,	O
+31	O
+prań	O
+
+Cappy	B-PER
+Sok	O
+pomarańczowy	O
+100%	O
+330	B-ORG
+ml	I-ORG
+
+Fairy	B-PER
+Original	O
+All	O
+In	O
+One	O
+Lemon	O
+Tabletki	O
+do	O
+zmywarki	O
+44	B-ORG
+sztuk	I-ORG
+
+Bref	B-PER
+WC	O
+10xEffect	O
+Power	O
+Gel	O
+Anti	O
+Limescale	O
+Płynny	O
+środek	O
+do	O
+mycia	O
+muszli	O
+WC	O
+700	B-ORG
+ml	I-ORG
+
+Kinga	B-PER
+Pienińska	I-PER
+Naturalna	O
+woda	O
+mineralna	O
+gazowana	O
+niskosodowa	O
+330	B-ORG
+ml	I-ORG
+
+Kiwi	B-PER
+Parade	O
+Gloss	O
+Prestige	O
+Pasta	O
+do	O
+butów	O
+brązowa	O
+50	B-ORG
+ml	I-ORG
+
+Pur	B-PER
+Sekrety	O
+Pielęgnacji	O
+Green	O
+Tea	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+750	B-ORG
+ml	I-ORG
+
+Lenor	B-PER
+Amethyst	O
+&	O
+Floral	O
+Bouquet	O
+Płyn	O
+do	O
+płukania	O
+tkanin,	O
+1420ML,	O
+48	O
+prań	O
+
+Uzdrowisko	B-PER
+Wysowa	I-PER
+Józef	O
+Lecznicza	O
+woda	O
+mineralna	O
+500	B-ORG
+ml	I-ORG
+
+Bref	B-PER
+WC	O
+Power	O
+Aktiv	O
+Zawieszka	O
+myjąco-zapachowa	O
+do	O
+muszli	O
+WC	O
+morska	O
+bryza	O
+2	B-ORG
+x	I-ORG
+50	I-ORG
+g	I-ORG
+
+Cillit	B-PER
+Bang	I-PER
+Wybielanie	O
+i	O
+dezynfekcja	O
+Produkt	O
+do	O
+czyszczenia	O
+i	O
+dezynfekcji	O
+muszli	O
+toaletowej	O
+750	B-ORG
+ml	I-ORG
+
+Napój	B-PER
+przecierowy	O
+z	O
+marchwi,	O
+brzoskwiń	O
+i	O
+jabłek.	O
+Wzbogacony	O
+witaminą	O
+c,	O
+słodzony,	O
+pasteryzowany.	O
+
+Hortex	B-PER
+Napój	O
+pomarańcza	O
+mango	O
+1	B-ORG
+l	I-ORG
+
+FAIRY	B-PER
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+Granat	O
+
+Lenor	B-PER
+Spring	O
+Awakening	O
+Płyn	O
+do	O
+płukania	O
+tkanin,	O
+1800ML,	O
+60	O
+prań	O
+
+Kubuś	B-PER
+Sok	O
+marchew	O
+jabłko	O
+pomarańcza	O
+900	B-ORG
+ml	I-ORG
+
+Fortuna	B-PER
+Witalność	O
+Multiwitamina	O
+Sok	O
+100%	O
+1	B-ORG
+l	I-ORG
+
+Ariel	B-PER
+Mountain	O
+Spring	O
+Płyn	O
+do	O
+prania,	O
+2.64l,	B-ORG
+48	O
+prań	O
+
+Kubuś	B-PER
+Waterrr	O
+Napój	O
+o	O
+smaku	O
+jabłka	O
+500	B-ORG
+ml	I-ORG
+
+Vanish	B-PER
+Oxi	O
+Action	O
+Odplamiacz	O
+do	O
+białych	O
+tkanin	O
+w	O
+płynie	O
+1	B-ORG
+l	I-ORG
+
+Izo	B-PER
+Proszek	O
+czyszczący	O
+cytryna	O
+500	B-ORG
+g	I-ORG
+
+HELLENA	B-PER
+Oranżada	O
+biała	O
+
+Fortuna	B-PER
+Sok	O
+100%	O
+jabłko	O
+200	B-ORG
+ml	I-ORG
+
+HERBAPOL	B-PER
+na	O
+zimno	O
+Herbata	O
+czarna	O
+cytryna	O
+
+Lenor	B-PER
+Parfum	O
+Des	O
+Secrets	O
+Mystery	O
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+900	B-ORG
+ml	I-ORG
+
+Fairy	B-PER
+Platinum	O
+Plus	O
+Regular	O
+Tabletki	O
+do	O
+zmywarki,	O
+30	O
+kapsułek	O
+
+Oshee	B-PER
+Vitamin	O
+Water	O
+Napój	O
+niegazowany	O
+o	O
+smaku	O
+czerwonych	O
+winogron	O
+i	O
+dragonfruit	O
+555	B-ORG
+ml	I-ORG
+
+Lenor	B-PER
+Lavender	O
+&	O
+Camomile	O
+Płyn	O
+do	O
+płukania	O
+tkanin,	O
+1.38L,	B-ORG
+46	O
+prań	O
+
+Żel	O
+do	O
+udrażniania	O
+rur	O
+
+ARIEL	B-PER
+SENSITIVE	O
+Płyn	O
+do	O
+prania	O
+tkanin	O
+jasnych	O
+i	O
+kolorowych	O
+
+Nektar	O
+z	O
+mango	O
+1L	B-ORG
+
+Fairy	B-PER
+Cytryna	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+900	B-ORG
+ml	I-ORG
+
+Napój	B-PER
+przecierowy	O
+z	O
+marchwi.	O
+Wzbogacony	O
+witaminą	O
+c,	O
+słodzony,	O
+pasteryzowany.	O
+
+Veroni	B-PER
+Mineral	O
+Pure	O
+Naturalna	O
+woda	O
+mineralna	O
+niegazowana	O
+1,5	B-ORG
+l	I-ORG
+
+Silan	B-PER
+Aromatherapy	O
+Sensual	O
+Rose	O
+Płyn	O
+do	O
+zmiękczania	O
+tkanin	O
+2700	B-ORG
+ml	I-ORG
+(108	O
+prań)	O
+
+LUDWIK	B-PER
+Uniwersalny	O
+płyn	O
+do	O
+mycia	O
+-	O
+Animal	O
+Odor	O
+Control	O
+
+Herbapol	B-PER
+Owocowa	O
+Spiżarnia	O
+Syrop	O
+cytryna	O
+420	B-ORG
+ml	I-ORG
+
+Cisowianka	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+gazowana	O
+niskosodowa	O
+500	B-ORG
+ml	I-ORG
+
+Coca-Cola	O
+Napój	O
+gazowany	O
+330	B-ORG
+ml	I-ORG
+
+CIF	B-PER
+Perfect	O
+Finish	O
+Spray	O
+czyszczący	O
+do	O
+drewna	O
+
+DrWitt	B-PER
+Premium	O
+Odporność	O
+Napój	O
+multiwitamina	O
+1	B-ORG
+l	I-ORG
+
+SEVENTH	B-PER
+GENERATION	I-PER
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+Kwiat	O
+lawendy	O
+i	O
+Mięta	O
+
+Kubuś	B-PER
+Waterrr	O
+Napój	O
+o	O
+smaku	O
+jabłka	O
+1,5	B-ORG
+l	I-ORG
+
+Ajax	B-PER
+Windows	O
+and	O
+Shiny	O
+Surfaces	O
+Płyn	O
+do	O
+czyszczenia	O
+500	B-ORG
+ml	I-ORG
+
+Hortex	B-PER
+Napój	O
+wieloowocowy	O
+jabłko	O
+malina	O
+limonka	O
+1,75	B-ORG
+l	I-ORG
+
+PUR	B-PER
+Sekrety	O
+Pielęgnacji	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+-	O
+Zielona	O
+Herbata	O
+
+ŻYWIEC	B-PER
+ZDRÓJ	I-PER
+Niegazowany	O
+(sport	O
+cap	O
+seria	O
+Zdrojek)	O
+
+Bref	B-PER
+WC	O
+Power	O
+Aktiv	O
+Zawieszka	O
+myjąco-zapachowa	O
+do	O
+muszli	O
+WC	O
+lawendowe	O
+pole	O
+3	B-ORG
+x	I-ORG
+50	I-ORG
+g	I-ORG
+
+PRIMAVERA	B-PER
+Naturalna	O
+woda	O
+źródlana	O
+gazowana	O
+
+Nektar	O
+gruszkowy,	O
+na	O
+bazie	O
+przecieru	O
+gruszkowego,	O
+pasteryzowany.	O
+Zawartość	O
+owoców	O
+minimum	O
+50%.	O
+
+VIZIR	B-PER
+Allin1	O
+Color	O
+Kapsułki	O
+do	O
+prania	O
+tkanin	O
+kolorowych	O
+36	B-ORG
+szt.	I-ORG
+
+Finish	B-PER
+All	O
+in	O
+1	O
+Max	O
+Tabletki	O
+do	O
+mycia	O
+naczyń	O
+w	O
+zmywarce	O
+848	B-ORG
+g	I-ORG
+(53	B-ORG
+sztuki)	I-ORG
+
+100%	O
+sok	O
+ze	O
+świeżych	O
+pomarańczy,	O
+wyprodukowany	O
+z	O
+pomarańczy	O
+pochodzących	O
+z	O
+Brazylii	O
+*	O
+Zawiera	O
+cukry	O
+naturalnie	O
+występujące	O
+w	O
+owo	O
+
+VANISH	B-PER
+Oxi	O
+Action	O
+Pet	O
+Expert	O
+Spray	O
+czyszczący	O
+do	O
+dywanów	O
+i	O
+tapicerek	O
+
+Air	B-PER
+Wick	I-PER
+Wkład	O
+do	O
+automatycznego	O
+odświeżacza	O
+powietrza	O
+Magnolia	O
+i	O
+kwiat	O
+wiśni	O
+250	B-ORG
+ml	I-ORG
+
+COCCOLINO	B-PER
+Creations	O
+Płyn	O
+do	O
+płukania	O
+Honeysuckle	O
+&	O
+Sandalwood	O
+
+Hortex	B-PER
+Sok	O
+100%	O
+pomarańcza	O
+1	B-ORG
+l	I-ORG
+
+Sok	O
+marchwiowo	O
+-	O
+brzoskwiowo	O
+-	O
+jabłkowy	O
+750ml	B-ORG
+
+CILLIT	B-PER
+BANG	I-PER
+Aktywna	O
+piana	O
+do	O
+czyszczenia	O
+-	O
+Osady	O
+z	O
+Mydła	O
+i	O
+Prysznice	O
+
+WM	B-PER
+TABLETKI	O
+CZYSZCZACE	O
+DO	O
+WC	O
+CYTRYNA	O
+16	O
+SZT	O
+
+Tymbark	B-PER
+Vitamini	O
+Sok	O
+banan	O
+marchew	O
+jabłko	O
+300	B-ORG
+ml	I-ORG
+
+Zawieszka	O
+Wc	O
+natura	O
+3x55ml	B-ORG
+
+Vanish	B-PER
+Gold	O
+Carpet	O
+Care	O
+Proszek	O
+do	O
+dywanów	O
+i	O
+wykładzin	O
+650	B-ORG
+g	I-ORG
+
+Fortuna	B-PER
+Nektar	O
+multiwitamina1	B-ORG
+l	I-ORG
+
+Tymbark	B-PER
+Napój	O
+jabłko	O
+arbuz	O
+500	B-ORG
+ml	I-ORG
+
+Oshee	B-PER
+Vitamin	O
+Energy	O
+Witaminy	O
+Napój	O
+gazowany	O
+o	O
+smaku	O
+pomarańczowym	O
+250	B-ORG
+ml	I-ORG
+
+Cillit	B-PER
+Bang	I-PER
+Aktywna	O
+piana	O
+osady	O
+z	O
+mydła	O
+i	O
+prysznice	O
+Środek	O
+czyszczący	O
+600	B-ORG
+ml	I-ORG
+
+Oshee	B-PER
+Napój	O
+izotoniczny	O
+niegazowany	O
+o	O
+smaku	O
+czerwonej	O
+pomarańczy	O
+0,75	B-ORG
+l	I-ORG
+
+Raid	B-PER
+Aktywne	O
+zawieszki	O
+na	O
+mole	O
+12	B-ORG
+sztuk	I-ORG
+
+Dawtona	B-PER
+Sok	O
+pomidorowy	O
+pikantny	O
+330	B-ORG
+ml	I-ORG
+
+Szampon	O
+do	O
+dywanów	O
+
+Foxy	B-PER
+Asso	O
+Ręcznik	O
+kuchenny	O
+2	O
+rolki	O
+
+Coccolino	B-PER
+Creations	O
+Tuberose	O
+&	O
+Vanilla	O
+Flower	O
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+koncentrat	O
+1450	B-ORG
+ml	I-ORG
+(58	O
+prań)	O
+
+Ajax	B-PER
+WC	O
+Power	O
+Płyn	O
+do	O
+mycia	O
+i	O
+dezynfekcji	O
+toalet	O
+500	B-ORG
+ml	I-ORG
+
+Fortuna	B-PER
+Sok	O
+100%	O
+pomarańcza	O
+200	B-ORG
+ml	I-ORG
+
+Płyn	O
+czyszczący	O
+do	O
+zmywarek	O
+250	B-ORG
+ml	I-ORG
+
+Somat	B-PER
+Classic	O
+Tabletki	O
+do	O
+mycia	O
+naczyń	O
+w	O
+zmywarkach	O
+1050	B-ORG
+g	I-ORG
+(60	B-ORG
+sztuk)	I-ORG
+
+Ariel	B-PER
+Allin1	O
+Pods	O
++Unstoppables	O
+Kapsułki	O
+do	O
+prania,	O
+24	O
+prań	O
+
+Herbapol	B-PER
+Syrop	O
+owocowy	O
+o	O
+smaku	O
+żurawinowym	O
+420	B-ORG
+ml	I-ORG
+
+DOMESTOS	B-PER
+Power	O
+5	O
+Kostka	O
+toaletowa	O
+Duo	O
+Lime	O
+(2x55g)	B-ORG
+
+Sidolux	B-PER
+Uniwersalny	O
+Płyn	O
+do	O
+mycia	O
+kwiat	O
+japońskiej	O
+wiśni	O
+1	B-ORG
+l	I-ORG
+
+Lenor	B-PER
+Sensitive	O
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+1800ML,	O
+60	O
+prań	O
+
+Kubuś	B-PER
+Sok	O
+banan	O
+marchew	O
+jabłko	O
+300	B-ORG
+ml	I-ORG
+
+Napój	O
+z	O
+sokiem	O
+cytrynowym	O
+z	O
+miąższem	O
+1L	B-ORG
+
+Regina	B-PER
+Ręcznik	O
+kuchenny	O
+2	O
+rolki	O
+
+Raid	B-PER
+Przeciw	O
+komarom	O
+Wkładki	O
+do	O
+elektrofumigatora	O
+owadobójczego	O
+30	B-ORG
+sztuk	I-ORG
+
+Veroni	B-PER
+Active	O
+Isotonic	O
+Napój	O
+izotoniczny	O
+niegazowany	O
+o	O
+smaku	O
+pomarańczowym	O
+700	B-ORG
+ml	I-ORG
+
+ŻYWIEC	B-PER
+ZDRÓJ	I-PER
+Mocny	O
+Gaz	O
+
+Ajax	B-PER
+Floral	O
+Fiesta	O
+Środek	O
+czyszczący	O
+kwiaty	O
+laguny	O
+1	B-ORG
+l	I-ORG
+
+Kropla	B-PER
+Beskidu	O
+Naturalna	O
+woda	O
+mineralna	O
+musująca	O
+6	B-ORG
+x	I-ORG
+1,5	I-ORG
+l	I-ORG
+
+HORTEX	B-PER
+Sok	O
+100%	O
+mango	O
+&	O
+jabłko	O
+PET	O
+
+Pur	B-PER
+Sekrety	O
+Pielęgnacji	O
+Hands	O
+&	O
+Nails	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+750	B-ORG
+ml	I-ORG
+
+FAIRY	B-PER
+PLATINUM	O
+All	O
+in	O
+One	O
+Kapsułki	O
+do	O
+zmywarki	O
+37	B-ORG
+szt.	I-ORG
+
+KRET	B-PER
+Udrażniacz	O
+w	O
+żelu	O
+
+Cillit	B-PER
+Bang	I-PER
+Naturally	O
+Powerful	O
+Spray	O
+do	O
+czyszczenia	O
+łazienki	O
+750	B-ORG
+ml	I-ORG
+
+AJAX	B-PER
+Floral	O
+Fiesta	O
+Płyn	O
+do	O
+czyszczenia	O
+uniwersalny	O
+Kwiat	O
+Bzu	O
+
+STAROPOLANKA	B-PER
+KIDS	O
+Woda	O
+źródlana	O
+niegazowana	O
+
+AJAX	B-PER
+Floral	O
+Fiesta	O
+Płyn	O
+do	O
+czyszczenia	O
+uniwersalny	O
+Czerwony	O
+
+SILAN	B-PER
+Aromatheraphy	O
+Płyn	O
+do	O
+zmiękczania	O
+tkanin	O
+Cool	O
+Fresh	O
+
+Odświeżacz	O
+powietrza	O
+w	O
+płynie	O
+2w1	B-ORG
+lawenda	I-ORG
+
+Ariel	B-PER
+Baby	O
+Płyn	O
+do	O
+prania,	O
+1.1l,	B-ORG
+20	O
+prań	O
+
+Cisowianka	B-PER
+Naturalna	O
+woda	O
+mineralna	O
+gazowana	O
+niskosodowa	O
+500	B-ORG
+ml	I-ORG
+
+DETTOL	B-PER
+Power	O
+&	O
+Fresh	O
+Wielofunkcyjny	O
+spray	O
+do	O
+powierzchni	O
+o	O
+zapachu	O
+limonki	O
+i	O
+cytryny	O
+
+Staropolanka	B-PER
+800	O
+Naturalna	O
+woda	O
+mineralna	O
+średniozmineralizowana	O
+gazowana	O
+500	B-ORG
+ml	I-ORG
+
+Vizir	B-PER
+Alpine	O
+Fresh	O
+Proszek	O
+do	O
+prania	O
+3.825	B-ORG
+kg,	I-ORG
+51	O
+prań	O
+
+LENOR	B-PER
+Perfum	O
+des	O
+secrets	O
+Płyn	O
+do	O
+płukania	O
+tkanin	O
+Blush	O
+
+Dr.	B-PER
+Beckmann	I-PER
+Ultra	O
+Chusteczki	O
+wyłapujące	O
+kolor	O
+i	O
+wspomagające	O
+usuwanie	O
+brudu	O
+10	B-ORG
+sztuk	I-ORG
+
+Tarczyn	B-PER
+Sok	O
+100%	O
+pomarańcza	O
+300	B-ORG
+ml	I-ORG
+
+Fortuna	B-PER
+WW+	O
+Sok	O
+100%	O
+pomidorowo-warzywny	O
++	O
+imbir	O
+300	B-ORG
+ml	I-ORG
+
+BREF	B-PER
+10xEffect	O
+Power	O
+Gel	O
+Płynny	O
+środek	O
+do	O
+mycia	O
+muszli	O
+WC	O
+przeciw	O
+kamieniowi	O
+
+Duck	B-PER
+Deep	O
+Action	O
+Mint	O
+Żel	O
+do	O
+czyszczenia	O
+i	O
+dezynfekcji	O
+toalet	O
+750	B-ORG
+ml	I-ORG
+
+CILLIT	B-PER
+BANG	I-PER
+Aktywna	O
+piana	O
+do	O
+czyszczenia	O
+-	O
+Bakterie	O
+i	O
+brud	O
+
+Cif	B-PER
+Cream	O
+Pink	O
+Flowers	O
+z	O
+mikrokryształkami	O
+Mleczko	O
+do	O
+czyszczenia	O
+powierzchni	O
+780	B-ORG
+g	I-ORG
+
+Płyn	B-PER
+do	O
+prania	O
+ręcznego	O
+250ml	B-ORG
+
+ŻYWIEC	B-PER
+ZDRÓJ	I-PER
+Zero	O
+cukru	O
+Z	O
+nutą	O
+Cytryny	O
+
+Płyn	O
+do	O
+mycia	O
+paneli	O
+
+ARIEL	B-PER
+Baby	O
+Płyn	O
+do	O
+prania	O
+tkanin	O
+
+Fortuna	B-PER
+Sok	O
+z	O
+dodatkiem	O
+witaminy	O
+C	O
+odporność	O
+pomarańcza	O
+1	B-ORG
+l	I-ORG
+
+Ajax	B-PER
+Środek	O
+czyszczący	O
+migdał	O
+1	B-ORG
+l	I-ORG
+
+MONSTER	B-PER
+Mango	O
+Loco	O
+Napój	O
+energentyzujący	O
+gazowany	O
+
+Pur	B-PER
+Sekrety	O
+Kucharza	O
+Lemon	O
+Extra	O
+Płyn	O
+do	O
+mycia	O
+naczyń	O
+450	B-ORG
+ml	I-ORG
+
+AIR	B-PER
+WICK	I-PER
+Odświeżacz	O
+powietrza	O
+wkład	O
+Księżycowa	O
+Lilia	O
+
+Pronto	B-PER
+Classic	O
+Aerozol	O
+do	O
+mebli	O
+drewnianych	O
+300	B-ORG
+ml	I-ORG
+
+Tarczyn	B-PER
+Napój	O
+wieloowocowy	O
+multiwitamina	O
+12	O
+witamin	O
+300	B-ORG
+ml	I-ORG
+
+Kubuś	B-PER
+Waterrr	O
+Napój	O
+o	O
+smaku	O
+maliny	O
+500	B-ORG
+ml	I-ORG
+
+KINLEY	B-PER
+Napój	O
+gazowany	O
+
+Jurajska	B-PER
+Ice	O
+Tea	O
+Napój	O
+niegazowany	O
+o	O
+smaku	O
+cytryny	O
+1,5	B-ORG
+l	I-ORG
+
+Fortuna	B-PER
+Nektar	O
+grejpfrut	O
+czerwony	O
+1	B-ORG
+l	I-ORG
+
+Płyn	O
+nabłyszczający	O
+do	O
+zmywarek	O
+
+Domestos	B-PER
+Przedłużona	O
+Moc	O
+Original	O
+Płyn	O
+czyszcząco-dezynfekujący	O
+750	B-ORG
+ml	I-ORG
+
+Syrop	O
+cytrynowy	O
+1L	B-ORG
+
+Jan	B-PER
+Niezbędny	O
+Zmywak	O
+Trio	O
+3szt	B-ORG
+
+PERSIL	B-PER
+COLOR	O
+GEL	O
+Żel	O
+do	O
+prania	O
+tkanin	O
+
+DUCK	B-PER
+Aqua	O
+Blue	O
+4in1	O
+Zawieszka	O
+do	O
+toalet	O
+
+Persil	B-PER
+Discs	O
+Color	O
+Kapsułki	O
+do	O
+prania	O
+550	B-ORG
+g	I-ORG
+(22	O
+prania)	O
+
+COCA-COLA	B-PER
+Napój	O
+gazowany	O
+(szkło)	O
+(cena	O
+zawiera	O
+0,40	O
+zł	O
+kaucji	O
+za	O
+butelkę)	O
+
+AIR	B-PER
+WICK	I-PER
+Odświeżacz	O
+powietrza	O
+Białe	O
+Kwiaty	O
+100%	O
+Naturalna	O
+
+Hortex	B-PER
+Nektar	O
+czarna	O
+porzeczka	O
+300	B-ORG
+ml	I-ORG
+
+Air	B-PER
+Wick	I-PER
+Elektryczny	O
+odświeżacz	O
+powietrza	O
+Białe	O
+kwiaty	O
+19	B-ORG
+ml	I-ORG
+
+Dawtona	B-PER
+Sok	O
+pomidorowy	O
+z	O
+polskimi	O
+ziołami	O
+330	B-ORG
+ml	I-ORG
+
+Pysio	B-PER
+Sok	O
+marchew	O
+jabłko	O
+brzoskwinia	O
+900	B-ORG
+ml	I-ORG
+
+Tymbark	B-PER
+Sok	O
+100%	O
+multiwitamina	O
+1	B-ORG
+l	I-ORG
+
+Rex	B-PER
+Kolor	O
+Proszek	O
+do	O
+prania	O
+tkanin	O
+kolorowych	O
+3	B-ORG
+kg	I-ORG
+(40	O
+prań)	O
+
+Hortex	B-PER
+Sok	O
+100%	O
+pomarańcza	O
+1	B-ORG
+l	I-ORG
+
+Sidolux	B-PER
+do	O
+nagrobków	O
+Mleczko	O
+do	O
+czyszczenia	O
+330	B-ORG
+g	I-ORG
+
+Sprite	B-PER
+Zero	O
+Napój	O
+gazowany	O
+850	B-ORG
+ml	I-ORG
+
+Płyn	O
+do	O
+mycia	O
+szyb	O
+
+Coca-Cola	B-PER
+Napój	O
+gazowany	O
+2	B-ORG
+x	I-ORG
+1,5	I-ORG
+l	I-ORG
+
