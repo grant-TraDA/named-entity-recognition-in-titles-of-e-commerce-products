@@ -1,0 +1,18 @@
+seed: 1234
+cuda_device: 0
+batch_size: 1
+text_column_name: tokens
+label_column_name: ner_tags
+f1_include_O: False
+scenario:
+  name: few_shot_linear_readout
+  metrics:
+    - f1_micro
+    - f1_macro
+
+defaults:
+  - dataset: phones_es
+  - dataset_processor: bert
+  - encoder: bert
+  - evaluation/dataset: nway_kshot_5_1
+  - evaluation/classifier: logistic_regression

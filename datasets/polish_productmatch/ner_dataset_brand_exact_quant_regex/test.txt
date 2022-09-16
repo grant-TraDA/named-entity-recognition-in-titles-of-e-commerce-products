@@ -1,10 +1,10 @@
-MOUNTAIN	B-PER
-DEW	I-PER
+MOUNTAIN	B-BRAND
+DEW	I-BRAND
 Napój	O
 gazowany	O
 
-Air	B-PER
-Wick	I-PER
+Air	B-BRAND
+Wick	I-BRAND
 Life	O
 Scents	O
 Wtyczka	O
@@ -15,30 +15,30 @@ zapachowy	O
 Świeżość	O
 letniego	O
 poranka	O
-19	B-ORG
-ml	I-ORG
+19	B-QUANTITY
+ml	I-QUANTITY
 
-Cillit	B-PER
-Bang	I-PER
+Cillit	B-BRAND
+Bang	I-BRAND
 Zero	O
 kamienia	O
 Spray	O
-750	B-ORG
-ml	I-ORG
+750	B-QUANTITY
+ml	I-QUANTITY
 
-COCA-COLA	B-PER
+COCA-COLA	B-BRAND
 ZERO	O
 Napój	O
 gazowany	O
 Peach	O
 
-Sprite	B-PER
+Sprite	B-BRAND
 Napój	O
 gazowany	O
-1,5	B-ORG
-l	I-ORG
+1,5	B-QUANTITY
+l	I-QUANTITY
 
-Coccolino	B-PER
+Coccolino	B-BRAND
 Creations	O
 Purple	O
 Orchid	O
@@ -48,12 +48,12 @@ Płyn	O
 do	O
 płukania	O
 koncentrat	O
-1450	B-ORG
-ml	I-ORG
+1450	B-QUANTITY
+ml	I-QUANTITY
 (58	O
 prań)	O
 
-Oshee	B-PER
+Oshee	B-BRAND
 Vitamin	O
 Water	O
 Napój	O
@@ -61,10 +61,10 @@ niegazowany	O
 o	O
 smaku	O
 cytryny-pomarańczy	O
-555	B-ORG
-ml	I-ORG
+555	B-QUANTITY
+ml	I-QUANTITY
 
-FuzeTea	B-PER
+FuzeTea	B-BRAND
 Napój	O
 o	O
 smaku	O
@@ -76,8 +76,8 @@ czarnej	O
 herbaty	O
 i	O
 hibiskusa	O
-500	B-ORG
-ml	I-ORG
+500	B-QUANTITY
+ml	I-QUANTITY
 
 Kostka	O
 barwiaca	O
@@ -85,16 +85,16 @@ do	O
 wc	O
 zielona	O
 
-Pronto	B-PER
+Pronto	B-BRAND
 Original	O
 Pasta	O
 nabłyszczająca	O
 do	O
 drewna	O
-750	B-ORG
-ml	I-ORG
+750	B-QUANTITY
+ml	I-QUANTITY
 
-Lenor	B-PER
+Lenor	B-BRAND
 Perfumy	O
 do	O
 prania	O
@@ -103,25 +103,25 @@ Amethyst	O
 &	O
 Floral	O
 Bouquet,	O
-210	B-ORG
-g	I-ORG
+210	B-QUANTITY
+g	I-QUANTITY
 
-Sprite	B-PER
+Sprite	B-BRAND
 Napój	O
 gazowany	O
-2	B-ORG
-x	I-ORG
-1,5	I-ORG
-l	I-ORG
+2	B-QUANTITY
+x	I-QUANTITY
+1,5	I-QUANTITY
+l	I-QUANTITY
 
-Fortuna	B-PER
+Fortuna	B-BRAND
 Sok	O
 100%	O
 jabłko	O
-200	B-ORG
-ml	I-ORG
+200	B-QUANTITY
+ml	I-QUANTITY
 
-BREF	B-PER
+BREF	B-BRAND
 Power	O
 Aktiv	O
 ProNature	O
@@ -131,14 +131,14 @@ WC	O
 -	O
 Grejpfrut	O
 
-Hortex	B-PER
+Hortex	B-BRAND
 Napój	O
 pomarańcza	O
 brzoskwinia	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-Finish	B-PER
+Finish	B-BRAND
 Quantum	O
 Max	O
 Kapsułki	O
@@ -147,29 +147,29 @@ mycia	O
 naczyń	O
 w	O
 zmywarce	O
-697,5	B-ORG
-g	I-ORG
-(45	B-ORG
-sztuk)	I-ORG
+697,5	B-QUANTITY
+g	I-QUANTITY
+(45	B-QUANTITY
+sztuk)	I-QUANTITY
 
-SOMAT	B-PER
+SOMAT	B-BRAND
 Gold	O
 Tabletki	O
 do	O
 zmywarek	O
-54	B-ORG
-szt.	I-ORG
+54	B-QUANTITY
+szt.	I-QUANTITY
 
-Monster	B-PER
+Monster	B-BRAND
 Punch	O
 Mixxd	O
 Gazowany	O
 napój	O
 energetyczny	O
-500	B-ORG
-ml	I-ORG
+500	B-QUANTITY
+ml	I-QUANTITY
 
-PERWOLL	B-PER
+PERWOLL	B-BRAND
 Płyn	O
 do	O
 prania	O
@@ -180,7 +180,7 @@ Renew	O
 &	O
 Blossom	O
 
-SILAN	B-PER
+SILAN	B-BRAND
 Aromatheraphy	O
 Płyn	O
 do	O
@@ -189,16 +189,16 @@ tkanin	O
 Dreamy	O
 Lotus	O
 
-Ariel	B-PER
+Ariel	B-BRAND
 Sensitive	O
 Płyn	O
 do	O
-prania,	B-ORG
+prania,	B-QUANTITY
 1.1l,	O
 20	O
 prań	O
 
-Perwoll	B-PER
+Perwoll	B-BRAND
 Care	O
 &	O
 Condition	O
@@ -206,12 +206,12 @@ Płynny	O
 środek	O
 do	O
 prania	O
-2,7	B-ORG
-l	I-ORG
+2,7	B-QUANTITY
+l	I-QUANTITY
 (45	O
 prań)	O
 
-KUBUŚ	B-PER
+KUBUŚ	B-BRAND
 Play!	O
 Napój	O
 owocowy	O
@@ -221,7 +221,7 @@ owoce	O
 jabłko	O
 brzoskwinia	O
 
-BREF	B-PER
+BREF	B-BRAND
 Power	O
 Aktiv	O
 Zawieszka	O
@@ -230,19 +230,19 @@ WC	O
 -	O
 Soczysta	O
 cytryna	O
-3x50g	B-ORG
+3x50g	B-QUANTITY
 
-E	B-PER
+E	B-BRAND
 Delikatny	O
 Proszek	O
 do	O
 prania	O
-3,9	B-ORG
-kg	I-ORG
+3,9	B-QUANTITY
+kg	I-QUANTITY
 (60	O
 prań)	O
 
-Oshee	B-PER
+Oshee	B-BRAND
 Zero	O
 Napój	O
 niegazowany	O
@@ -250,18 +250,18 @@ o	O
 smaku	O
 różowego	O
 grapefruita	O
-0,75	B-ORG
-l	I-ORG
+0,75	B-QUANTITY
+l	I-QUANTITY
 
-Herbapol	B-PER
+Herbapol	B-BRAND
 Syrop	O
 o	O
 smaku	O
 imbirowym	O
-420	B-ORG
-ml	I-ORG
+420	B-QUANTITY
+ml	I-QUANTITY
 
-SIDOLUX	B-PER
+SIDOLUX	B-BRAND
 Uniwersalny	O
 płyn	O
 do	O
@@ -270,15 +270,15 @@ mycia	O
 Kwiat	O
 Wiśni	O
 
-FOXY	B-PER
+FOXY	B-BRAND
 Cartapaglia	O
 Ręcznik	O
 kuchenny	O
-2	B-ORG
-szt.	I-ORG
+2	B-QUANTITY
+szt.	I-QUANTITY
 
-AIR	B-PER
-WICK	I-PER
+AIR	B-BRAND
+WICK	I-BRAND
 Life	O
 Scents	O
 Odświeżacz	O
@@ -289,31 +289,31 @@ Pierwszy	O
 Dzień	O
 Wiosny	O
 
-Hortex	B-PER
+Hortex	B-BRAND
 Vitaminka	O
 Sok	O
 brzoskwinia	O
 marchew	O
 jabłko	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-VELVET	B-PER
+VELVET	B-BRAND
 Ręcznik	O
 papierowy	O
 2	O
 rolki	O
 
-Frosch	B-PER
+Frosch	B-BRAND
 ecological	O
 Lawendowy	O
 płyn	O
 do	O
 WC	O
-750	B-ORG
-ml	I-ORG
+750	B-QUANTITY
+ml	I-QUANTITY
 
-E	B-PER
+E	B-BRAND
 Duo-Caps	O
 Aromaterapia	O
 Kapsułki	O
@@ -324,21 +324,21 @@ orchidea	O
 i	O
 drzewo	O
 sandałowe	O
-800	B-ORG
-g	I-ORG
-(40	B-ORG
-x	I-ORG
-20	I-ORG
-g)	I-ORG
+800	B-QUANTITY
+g	I-QUANTITY
+(40	B-QUANTITY
+x	I-QUANTITY
+20	I-QUANTITY
+g)	I-QUANTITY
 
-Tymbark	B-PER
+Tymbark	B-BRAND
 Napój	O
 jabłko	O
 gruszka	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-FINISH	B-PER
+FINISH	B-BRAND
 Płyn	O
 do	O
 czyszczenia	O
@@ -346,8 +346,8 @@ zmywarek,	O
 czyścik	O
 Regular	O
 
-SEVENTH	B-PER
-GENERATION	I-PER
+SEVENTH	B-BRAND
+GENERATION	I-BRAND
 Płyn	O
 do	O
 mycia	O
@@ -356,45 +356,45 @@ Free	O
 &	O
 Clear	O
 
-Coca-Cola	B-PER
+Coca-Cola	B-BRAND
 Cherry	O
 Taste	O
 Napój	O
 gazowany	O
-850	B-ORG
-ml	I-ORG
+850	B-QUANTITY
+ml	I-QUANTITY
 
 Syrop	O
 o	O
 smaku	O
 miętowym	O
-750ml	B-ORG
+750ml	B-QUANTITY
 
-TYMBARK	B-PER
+TYMBARK	B-BRAND
 Arbuz	O
 Jabłko	O
 Napój	O
 owocowy,	O
 szkło	O
 
-Pronto	B-PER
+Pronto	B-BRAND
 Płyn	O
 do	O
 drewna	O
 z	O
 olejkiem	O
 migdałowym	O
-750	B-ORG
-ml	I-ORG
+750	B-QUANTITY
+ml	I-QUANTITY
 
-Tymbark	B-PER
+Tymbark	B-BRAND
 Sok	O
 100%	O
 pomidor	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-LENOR	B-PER
+LENOR	B-BRAND
 Płyn	O
 do	O
 płukania	O
@@ -402,23 +402,23 @@ tkanin	O
 Dewy	O
 Blossom	O
 
-DETTOL	B-PER
+DETTOL	B-BRAND
 Antybakteryjny	O
 spray	O
 do	O
 powierzchni	O
 
-Domestos	B-PER
+Domestos	B-BRAND
 Przedłużona	O
 Moc	O
 Atlantic	O
 Fresh	O
 Płyn	O
 czyszcząco-dezynfekujący	O
-1250	B-ORG
-ml	I-ORG
+1250	B-QUANTITY
+ml	I-QUANTITY
 
-CIF	B-PER
+CIF	B-BRAND
 Perfect	O
 Finish	O
 Spray	O
@@ -430,16 +430,16 @@ kamienia	O
 naturalnego,	O
 marmuru	O
 
-Kubuś	B-PER
+Kubuś	B-BRAND
 Waterrr	O
 Napój	O
 o	O
 smaku	O
 maliny	O
-1,5	B-ORG
-l	I-ORG
+1,5	B-QUANTITY
+l	I-QUANTITY
 
-E	B-PER
+E	B-BRAND
 Duo-Caps	O
 Aromaterapia	O
 Kapsułki	O
@@ -450,23 +450,23 @@ orchidea	O
 i	O
 Drzewo	O
 sandał.	O
-40	B-ORG
-szt.	I-ORG
+40	B-QUANTITY
+szt.	I-QUANTITY
 
-Persil	B-PER
+Persil	B-BRAND
 Color	O
 Lavender	O
 Freshness	O
 Żel	O
 do	O
 prania	O
-2,00	B-ORG
-l	I-ORG
+2,00	B-QUANTITY
+l	I-QUANTITY
 (40	O
 prań)	O
 
-SEVENTH	B-PER
-GENERATION	I-PER
+SEVENTH	B-BRAND
+GENERATION	I-BRAND
 Spray	O
 do	O
 czyszczenia	O
@@ -475,7 +475,7 @@ Free	O
 &	O
 Clear	O
 
-AJAX	B-PER
+AJAX	B-BRAND
 Płyn	O
 do	O
 mycia	O
@@ -483,23 +483,23 @@ szyb	O
 Triple	O
 Action	O
 
-Kubuś	B-PER
+Kubuś	B-BRAND
 Sok	O
 banan	O
 jabłko	O
 brzoskwinia	O
-900	B-ORG
-ml	I-ORG
+900	B-QUANTITY
+ml	I-QUANTITY
 
-Frosch	B-PER
+Frosch	B-BRAND
 ecological	O
 Lawendowy	O
 środek	O
 czyszczący	O
 do	O
 łazienki	O
-500	B-ORG
-ml	I-ORG
+500	B-QUANTITY
+ml	I-QUANTITY
 
 Recznik	O
 papierowy	O
@@ -507,27 +507,27 @@ papierowy	O
 celulozy	O
 2	O
 warstwy,	O
-300	B-ORG
-listków	I-ORG
+300	B-QUANTITY
+listków	I-QUANTITY
 
-WM	B-PER
+WM	B-BRAND
 BARWIĄCE	O
 KOSTKI	O
 DO	O
 WC	O
 FOREST	O
 
-Domestos	B-PER
+Domestos	B-BRAND
 Przedłużona	O
 Moc	O
 Atlantic	O
 Fresh	O
 Płyn	O
 czyszcząco-dezynfekujący	O
-750	B-ORG
-ml	I-ORG
+750	B-QUANTITY
+ml	I-QUANTITY
 
-Cif	B-PER
+Cif	B-BRAND
 Max	O
 Power	O
 Spring	O
@@ -535,10 +535,10 @@ Fresh	O
 Mleczko	O
 z	O
 wybielaczem	O
-1001	B-ORG
-g	I-ORG
+1001	B-QUANTITY
+g	I-QUANTITY
 
-Bref	B-PER
+Bref	B-BRAND
 WC	O
 ProNature	O
 Zawieszka	O
@@ -548,42 +548,42 @@ WC	O
 mięta	O
 i	O
 eukaliptus	O
-50	B-ORG
-g	I-ORG
+50	B-QUANTITY
+g	I-QUANTITY
 
 S.Pellegrino	O
 Naturalna	O
 woda	O
 mineralna	O
 gazowana	O
-250	B-ORG
-ml	I-ORG
+250	B-QUANTITY
+ml	I-QUANTITY
 
-Cappy	B-PER
+Cappy	B-BRAND
 Nektar	O
 grejpfrutowy	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-Herbapol	B-PER
+Herbapol	B-BRAND
 Syrop	O
 o	O
 smaku	O
 kiwi	O
-420	B-ORG
-ml	I-ORG
+420	B-QUANTITY
+ml	I-QUANTITY
 
-Primavera	B-PER
+Primavera	B-BRAND
 Woda	O
 źródlana	O
 niegazowana	O
-6	B-ORG
-x	I-ORG
-1,5	I-ORG
-l	I-ORG
+6	B-QUANTITY
+x	I-QUANTITY
+1,5	I-QUANTITY
+l	I-QUANTITY
 
-SEVENTH	B-PER
-GENERATION	I-PER
+SEVENTH	B-BRAND
+GENERATION	I-BRAND
 Płyn	O
 do	O
 mycia	O
@@ -593,21 +593,21 @@ cytrusy	O
 i	O
 imbir	O
 
-Tymbark	B-PER
+Tymbark	B-BRAND
 Napój	O
 pomarańcza	O
 brzoskwinia	O
-2	B-ORG
-l	I-ORG
+2	B-QUANTITY
+l	I-QUANTITY
 
-Lenor	B-PER
+Lenor	B-BRAND
 Exotic	O
 Bloom	O
 Płyn	O
 do	O
 płukania	O
 tkanin	O
-1.42L,	B-ORG
+1.42L,	B-QUANTITY
 48	O
 prań	O
 
@@ -615,10 +615,10 @@ Finish	O
 Sól	O
 do	O
 zmywarki	O
-4	B-ORG
-kg	I-ORG
+4	B-QUANTITY
+kg	I-QUANTITY
 
-Perwoll	B-PER
+Perwoll	B-BRAND
 Wool	O
 &	O
 Delicates	O
@@ -626,8 +626,8 @@ Płynny	O
 środek	O
 do	O
 prania	O
-1,8	B-ORG
-l	I-ORG
+1,8	B-QUANTITY
+l	I-QUANTITY
 (30	O
 prań)	O
 
@@ -640,10 +640,10 @@ i	O
 kleszczom	O
 w	O
 aerozolu	O
-100	B-ORG
-ml	I-ORG
+100	B-QUANTITY
+ml	I-QUANTITY
 
-Bref	B-PER
+Bref	B-BRAND
 WC	O
 Color	O
 Aktiv+	O
@@ -653,46 +653,46 @@ muszli	O
 WC	O
 świeże	O
 kwiaty	O
-2	B-ORG
-x	I-ORG
-50	I-ORG
-g	I-ORG
+2	B-QUANTITY
+x	I-QUANTITY
+50	I-QUANTITY
+g	I-QUANTITY
 
-Ajax	B-PER
+Ajax	B-BRAND
 Floral	O
 Fiesta	O
 Środek	O
 czyszczący	O
 kwiaty	O
 bzu	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-FORTUNA	B-PER
+FORTUNA	B-BRAND
 Sok	O
 pomidorowy	O
 100%	O
 
-Ludwik	B-PER
+Ludwik	B-BRAND
 do	O
 kuchni	O
 Mleczko	O
 do	O
 czyszczenia	O
 kuchni	O
-750	B-ORG
-ml	I-ORG
+750	B-QUANTITY
+ml	I-QUANTITY
 
-Orangina	B-PER
+Orangina	B-BRAND
 Napój	O
 gazowany	O
 smak	O
 czerwonej	O
 pomarańczy	O
-1,4	B-ORG
-l	I-ORG
+1,4	B-QUANTITY
+l	I-QUANTITY
 
-DOMESTOS	B-PER
+DOMESTOS	B-BRAND
 Przedłużona	O
 Moc	O
 Płyn	O
@@ -701,16 +701,16 @@ Biel	O
 i	O
 Połysk	O
 
-Fanta	B-PER
+Fanta	B-BRAND
 Pomarańczowa	O
 Napój	O
 gazowany	O
-2	B-ORG
-x	I-ORG
-1,5	I-ORG
-l	I-ORG
+2	B-QUANTITY
+x	I-QUANTITY
+1,5	I-QUANTITY
+l	I-QUANTITY
 
-Kubuś	B-PER
+Kubuś	B-BRAND
 Play!	O
 Napój	O
 z	O
@@ -718,10 +718,10 @@ marchwi	O
 i	O
 owoców	O
 multiwitamina	O
-400	B-ORG
-ml	I-ORG
+400	B-QUANTITY
+ml	I-QUANTITY
 
-BREF	B-PER
+BREF	B-BRAND
 Hygienically	O
 Clean&Shine	O
 Środek	O
@@ -731,7 +731,7 @@ WC	O
 Fresh	O
 Mist	O
 
-Bref	B-PER
+Bref	B-BRAND
 WC	O
 Hygienically	O
 Clean	O
@@ -743,27 +743,27 @@ Delight	O
 czyszczący	O
 do	O
 WC	O
-700	B-ORG
-ml	I-ORG
+700	B-QUANTITY
+ml	I-QUANTITY
 
-E	B-PER
+E	B-BRAND
 Delikatny	O
 Proszek	O
 do	O
 prania	O
-3,9	B-ORG
-kg	I-ORG
+3,9	B-QUANTITY
+kg	I-QUANTITY
 (60	O
 prań)	O
 
-TYMBARK	B-PER
+TYMBARK	B-BRAND
 Sok	O
 100%	O
 Wieloowocowy	O
 
-LIPTON	B-PER
-ICE	I-PER
-TEA	I-PER
+LIPTON	B-BRAND
+ICE	I-BRAND
+TEA	I-BRAND
 Lemon	O
 Napój	O
 niegazowany	O
@@ -771,19 +771,19 @@ niegazowany	O
 Coca-Cola	O
 Napój	O
 gazowany	O
-4	B-ORG
-x	I-ORG
-330	I-ORG
-ml	I-ORG
+4	B-QUANTITY
+x	I-QUANTITY
+330	I-QUANTITY
+ml	I-QUANTITY
 
-Tymbark	B-PER
+Tymbark	B-BRAND
 Nektar	O
 czarna	O
 porzeczka	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-Somat	B-PER
+Somat	B-BRAND
 All	O
 in	O
 1	O
@@ -794,14 +794,14 @@ mycia	O
 naczyń	O
 w	O
 zmywarkach	O
-819	B-ORG
-g	I-ORG
-(45	B-ORG
-x	I-ORG
-18,2	I-ORG
-g)	I-ORG
+819	B-QUANTITY
+g	I-QUANTITY
+(45	B-QUANTITY
+x	I-QUANTITY
+18,2	I-QUANTITY
+g)	I-QUANTITY
 
-Kiwi	B-PER
+Kiwi	B-BRAND
 Instant	O
 Shine	O
 &	O
@@ -809,16 +809,16 @@ Protect	O
 Pasta	O
 nabłyszczająca	O
 brązowa	O
-75	B-ORG
-ml	I-ORG
+75	B-QUANTITY
+ml	I-QUANTITY
 
-Cappy	B-PER
+Cappy	B-BRAND
 Sok	O
 pomidorowy	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-Perwoll	B-PER
+Perwoll	B-BRAND
 Renew	O
 &	O
 Repair	O
@@ -829,46 +829,46 @@ Płynny	O
 środek	O
 do	O
 prania	O
-2,7	B-ORG
-l	I-ORG
+2,7	B-QUANTITY
+l	I-QUANTITY
 (45	O
 prań)	O
 
-Glade	B-PER
+Glade	B-BRAND
 Fresh	O
 Lemon	O
 Odświeżacz	O
 powietrza	O
 w	O
 aerozolu	O
-300	B-ORG
-ml	I-ORG
+300	B-QUANTITY
+ml	I-QUANTITY
 
-Regina	B-PER
+Regina	B-BRAND
 Ręcznik	O
 kuchenny	O
 2	O
 rolki	O
 
-TYMBARK	B-PER
+TYMBARK	B-BRAND
 Mango	O
 Mięta	O
 Napój	O
 owocowy,	O
 PET	O
 
-Domestos	B-PER
+Domestos	B-BRAND
 Power	O
 5	O
 Ocean	O
 Kostka	O
 toaletowa	O
-2	B-ORG
-x	I-ORG
-55	I-ORG
-g	I-ORG
+2	B-QUANTITY
+x	I-QUANTITY
+55	I-QUANTITY
+g	I-QUANTITY
 
-ARIEL	B-PER
+ARIEL	B-BRAND
 MOUNTAIN	O
 SPRING	O
 Kapsułki	O
@@ -878,16 +878,16 @@ białych	O
 i	O
 jasnych	O
 tkanin	O
-33	B-ORG
-szt.	I-ORG
+33	B-QUANTITY
+szt.	I-QUANTITY
 
-JAN	B-PER
-NIEZBĘDNY	I-PER
+JAN	B-BRAND
+NIEZBĘDNY	I-BRAND
 Ściereczki	O
 nasączane	O
 antybakteryjne	O
-40	B-ORG
-szt	I-ORG
+40	B-QUANTITY
+szt	I-QUANTITY
 
 Płyn	O
 do	O
@@ -895,7 +895,7 @@ mycia	O
 naczyń	O
 sensitive	O
 
-PYSIO	B-PER
+PYSIO	B-BRAND
 Banan	O
 Brzoskwinia	O
 Gruszka	O
@@ -905,7 +905,7 @@ owoców	O
 i	O
 dyni	O
 
-Glade	B-PER
+Glade	B-BRAND
 Pure	O
 Clean	O
 Linen	O
@@ -914,10 +914,10 @@ do	O
 elektrycznego	O
 odświeżacza	O
 powietrza	O
-20	B-ORG
-ml	I-ORG
+20	B-QUANTITY
+ml	I-QUANTITY
 
-Żywiec	B-PER
+Żywiec	B-BRAND
 Zdrój	O
 Mocny	O
 Gaz	O
@@ -926,30 +926,30 @@ gazowany	O
 i	O
 nuta	O
 cytryny-mięty	O
-1,5	B-ORG
-l	I-ORG
+1,5	B-QUANTITY
+l	I-QUANTITY
 
-Domestos	B-PER
+Domestos	B-BRAND
 Zero	O
 Kamienia	O
 Lime	O
 Żel	O
 do	O
 toalet	O
-750	B-ORG
-ml	I-ORG
+750	B-QUANTITY
+ml	I-QUANTITY
 
-Zielko	B-PER
+Zielko	B-BRAND
 Płyn	O
 do	O
 szyb	O
 i	O
 luster	O
 egzotyczny	O
-500	B-ORG
-ml	I-ORG
+500	B-QUANTITY
+ml	I-QUANTITY
 
-FAIRY	B-PER
+FAIRY	B-BRAND
 Original	O
 All	O
 In	O
@@ -957,21 +957,21 @@ One	O
 Tabletki	O
 do	O
 zmywarki	O
-44	B-ORG
-szt	I-ORG
+44	B-QUANTITY
+szt	I-QUANTITY
 
-FROSCH	B-PER
+FROSCH	B-BRAND
 Spray	O
 do	O
 czyszczenia	O
 łazienek	O
 lawendowy	O
 
-ŻYWIEC	B-PER
-ZDRÓJ	I-PER
+ŻYWIEC	B-BRAND
+ZDRÓJ	I-BRAND
 Niegazowany	O
 
-Vanish	B-PER
+Vanish	B-BRAND
 Płukanie	O
 firanek	O
 Płyn	O
@@ -979,43 +979,43 @@ do	O
 płukania	O
 białych	O
 firanek	O
-500	B-ORG
-ml	I-ORG
+500	B-QUANTITY
+ml	I-QUANTITY
 
-Schweppes	B-PER
+Schweppes	B-BRAND
 Cola	O
 Napój	O
 gazowany	O
 o	O
 smaku	O
 coli	O
-0,9	B-ORG
-l	I-ORG
+0,9	B-QUANTITY
+l	I-QUANTITY
 
-Tarczyn	B-PER
+Tarczyn	B-BRAND
 Sok	O
 100%	O
 pomarańcza	O
-300	B-ORG
-ml	I-ORG
+300	B-QUANTITY
+ml	I-QUANTITY
 
-VANISH	B-PER
+VANISH	B-BRAND
 Chusteczki	O
 zapobiegające	O
 zafarbowaniu	O
 ubrań	O
-20	B-ORG
-szt.	I-ORG
+20	B-QUANTITY
+szt.	I-QUANTITY
 
-Nałęczowianka	B-PER
+Nałęczowianka	B-BRAND
 Naturalna	O
 woda	O
 mineralna	O
 gazowana	O
-0,5	B-ORG
-l	I-ORG
+0,5	B-QUANTITY
+l	I-QUANTITY
 
-EVIAN	B-PER
+EVIAN	B-BRAND
 naturalna	O
 woda	O
 mineralna	O
@@ -1023,39 +1023,39 @@ niegazowana	O
 (Premium	O
 PET)	O
 
-Tymbark	B-PER
+Tymbark	B-BRAND
 Sok	O
 100%	O
 pomarańcza	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-Kubuś	B-PER
+Kubuś	B-BRAND
 Sok	O
 banan	O
 marchew	O
 jabłko	O
-900	B-ORG
-ml	I-ORG
+900	B-QUANTITY
+ml	I-QUANTITY
 
-Nałęczowianka	B-PER
+Nałęczowianka	B-BRAND
 Naturalna	O
 woda	O
 mineralna	O
 niegazowana	O
-6	B-ORG
-x	I-ORG
-1,5	I-ORG
-l	I-ORG
+6	B-QUANTITY
+x	I-QUANTITY
+1,5	I-QUANTITY
+l	I-QUANTITY
 
 Red	O
 Bull	O
 Napój	O
 energetyczny	O
-355	B-ORG
-ml	I-ORG
+355	B-QUANTITY
+ml	I-QUANTITY
 
-Bref	B-PER
+Bref	B-BRAND
 WC	O
 ProNature	O
 Zawieszka	O
@@ -1063,47 +1063,47 @@ do	O
 muszli	O
 WC	O
 grejpfrut	O
-2	B-ORG
-x	I-ORG
-50	I-ORG
-g	I-ORG
+2	B-QUANTITY
+x	I-QUANTITY
+50	I-QUANTITY
+g	I-QUANTITY
 
-Ajax	B-PER
+Ajax	B-BRAND
 Floral	O
 Fiesta	O
 Płyn	O
 do	O
 szyb	O
-500	B-ORG
-ml	I-ORG
+500	B-QUANTITY
+ml	I-QUANTITY
 
 Finish	O
 Płyn	O
 nabłyszczający	O
-400	B-ORG
-ml	I-ORG
+400	B-QUANTITY
+ml	I-QUANTITY
 
-Cappy	B-PER
+Cappy	B-BRAND
 Nektar	O
 z	O
 czarnych	O
 porzeczek	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-Baby	B-PER
-Zdrój	I-PER
+Baby	B-BRAND
+Zdrój	I-BRAND
 boy	O
 woda	O
 źródlana	O
 
-PRIMAVERA	B-PER
+PRIMAVERA	B-BRAND
 Naturalna	O
 woda	O
 źródlana	O
 niegazowana	O
 
-FINISH	B-PER
+FINISH	B-BRAND
 All	O
 in	O
 1	O
@@ -1112,10 +1112,10 @@ Tabletki	O
 do	O
 zmywarki	O
 Regular	O
-53	B-ORG
-szt	I-ORG
+53	B-QUANTITY
+szt	I-QUANTITY
 
-Bref	B-PER
+Bref	B-BRAND
 WC	O
 Power	O
 Aktiv	O
@@ -1126,19 +1126,19 @@ muszli	O
 WC	O
 soczysta	O
 cytryna	O
-50	B-ORG
-g	I-ORG
+50	B-QUANTITY
+g	I-QUANTITY
 
-Ariel	B-PER
+Ariel	B-BRAND
 Sensitive	O
 Płyn	O
 do	O
-prania,	B-ORG
+prania,	B-QUANTITY
 2.2l,	O
 40	O
 prań	O
 
-Staropolanka	B-PER
+Staropolanka	B-BRAND
 800	O
 Naturalna	O
 woda	O
@@ -1146,28 +1146,28 @@ mineralna	O
 średniozmineralizowana	O
 lekko	O
 gazowana	O
-500	B-ORG
-ml	I-ORG
+500	B-QUANTITY
+ml	I-QUANTITY
 
-Domestos	B-PER
+Domestos	B-BRAND
 Przedłużona	O
 Moc	O
 Atlantic	O
 Fresh	O
 Płyn	O
 czyszcząco-dezynfekujący	O
-750	B-ORG
-ml	I-ORG
+750	B-QUANTITY
+ml	I-QUANTITY
 
-Polo	B-PER
-Cockta	I-PER
+Polo	B-BRAND
+Cockta	I-BRAND
 Napój	O
 gazowany	O
 o	O
 smaku	O
 cola	O
-2	B-ORG
-l	I-ORG
+2	B-QUANTITY
+l	I-QUANTITY
 
 Żel	O
 do	O
@@ -1176,7 +1176,7 @@ kamienia	O
 i	O
 rdzy	O
 
-Woolite	B-PER
+Woolite	B-BRAND
 Płyn	O
 do	O
 prania	O
@@ -1187,12 +1187,12 @@ jasnych	O
 kolorów	O
 z	O
 keratyną	O
-3,6	B-ORG
-l	I-ORG
+3,6	B-QUANTITY
+l	I-QUANTITY
 (60	O
 prań)	O
 
-Frosch	B-PER
+Frosch	B-BRAND
 ecological	O
 Pomarańczowy	O
 środek	O
@@ -1200,10 +1200,10 @@ czyszczący	O
 do	O
 wszystkich	O
 powierzchni	O
-500	B-ORG
-ml	I-ORG
+500	B-QUANTITY
+ml	I-QUANTITY
 
-DOMESTOS	B-PER
+DOMESTOS	B-BRAND
 Przedłużona	O
 Moc	O
 Płyn	O
@@ -1211,7 +1211,7 @@ czyszcząco-dezynfekujący	O
 Atlantic	O
 Fresh	O
 
-Somat	B-PER
+Somat	B-BRAND
 Gold	O
 Lemon	O
 &	O
@@ -1222,25 +1222,25 @@ mycia	O
 naczyń	O
 w	O
 zmywarkach	O
-691,2	B-ORG
-g	I-ORG
-(36	B-ORG
-x	I-ORG
-19,2	I-ORG
-g)	I-ORG
+691,2	B-QUANTITY
+g	I-QUANTITY
+(36	B-QUANTITY
+x	I-QUANTITY
+19,2	I-QUANTITY
+g)	I-QUANTITY
 
-Cisowianka	B-PER
+Cisowianka	B-BRAND
 Naturalna	O
 woda	O
 mineralna	O
 niegazowana	O
 niskosodowa	O
-6	B-ORG
-x	I-ORG
-1,5	I-ORG
-l	I-ORG
+6	B-QUANTITY
+x	I-QUANTITY
+1,5	I-QUANTITY
+l	I-QUANTITY
 
-Fortuna	B-PER
+Fortuna	B-BRAND
 Karotka	O
 Sok	O
 marchew	O
@@ -1251,59 +1251,59 @@ witaminy	O
 A	O
 C	O
 E	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-TYMBARK	B-PER
+TYMBARK	B-BRAND
 Sok	O
 100%	O
 Multiwitamina	O
 PET	O
 
-Staropolanka	B-PER
+Staropolanka	B-BRAND
 Zdrój	O
 Woda	O
 źródlana	O
 niskozmineralizowana	O
 lekko	O
 gazowana	O
-5	B-ORG
-l	I-ORG
+5	B-QUANTITY
+l	I-QUANTITY
 
-Kret	B-PER
+Kret	B-BRAND
 Granulki	O
 do	O
 udrożniania	O
 rur	O
-40	B-ORG
-g	I-ORG
+40	B-QUANTITY
+g	I-QUANTITY
 
-WOOLITE	B-PER
+WOOLITE	B-BRAND
 Mix	O
 Colors	O
 Kapsułki	O
 do	O
 prania	O
-28	B-ORG
-szt.	I-ORG
+28	B-QUANTITY
+szt.	I-QUANTITY
 
-Air	B-PER
-Wick	I-PER
+Air	B-BRAND
+Wick	I-BRAND
 Odświeżacz	O
 powietrza	O
 i	O
 wkład	O
 białe	O
 kwiaty	O
-250	B-ORG
-ml	I-ORG
+250	B-QUANTITY
+ml	I-QUANTITY
 
-WM	B-PER
+WM	B-BRAND
 SYROP	O
 POMARANCZOWY	O
-750ml	B-ORG
+750ml	B-QUANTITY
 
-Finish	B-PER
+Finish	B-BRAND
 Quantum	O
 Max	O
 Lemon	O
@@ -1313,47 +1313,47 @@ mycia	O
 naczyń	O
 w	O
 zmywarce	O
-697,5	B-ORG
-g	I-ORG
-(45	B-ORG
-sztuk)	I-ORG
+697,5	B-QUANTITY
+g	I-QUANTITY
+(45	B-QUANTITY
+sztuk)	I-QUANTITY
 
-Cappy	B-PER
+Cappy	B-BRAND
 Sok	O
 pomidorowy	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-Pronto	B-PER
+Pronto	B-BRAND
 Płyn	O
 do	O
 drewna	O
 z	O
 olejkiem	O
 migdałowym	O
-750	B-ORG
-ml	I-ORG
+750	B-QUANTITY
+ml	I-QUANTITY
 
-COCA-COLA	B-PER
+COCA-COLA	B-BRAND
 ZERO	O
 PEACH	O
 Napój	O
 gazowany	O
 
-HORTEX	B-PER
+HORTEX	B-BRAND
 Sok	O
 100%	O
 Multiwitamina	O
 
-Fortuna	B-PER
+Fortuna	B-BRAND
 Uroda	O
 Czerwony	O
 grejpfrut	O
 Sok	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-Surf	B-PER
+Surf	B-BRAND
 Dark	O
 Color	O
 Black	O
@@ -1363,26 +1363,26 @@ Lily	O
 Żel	O
 do	O
 prania	O
-3	B-ORG
-l	I-ORG
+3	B-QUANTITY
+l	I-QUANTITY
 (60	O
 prań)	O
 
-TYMBARK	B-PER
+TYMBARK	B-BRAND
 Owoce	O
 świata	O
 Granat	O
 Napój	O
 wieloowocowy	O
 
-TYMBARK	B-PER
+TYMBARK	B-BRAND
 Owoce	O
 świata	O
 Limonka	O
 Napój	O
 wieloowocowy	O
 
-Ariel	B-PER
+Ariel	B-BRAND
 Allin1	O
 Pods	O
 +Complete	O
@@ -1394,35 +1394,35 @@ prania,	O
 24	O
 prań	O
 
-Tymbark	B-PER
+Tymbark	B-BRAND
 Owoce	O
 Świata	O
 Napój	O
 wieloowocowy	O
 żurawina	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-Rex	B-PER
+Rex	B-BRAND
 Kolor	O
 Proszek	O
 do	O
 prania	O
 tkanin	O
 kolorowych	O
-3	B-ORG
-kg	I-ORG
+3	B-QUANTITY
+kg	I-QUANTITY
 (40	O
 prań)	O
 
-Herbapol	B-PER
+Herbapol	B-BRAND
 na	O
 zimno	O
 Herbata	O
 czarna	O
 brzoskwinia	O
-300	B-ORG
-ml	I-ORG
+300	B-QUANTITY
+ml	I-QUANTITY
 
 Płyn	O
 do	O
@@ -1432,10 +1432,10 @@ nabłyszczania	O
 paneli	O
 i	O
 drewna	O
-750	B-ORG
-ml	I-ORG
+750	B-QUANTITY
+ml	I-QUANTITY
 
-Coccolino	B-PER
+Coccolino	B-BRAND
 Care	O
 Żel	O
 do	O
@@ -1444,12 +1444,12 @@ czarnych	O
 i	O
 ciemnych	O
 tkanin	O
-1,8	B-ORG
-l	I-ORG
+1,8	B-QUANTITY
+l	I-QUANTITY
 (45	O
 prań)	O
 
-Bref	B-PER
+Bref	B-BRAND
 WC	O
 Power	O
 Aktiv	O
@@ -1460,28 +1460,28 @@ muszli	O
 WC	O
 morska	O
 bryza	O
-50	B-ORG
-g	I-ORG
+50	B-QUANTITY
+g	I-QUANTITY
 
-Perrier	B-PER
+Perrier	B-BRAND
 Naturalna	O
 woda	O
 mineralna	O
 gazowana	O
-750	B-ORG
-ml	I-ORG
+750	B-QUANTITY
+ml	I-QUANTITY
 
-Oshee	B-PER
+Oshee	B-BRAND
 Napój	O
 izotoniczny	O
 niegazowany	O
 o	O
 smaku	O
 cytrynowym	O
-0,75	B-ORG
-l	I-ORG
+0,75	B-QUANTITY
+l	I-QUANTITY
 
-Velvet	B-PER
+Velvet	B-BRAND
 Extra	O
 Long	O
 Ręcznik	O
@@ -1489,46 +1489,46 @@ papierowy	O
 3	O
 rolki	O
 
-Tymbark	B-PER
+Tymbark	B-BRAND
 Sok	O
 100%	O
 multiwitamina	O
-200	B-ORG
-ml	I-ORG
+200	B-QUANTITY
+ml	I-QUANTITY
 
-Hortex	B-PER
+Hortex	B-BRAND
 Napój	O
 jabłko	O
 rabarbar	O
-1,75	B-ORG
-l	I-ORG
+1,75	B-QUANTITY
+l	I-QUANTITY
 
-BABY	B-PER
-ZDRÓJ	I-PER
+BABY	B-BRAND
+ZDRÓJ	I-BRAND
 Woda	O
 źródlana	O
 niegazowana	O
 
-Coccolino	B-PER
+Coccolino	B-BRAND
 Sensitive	O
 Płyn	O
 do	O
 płukania	O
 tkanin	O
 koncentrat	O
-1800	B-ORG
-ml	I-ORG
+1800	B-QUANTITY
+ml	I-QUANTITY
 (72	O
 prania)	O
 
-Kubuś	B-PER
+Kubuś	B-BRAND
 100%	O
 Sok	O
 banan	O
 marchew	O
 jabłko	O
-300	B-ORG
-ml	I-ORG
+300	B-QUANTITY
+ml	I-QUANTITY
 
 Ambi	O
 Pur	O
@@ -1541,17 +1541,17 @@ sprayu	O
 300	O
 ml	O
 
-Clin	B-PER
+Clin	B-BRAND
 Apple	O
 Płyn	O
 do	O
 mycia	O
 powierzchni	O
 szklanych	O
-500	B-ORG
-ml	I-ORG
+500	B-QUANTITY
+ml	I-QUANTITY
 
-NESTEA	B-PER
+NESTEA	B-BRAND
 Napój	O
 herbaciany	O
 z	O
@@ -1562,39 +1562,39 @@ o	O
 smaku	O
 cytrusow	O
 
-Monster	B-PER
-Energy	I-PER
+Monster	B-BRAND
+Energy	I-BRAND
 The	O
 Doctor	O
 Gazowany	O
 napój	O
 energetyzujący	O
-500	B-ORG
-ml	I-ORG
+500	B-QUANTITY
+ml	I-QUANTITY
 
-KUBUŚ	B-PER
+KUBUŚ	B-BRAND
 Waterrr	O
 Woda	O
 niegazowana	O
 
-Frosch	B-PER
+Frosch	B-BRAND
 ecological	O
 Neutralny	O
 środek	O
 czyszczący	O
-1000	B-ORG
-ml	I-ORG
+1000	B-QUANTITY
+ml	I-QUANTITY
 
-Hortex	B-PER
+Hortex	B-BRAND
 Vitaminka	O
 Sok	O
 banan	O
 marchew	O
 jabłko	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-WM	B-PER
+WM	B-BRAND
 KOSTKA	O
 3D	O
 KULKI	O
@@ -1610,18 +1610,18 @@ do	O
 tkanin	O
 w	O
 sprayu	O
-500	B-ORG
-ml	I-ORG
+500	B-QUANTITY
+ml	I-QUANTITY
 
 Żywiec	O
 Zdrój	O
 Niegazowany	O
 Woda	O
 źródlana	O
-500	B-ORG
-ml	I-ORG
+500	B-QUANTITY
+ml	I-QUANTITY
 
-OSHEE	B-PER
+OSHEE	B-BRAND
 Vitamin	O
 H2O	O
 Napój	O
@@ -1633,7 +1633,7 @@ winogron	O
 i	O
 dragonfruit	O
 
-FuzeTea	B-PER
+FuzeTea	B-BRAND
 Napój	O
 o	O
 smaku	O
@@ -1646,10 +1646,10 @@ herbaty	O
 i	O
 trawy	O
 cytrynowej	O
-1,5	B-ORG
-l	I-ORG
+1,5	B-QUANTITY
+l	I-QUANTITY
 
-COCCOLINO	B-PER
+COCCOLINO	B-BRAND
 Płyn	O
 do	O
 płukania	O
@@ -1665,18 +1665,18 @@ mycia	O
 naczyń	O
 w	O
 zmywarce	O
-400	B-ORG
-g	I-ORG
-(32	B-ORG
-sztuki)	I-ORG
+400	B-QUANTITY
+g	I-QUANTITY
+(32	B-QUANTITY
+sztuki)	I-QUANTITY
 
-FORTUNA	B-PER
+FORTUNA	B-BRAND
 Sok	O
 pomidorowy	O
 Tabasco	O
 100%	O
 
-Duck	B-PER
+Duck	B-BRAND
 Deep	O
 Action	O
 Fruitopia	O
@@ -1686,11 +1686,11 @@ czyszczenia	O
 i	O
 dezynfekcji	O
 toalet	O
-750	B-ORG
-ml	I-ORG
+750	B-QUANTITY
+ml	I-QUANTITY
 
-AIR	B-PER
-WICK	I-PER
+AIR	B-BRAND
+WICK	I-BRAND
 Essential	O
 Mist	O
 Aroma	O
@@ -1703,8 +1703,8 @@ pomarańczy	O
 &	O
 Limonka	O
 
-Cillit	B-PER
-Bang	I-PER
+Cillit	B-BRAND
+Bang	I-BRAND
 Aktywna	O
 piana	O
 osady	O
@@ -1714,17 +1714,17 @@ i	O
 prysznice	O
 Środek	O
 czyszczący	O
-600	B-ORG
-ml	I-ORG
+600	B-QUANTITY
+ml	I-QUANTITY
 
-Hortex	B-PER
+Hortex	B-BRAND
 Napój	O
 jabłko	O
 mięta	O
-1,75	B-ORG
-l	I-ORG
+1,75	B-QUANTITY
+l	I-QUANTITY
 
-Cif	B-PER
+Cif	B-BRAND
 Cream	O
 Lila	O
 Flowers	O
@@ -1734,10 +1734,10 @@ Mleczko	O
 do	O
 czyszczenia	O
 powierzchni	O
-780	B-ORG
-g	I-ORG
+780	B-QUANTITY
+g	I-QUANTITY
 
-Ariel	B-PER
+Ariel	B-BRAND
 Allin1	O
 Pods	O
 +Unstoppables	O
@@ -1747,8 +1747,8 @@ prania,	O
 31	O
 prań	O
 
-Morning	B-PER
-Fresh	I-PER
+Morning	B-BRAND
+Fresh	I-BRAND
 Raspberry	O
 &	O
 Apple	O
@@ -1757,59 +1757,59 @@ płyn	O
 do	O
 mycia	O
 naczyń	O
-900	B-ORG
-ml	I-ORG
+900	B-QUANTITY
+ml	I-QUANTITY
 
-€.C.O.+	B-PER
+€.C.O.+	B-BRAND
 Płyn	O
 do	O
 mycia	O
 szyb	O
-1000ml	B-ORG
+1000ml	B-QUANTITY
 
-DOMESTOS	B-PER
+DOMESTOS	B-BRAND
 Power	O
 5	O
 Kostka	O
 toaletowa	O
 Pine	O
-(3x55g)	B-ORG
+(3x55g)	B-QUANTITY
 
-Hortex	B-PER
+Hortex	B-BRAND
 Nektar	O
 czarna	O
 porzeczka	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-Zbyszko	B-PER
+Zbyszko	B-BRAND
 3	O
 Pomarańcze	O
 Napój	O
 gazowany	O
-1,75	B-ORG
-l	I-ORG
+1,75	B-QUANTITY
+l	I-QUANTITY
 
-Ludwik	B-PER
+Ludwik	B-BRAND
 Zawieszka	O
 zapachowa	O
 do	O
 zmywarki	O
-6,6	B-ORG
-ml	I-ORG
+6,6	B-QUANTITY
+ml	I-QUANTITY
 (60	O
 cykli	O
 zmywania)	O
 
-AIR	B-PER
-WICK	I-PER
+AIR	B-BRAND
+WICK	I-BRAND
 Odświeżacz	O
 powietrza	O
 Citrus	O
 100%	O
 Naturalna	O
 
-Sofin	B-PER
+Sofin	B-BRAND
 Fresh	O
 &	O
 Care	O
@@ -1818,41 +1818,41 @@ do	O
 płukania	O
 tkanin	O
 delikatny	O
-3,3	B-ORG
-l	I-ORG
+3,3	B-QUANTITY
+l	I-QUANTITY
 (66	O
 prań)	O
 
-DOMESTOS	B-PER
+DOMESTOS	B-BRAND
 Płyn	O
 do	O
 dezynfekcji	O
 Citrus	O
 Fresh	O
 
-Tymbark	B-PER
+Tymbark	B-BRAND
 Napój	O
 jabłko	O
 brzoskwinia	O
-2	B-ORG
-l	I-ORG
+2	B-QUANTITY
+l	I-QUANTITY
 
-DOMESTOS	B-PER
+DOMESTOS	B-BRAND
 Zero	O
 kamienia-	O
 Różowy	O
 
-Domestos	B-PER
+Domestos	B-BRAND
 Przedłużona	O
 Moc	O
 Citrus	O
 Fresh	O
 Płyn	O
 czyszcząco-dezynfekujący	O
-1250	B-ORG
-ml	I-ORG
+1250	B-QUANTITY
+ml	I-QUANTITY
 
-Lenor	B-PER
+Lenor	B-BRAND
 Emerald	O
 &	O
 Ivory	O
@@ -1865,16 +1865,16 @@ tkanin,	O
 48	O
 prań	O
 
-Orangina	B-PER
+Orangina	B-BRAND
 Napój	O
 gazowany	O
 smak	O
 klasycznej	O
 pomarańczy	O
-1,4	B-ORG
-l	I-ORG
+1,4	B-QUANTITY
+l	I-QUANTITY
 
-BREF	B-PER
+BREF	B-BRAND
 Hygienically	O
 Clean&Shine	O
 Środek	O
@@ -1884,46 +1884,46 @@ WC	O
 Floral	O
 Delight	O
 
-Woolite	B-PER
+Woolite	B-BRAND
 Mix	O
 Colors	O
 Kapsułki	O
 do	O
 prania	O
-616	B-ORG
-g	I-ORG
-(28	B-ORG
-x	I-ORG
-22	I-ORG
-g)	I-ORG
+616	B-QUANTITY
+g	I-QUANTITY
+(28	B-QUANTITY
+x	I-QUANTITY
+22	I-QUANTITY
+g)	I-QUANTITY
 
-Oshee	B-PER
+Oshee	B-BRAND
 Napój	O
 izotoniczny	O
 niegazowany	O
 o	O
 smaku	O
 cytrynowym	O
-0,75	B-ORG
-l	I-ORG
+0,75	B-QUANTITY
+l	I-QUANTITY
 
-Schweppes	B-PER
+Schweppes	B-BRAND
 Mojito	O
 Napój	O
 gazowany	O
-0,9	B-ORG
-l	I-ORG
+0,9	B-QUANTITY
+l	I-QUANTITY
 
-Frosch	B-PER
+Frosch	B-BRAND
 ecological	O
 Cytrynowy	O
 płyn	O
 do	O
 WC	O
-750	B-ORG
-ml	I-ORG
+750	B-QUANTITY
+ml	I-QUANTITY
 
-Lenor	B-PER
+Lenor	B-BRAND
 Unstoppables	O
 Spring	O
 Wzmacniacz	O
@@ -1931,30 +1931,30 @@ zapachu	O
 stosowany	O
 podczas	O
 prania	O
-210g	B-ORG
+210g	B-QUANTITY
 
 Syrop	O
 o	O
 smaku	O
 miętowym	O
 
-Hortex	B-PER
+Hortex	B-BRAND
 Napój	O
 wieloowocowy	O
 jabłko	O
 malina	O
 limonka	O
-1,75	B-ORG
-l	I-ORG
+1,75	B-QUANTITY
+l	I-QUANTITY
 
-VIZIR	B-PER
+VIZIR	B-BRAND
 ALPINE	O
 FRESH	O
 Płyn	O
 do	O
 prania	O
 
-Ariel	B-PER
+Ariel	B-BRAND
 Touch	O
 of	O
 Lenor	O
@@ -1962,11 +1962,11 @@ Color	O
 Płyn	O
 do	O
 prania,	O
-2.2l,	B-ORG
+2.2l,	B-QUANTITY
 40	O
 prań	O
 
-DOMESTOS	B-PER
+DOMESTOS	B-BRAND
 Przedłużona	O
 Moc	O
 Płyn	O
@@ -1974,29 +1974,29 @@ czyszcząco-dezynfekujący	O
 do	O
 toalety	O
 
-BIO	B-PER
+BIO	B-BRAND
 WM	O
 Płyn	O
 do	O
 mycia	O
 naczyń	O
 cytryna	O
-750ml	B-ORG
+750ml	B-QUANTITY
 
-Fanta	B-PER
+Fanta	B-BRAND
 Shokata	O
 Napój	O
 gazowany	O
-850	B-ORG
-ml	I-ORG
+850	B-QUANTITY
+ml	I-QUANTITY
 
-Yope	B-PER
+Yope	B-BRAND
 Płyn	O
 łazienka	O
 francuska	O
 lawenda	O
 
-Ariel	B-PER
+Ariel	B-BRAND
 Allin1	O
 Pods	O
 +Active	O
@@ -2008,16 +2008,16 @@ prania,	O
 24	O
 prań	O
 
-Domestos	B-PER
+Domestos	B-BRAND
 Power	O
 5	O
 Pine	O
 Kostka	O
 toaletowa	O
-2	B-ORG
-x	I-ORG
-55	I-ORG
-g	I-ORG
+2	B-QUANTITY
+x	I-QUANTITY
+55	I-QUANTITY
+g	I-QUANTITY
 
 Glade	O
 Fresh	O
@@ -2026,31 +2026,31 @@ Odświeżacz	O
 powietrza	O
 w	O
 aerozolu	O
-300	B-ORG
-ml	I-ORG
+300	B-QUANTITY
+ml	I-QUANTITY
 
 Odplamiacz	O
 do	O
 koloru	O
 
-KROPLA	B-PER
-BESKIDU	I-PER
+KROPLA	B-BRAND
+BESKIDU	I-BRAND
 Naturalna	O
 woda	O
 mineralna	O
 gazowana	O
 
-Domestos	B-PER
+Domestos	B-BRAND
 Przedłużona	O
 Moc	O
 Atlantic	O
 Fresh	O
 Płyn	O
 czyszcząco-dezynfekujący	O
-1250	B-ORG
-ml	I-ORG
+1250	B-QUANTITY
+ml	I-QUANTITY
 
-Ariel	B-PER
+Ariel	B-BRAND
 Allin1	O
 Pods	O
 +OXI	O
@@ -2060,50 +2060,50 @@ prania,	O
 24	O
 prań	O
 
-Hortex	B-PER
+Hortex	B-BRAND
 Napój	O
 jabłko	O
 mięta	O
-1,75	B-ORG
-l	I-ORG
+1,75	B-QUANTITY
+l	I-QUANTITY
 
-PERSIL	B-PER
+PERSIL	B-BRAND
 Discs	O
 Kapsułki	O
 do	O
 prania	O
 Color	O
-22	B-ORG
-szt	I-ORG
+22	B-QUANTITY
+szt	I-QUANTITY
 
-Coca-Cola	B-PER
+Coca-Cola	B-BRAND
 zero	O
 Peach	O
 Taste	O
 Napój	O
 gazowany	O
-850	B-ORG
-ml	I-ORG
+850	B-QUANTITY
+ml	I-QUANTITY
 
-Nałęczowianka	B-PER
+Nałęczowianka	B-BRAND
 Naturalna	O
 woda	O
 mineralna	O
 niegazowana	O
-0,5	B-ORG
-l	I-ORG
+0,5	B-QUANTITY
+l	I-QUANTITY
 
-Staropolanka	B-PER
+Staropolanka	B-BRAND
 800	O
 Naturalna	O
 woda	O
 mineralna	O
 średniozmineralizowana	O
 gazowana	O
-330	B-ORG
-ml	I-ORG
+330	B-QUANTITY
+ml	I-QUANTITY
 
-Sanytol	B-PER
+Sanytol	B-BRAND
 Płyn	O
 czyszczący	O
 i	O
@@ -2113,10 +2113,10 @@ i	O
 inne	O
 powierzchnie	O
 eukaliptus	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-Bref	B-PER
+Bref	B-BRAND
 WC	O
 Color	O
 Aktiv+	O
@@ -2125,19 +2125,19 @@ do	O
 muszli	O
 WC	O
 lawendowy	O
-2	B-ORG
-x	I-ORG
-50	I-ORG
-g	I-ORG
+2	B-QUANTITY
+x	I-QUANTITY
+50	I-QUANTITY
+g	I-QUANTITY
 
-Sprite	B-PER
+Sprite	B-BRAND
 Zero	O
 Napój	O
 gazowany	O
-850	B-ORG
-ml	I-ORG
+850	B-QUANTITY
+ml	I-QUANTITY
 
-CIF	B-PER
+CIF	B-BRAND
 Trigger	O
 Naturals	O
 Spray	O
@@ -2149,7 +2149,7 @@ ekstraktem	O
 z	O
 cytryny	O
 
-BREF	B-PER
+BREF	B-BRAND
 Power	O
 Aktiv	O
 Zawieszka	O
@@ -2158,9 +2158,9 @@ WC	O
 -	O
 Lawendowe	O
 pole	O
-2x50g	B-ORG
+2x50g	B-QUANTITY
 
-Perwoll	B-PER
+Perwoll	B-BRAND
 Renew	O
 &	O
 Repair	O
@@ -2171,73 +2171,73 @@ Płynny	O
 środek	O
 do	O
 prania	O
-1,8	B-ORG
-l	I-ORG
+1,8	B-QUANTITY
+l	I-QUANTITY
 (30	O
 prań)	O
 
-ACE	B-PER
+ACE	B-BRAND
 Delikatne	O
 Odplamiacz	O
 do	O
 kolorowych	O
 tkanin	O
 
-Emsal	B-PER
+Emsal	B-BRAND
 tuba	O
 Pianka	O
 do	O
 dywanów	O
 i	O
 wykładzin	O
-600	B-ORG
-ml	I-ORG
+600	B-QUANTITY
+ml	I-QUANTITY
 
-Ludwik	B-PER
+Ludwik	B-BRAND
 Sól	O
 ochronna	O
 do	O
 zmywarek	O
-1,5	B-ORG
-kg	I-ORG
+1,5	B-QUANTITY
+kg	I-QUANTITY
 
-Sidolux	B-PER
+Sidolux	B-BRAND
 Crystal	O
 Arctic	O
 Płyn	O
 do	O
 mycia	O
 szyb	O
-500	B-ORG
-ml	I-ORG
+500	B-QUANTITY
+ml	I-QUANTITY
 
-Lipton	B-PER
+Lipton	B-BRAND
 Ice	O
 Tea	O
 Green	O
 Napój	O
 niegazowany	O
-1,5	B-ORG
-l	I-ORG
+1,5	B-QUANTITY
+l	I-QUANTITY
 
-Morning	B-PER
-Fresh	I-PER
+Morning	B-BRAND
+Fresh	I-BRAND
 Lemon	O
 Skoncentrowany	O
 płyn	O
 do	O
 mycia	O
 naczyń	O
-450	B-ORG
-ml	I-ORG
+450	B-QUANTITY
+ml	I-QUANTITY
 
-VANISH	B-PER
+VANISH	B-BRAND
 Proszek	O
 do	O
 prania	O
 firanek	O
 
-Pur	B-PER
+Pur	B-BRAND
 Sekrety	O
 Świata	O
 Raspberry	O
@@ -2248,21 +2248,21 @@ Płyn	O
 do	O
 mycia	O
 naczyń	O
-750	B-ORG
-ml	I-ORG
+750	B-QUANTITY
+ml	I-QUANTITY
 
-Kropla	B-PER
-Beskidu	I-PER
+Kropla	B-BRAND
+Beskidu	I-BRAND
 Naturalna	O
 woda	O
 mineralna	O
 niegazowana	O
-6	B-ORG
-x	I-ORG
-1,5	I-ORG
-l	I-ORG
+6	B-QUANTITY
+x	I-QUANTITY
+1,5	I-QUANTITY
+l	I-QUANTITY
 
-Perwoll	B-PER
+Perwoll	B-BRAND
 Renew	O
 &	O
 Repair	O
@@ -2273,20 +2273,20 @@ Płynny	O
 środek	O
 do	O
 prania	O
-2,7	B-ORG
-l	I-ORG
+2,7	B-QUANTITY
+l	I-QUANTITY
 (45	O
 prań)	O
 
-Pysio	B-PER
+Pysio	B-BRAND
 Napój	O
 jabłko	O
 banan	O
 kiwi	O
-900	B-ORG
-ml	I-ORG
+900	B-QUANTITY
+ml	I-QUANTITY
 
-PERSIL	B-PER
+PERSIL	B-BRAND
 Against	O
 Bad	O
 Odors	O
@@ -2296,58 +2296,58 @@ prania	O
 tkanin	O
 białych	O
 
-Tymbark	B-PER
+Tymbark	B-BRAND
 Napój	O
 jabłko	O
 mięta	O
-500	B-ORG
-ml	I-ORG
+500	B-QUANTITY
+ml	I-QUANTITY
 
 Sok	O
 z	O
 różowych	O
 grejpfrutów	O
-1L	B-ORG
+1L	B-QUANTITY
 
-Zbyszko	B-PER
-3	B-ORG
-Limonki	I-ORG
+Zbyszko	B-BRAND
+3	B-QUANTITY
+Limonki	I-QUANTITY
 Napój	O
 gazowany	O
-1,75	B-ORG
-l	I-ORG
+1,75	B-QUANTITY
+l	I-QUANTITY
 
-Nałęczowianka	B-PER
+Nałęczowianka	B-BRAND
 Naturalna	O
 woda	O
 mineralna	O
 gazowana	O
-6	B-ORG
-x	I-ORG
-1,5	I-ORG
-l	I-ORG
+6	B-QUANTITY
+x	I-QUANTITY
+1,5	I-QUANTITY
+l	I-QUANTITY
 
-Domestos	B-PER
+Domestos	B-BRAND
 Power	O
 5	O
 Pink	O
 Magnolia	O
 Kostka	O
 toaletowa	O
-3	B-ORG
-x	I-ORG
-55	I-ORG
-g	I-ORG
+3	B-QUANTITY
+x	I-QUANTITY
+55	I-QUANTITY
+g	I-QUANTITY
 
-Somat	B-PER
+Somat	B-BRAND
 Płyn	O
 nabłyszczający	O
 do	O
 zmywarek	O
-750	B-ORG
-ml	I-ORG
+750	B-QUANTITY
+ml	I-QUANTITY
 
-Cif	B-PER
+Cif	B-BRAND
 Cream	O
 Original	O
 z	O
@@ -2356,82 +2356,82 @@ Mleczko	O
 do	O
 czyszczenia	O
 powierzchni	O
-540	B-ORG
-g	I-ORG
+540	B-QUANTITY
+g	I-QUANTITY
 
-Domestos	B-PER
+Domestos	B-BRAND
 Power	O
-5	B-ORG
-Lavender	I-ORG
+5	B-QUANTITY
+Lavender	I-QUANTITY
 Kostka	O
 toaletowa	O
-55	B-ORG
-g	I-ORG
+55	B-QUANTITY
+g	I-QUANTITY
 
-Presto	B-PER
+Presto	B-BRAND
 Eco	O
 Friendly	O
 Universal	O
 Ściereczki	O
-60	B-ORG
-sztuk	I-ORG
+60	B-QUANTITY
+sztuk	I-QUANTITY
 
-Nestlé	B-PER
+Nestlé	B-BRAND
 Pure	O
 Life	O
 Woda	O
 źródlana	O
 niegazowana	O
-1,5	B-ORG
-l	I-ORG
+1,5	B-QUANTITY
+l	I-QUANTITY
 
-Domestos	B-PER
+Domestos	B-BRAND
 Przedłużona	O
 Moc	O
 Pine	O
 Fresh	O
 Płyn	O
 czyszcząco-dezynfekujący	O
-750	B-ORG
-ml	I-ORG
+750	B-QUANTITY
+ml	I-QUANTITY
 
-Domestos	B-PER
+Domestos	B-BRAND
 Przedłużona	O
 Moc	O
 Original	O
 Płyn	O
 czyszcząco-dezynfekujący	O
-1250	B-ORG
-ml	I-ORG
+1250	B-QUANTITY
+ml	I-QUANTITY
 
-Herbapol	B-PER
+Herbapol	B-BRAND
 Suplement	O
 diety	O
 syrop	O
 do	O
 mleka	O
 kakao	O
-420	B-ORG
-ml	I-ORG
+420	B-QUANTITY
+ml	I-QUANTITY
 
-Tymbark	B-PER
+Tymbark	B-BRAND
 Napój	O
 mango	O
 mięta	O
-2	B-ORG
-l	I-ORG
+2	B-QUANTITY
+l	I-QUANTITY
 
-Fortuna	B-PER
+Fortuna	B-BRAND
 Sok	O
 100%	O
 pomidor	O
 z	O
 tabasco	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-Air	B-PER
-Wick	I-PER
+Air	B-BRAND
+Wick	I-BRAND
 100%	O
 Naturalna	O
 mgiełka	O
@@ -2439,26 +2439,26 @@ Odświeżacz	O
 powietrza	O
 białe	O
 kwiaty	O
-240	B-ORG
-ml	I-ORG
+240	B-QUANTITY
+ml	I-QUANTITY
 
-Kubuś	B-PER
+Kubuś	B-BRAND
 Go!	O
 Sok	O
 banan	O
 marchew	O
 jabłko	O
-300	B-ORG
-ml	I-ORG
+300	B-QUANTITY
+ml	I-QUANTITY
 
-Ajax	B-PER
+Ajax	B-BRAND
 Floral	O
 Fiesta	O
 Środek	O
 czyszczący	O
 konwalie	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
 Finish	O
 All	O
@@ -2470,27 +2470,27 @@ mycia	O
 naczyń	O
 w	O
 zmywarce	O
-800	B-ORG
-g	I-ORG
-(50	B-ORG
-sztuk)	I-ORG
+800	B-QUANTITY
+g	I-QUANTITY
+(50	B-QUANTITY
+sztuk)	I-QUANTITY
 
-Fortuna	B-PER
+Fortuna	B-BRAND
 Sok	O
 100%	O
 pomidor	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-Sprite	B-PER
+Sprite	B-BRAND
 Zero	O
 Napój	O
 gazowany	O
-500	B-ORG
-ml	I-ORG
+500	B-QUANTITY
+ml	I-QUANTITY
 
-Seventh	B-PER
-Generation	I-PER
+Seventh	B-BRAND
+Generation	I-BRAND
 Lavender	O
 Flower	O
 &	O
@@ -2500,10 +2500,10 @@ Płyn	O
 do	O
 mycia	O
 naczyń	O
-500	B-ORG
-ml	I-ORG
+500	B-QUANTITY
+ml	I-QUANTITY
 
-Clin	B-PER
+Clin	B-BRAND
 Apple	O
 Płyn	O
 do	O
@@ -2512,10 +2512,10 @@ powierzchni	O
 szklanych	O
 opakowanie	O
 uzupełniające	O
-500	B-ORG
-ml	I-ORG
+500	B-QUANTITY
+ml	I-QUANTITY
 
-Bref	B-PER
+Bref	B-BRAND
 WC	O
 ProNature	O
 Zawieszka	O
@@ -2523,37 +2523,37 @@ do	O
 muszli	O
 WC	O
 grejpfrut	O
-50	B-ORG
-g	I-ORG
+50	B-QUANTITY
+g	I-QUANTITY
 
-FANTA	B-PER
+FANTA	B-BRAND
 ORANGE	O
 Napój	O
 gazowany	O
 
-Biały	B-PER
-Jeleń	I-PER
+Biały	B-BRAND
+Jeleń	I-BRAND
 Hipoalergiczny	O
 płyn	O
 do	O
 prania	O
 kolor	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 (12	O
 prań)	O
 
-Veroni	B-PER
+Veroni	B-BRAND
 Mineral	O
 Pure	O
 Naturalna	O
 woda	O
 mineralna	O
 niegazowana	O
-1,5	B-ORG
-l	I-ORG
+1,5	B-QUANTITY
+l	I-QUANTITY
 
-Black	B-PER
+Black	B-BRAND
 Energy	O
 Zero	O
 Sugar	O
@@ -2562,10 +2562,10 @@ napój	O
 energetyzujący	O
 bez	O
 cukru	O
-250	B-ORG
-ml	I-ORG
+250	B-QUANTITY
+ml	I-QUANTITY
 
-CIF	B-PER
+CIF	B-BRAND
 MAX	O
 POWER	O
 Mleczko	O
@@ -2579,16 +2579,16 @@ dplamiacz	O
 w	O
 proszku	O
 
-Herbapol	B-PER
+Herbapol	B-BRAND
 Syrop	O
 owocowy	O
 malina	O
 z	O
 żurawiną	O
-420	B-ORG
-ml	I-ORG
+420	B-QUANTITY
+ml	I-QUANTITY
 
-LENOR	B-PER
+LENOR	B-BRAND
 Perfum	O
 des	O
 secrets	O
@@ -2598,14 +2598,14 @@ płukania	O
 tkanin	O
 Mystery	O
 
-Hortex	B-PER
+Hortex	B-BRAND
 Nektar	O
 wieloowocowy	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-AMBI	B-PER
-PUR	I-PER
+AMBI	B-BRAND
+PUR	I-BRAND
 Odświeżacz	O
 powietrza	O
 w	O
@@ -2613,7 +2613,7 @@ sprayu	O
 Flowers	O
 &Spring	O
 
-Ariel	B-PER
+Ariel	B-BRAND
 Allin1	O
 Pods	O
 +Complete	O
@@ -2625,17 +2625,17 @@ prania,	O
 31	O
 prań	O
 
-Kubuś	B-PER
+Kubuś	B-BRAND
 Go!	O
 Sok	O
 marchew	O
 jabłko	O
 banan	O
 truskawka	O
-300	B-ORG
-ml	I-ORG
+300	B-QUANTITY
+ml	I-QUANTITY
 
-Perwoll	B-PER
+Perwoll	B-BRAND
 Renew	O
 &	O
 Repair	O
@@ -2646,12 +2646,12 @@ Płynny	O
 środek	O
 do	O
 prania	O
-2,7	B-ORG
-l	I-ORG
+2,7	B-QUANTITY
+l	I-QUANTITY
 (45	O
 prań)	O
 
-Ekologiczny	B-PER
+Ekologiczny	B-BRAND
 płyn	O
 do	O
 mycia	O
@@ -2660,7 +2660,7 @@ o	O
 zapachu	O
 cytrynowym	O
 
-Regina	B-PER
+Regina	B-BRAND
 Najdłuższy	O
 Ręcznik	O
 papierowy	O
@@ -2672,10 +2672,10 @@ Naturalnie	O
 mętny	O
 sok	O
 jabłkowy	O
-Sady	B-PER
-Wincenta	I-PER
+Sady	B-BRAND
+Wincenta	I-BRAND
 
-Kiwi	B-PER
+Kiwi	B-BRAND
 Instant	O
 Shine	O
 &	O
@@ -2683,10 +2683,10 @@ Protect	O
 Pasta	O
 nabłyszczająca	O
 czarna	O
-75	B-ORG
-ml	I-ORG
+75	B-QUANTITY
+ml	I-QUANTITY
 
-KUBUŚ	B-PER
+KUBUŚ	B-BRAND
 banan	O
 marchew	O
 jabłko	O
@@ -2696,23 +2696,23 @@ warzyw	O
 i	O
 owoców	O
 
-Ludwik	B-PER
+Ludwik	B-BRAND
 Odor	O
 Eliminator	O
 Płyn	O
 uniwersalny	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-Ludwik	B-PER
+Ludwik	B-BRAND
 Baking	O
 Soda	O
 Płyn	O
 uniwersalny	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-Perwoll	B-PER
+Perwoll	B-BRAND
 Wool	O
 &	O
 Delicates	O
@@ -2720,12 +2720,12 @@ Płynny	O
 środek	O
 do	O
 prania	O
-2,7	B-ORG
-l	I-ORG
+2,7	B-QUANTITY
+l	I-QUANTITY
 (45	O
 prań)	O
 
-FROSCH	B-PER
+FROSCH	B-BRAND
 Żel	O
 do	O
 czyszczenia	O
@@ -2734,7 +2734,7 @@ o	O
 zapachu	O
 lawendowym	O
 
-E	B-PER
+E	B-BRAND
 Aromaterapia	O
 Proszek	O
 do	O
@@ -2745,12 +2745,12 @@ z	O
 Bali	O
 i	O
 lilia	O
-3,9	B-ORG
-kg	I-ORG
+3,9	B-QUANTITY
+kg	I-QUANTITY
 (60	O
 prań)	O
 
-CLIN	B-PER
+CLIN	B-BRAND
 Windows&Glass	O
 Płyn	O
 do	O
@@ -2762,7 +2762,7 @@ powierzchni	O
 z	O
 pompką	O
 
-Ariel	B-PER
+Ariel	B-BRAND
 Allin1	O
 Pods	O
 Sensitive	O
@@ -2772,17 +2772,17 @@ prania,	O
 26	O
 prań	O
 
-PERLUX	B-PER
+PERLUX	B-BRAND
 Kapsułki	O
 piorące	O
 do	O
 tkanin	O
 kolorowych	O
-24	B-ORG
-szt	I-ORG
+24	B-QUANTITY
+szt	I-QUANTITY
 
-CILLIT	B-PER
-BANG	I-PER
+CILLIT	B-BRAND
+BANG	I-BRAND
 Super	O
 Silny	O
 Środek	O
@@ -2795,16 +2795,16 @@ spray	O
 (super	O
 cena)	O
 
-Jurajska	B-PER
+Jurajska	B-BRAND
 Napój	O
 niegazowany	O
 o	O
 smaku	O
 malinowym	O
-1,5	B-ORG
-l	I-ORG
+1,5	B-QUANTITY
+l	I-QUANTITY
 
-Cif	B-PER
+Cif	B-BRAND
 Max	O
 Power	O
 Ocean	O
@@ -2812,10 +2812,10 @@ Wave	O
 Mleczko	O
 z	O
 wybielaczem	O
-1001	B-ORG
-g	I-ORG
+1001	B-QUANTITY
+g	I-QUANTITY
 
-Cif	B-PER
+Cif	B-BRAND
 Max	O
 Power	O
 Citrus	O
@@ -2823,10 +2823,10 @@ Harmony	O
 Mleczko	O
 z	O
 wybielaczem	O
-1001	B-ORG
-g	I-ORG
+1001	B-QUANTITY
+g	I-QUANTITY
 
-Ariel	B-PER
+Ariel	B-BRAND
 Touch	O
 of	O
 Lenor	O
@@ -2835,7 +2835,7 @@ Color	O
 Proszek	O
 do	O
 prania,	O
-3.375kg,	B-ORG
+3.375kg,	B-QUANTITY
 45	O
 prań	O
 
@@ -2844,15 +2844,15 @@ o	O
 smaku	O
 owoców	O
 leśnych	O
-1L	B-ORG
+1L	B-QUANTITY
 
-Kubuś	B-PER
+Kubuś	B-BRAND
 Sok	O
 marchew	O
 malina	O
 jabłko	O
-300	B-ORG
-ml	I-ORG
+300	B-QUANTITY
+ml	I-QUANTITY
 
 Ręcznik	O
 kuchenny	O
@@ -2861,7 +2861,7 @@ rolki	O
 3	O
 wrastwy	O
 
-Raid	B-PER
+Raid	B-BRAND
 Zawieszki	O
 przeciw	O
 molom	O
@@ -2870,22 +2870,22 @@ w	O
 o	O
 zapachu	O
 cedrowym	O
-2	B-ORG
-x	I-ORG
-3	I-ORG
-g	I-ORG
+2	B-QUANTITY
+x	I-QUANTITY
+3	I-QUANTITY
+g	I-QUANTITY
 
-Coca-Cola	B-PER
+Coca-Cola	B-BRAND
 zero	O
 Peach	O
 Taste	O
 Napój	O
 gazowany	O
-500	B-ORG
-ml	I-ORG
+500	B-QUANTITY
+ml	I-QUANTITY
 
-Mr	B-PER
-Muscle	I-PER
+Mr	B-BRAND
+Muscle	I-BRAND
 5w1	O
 Płyn	O
 do	O
@@ -2893,16 +2893,16 @@ szyb	O
 i	O
 innych	O
 powierzchni	O
-500	B-ORG
-ml	I-ORG
+500	B-QUANTITY
+ml	I-QUANTITY
 
-GLADE	B-PER
+GLADE	B-BRAND
 Odświeżacz	O
 powietrza	O
 czysta	O
 świeżość	O
 
-Perwoll	B-PER
+Perwoll	B-BRAND
 Renew	O
 &	O
 Repair	O
@@ -2913,30 +2913,30 @@ Płynny	O
 środek	O
 do	O
 prania	O
-1,8	B-ORG
-l	I-ORG
+1,8	B-QUANTITY
+l	I-QUANTITY
 (30	O
 prań)	O
 
-DR.BECKMANN	B-PER
+DR.BECKMANN	B-BRAND
 Chusteczki	O
 wyłapujące	O
 kolor	O
 do	O
 ciemnego	O
-10szt.	B-ORG
+10szt.	B-QUANTITY
 
-Fortuna	B-PER
+Fortuna	B-BRAND
 WW+	O
 Sok	O
 100%	O
 pomidorowo-warzywny	O
 +	O
 żeń-szeń	O
-300	B-ORG
-ml	I-ORG
+300	B-QUANTITY
+ml	I-QUANTITY
 
-Fairy	B-PER
+Fairy	B-BRAND
 Platinum	O
 All	O
 in	O
@@ -2945,10 +2945,10 @@ Lemon	O
 Kapsułki	O
 do	O
 zmywarki	O
-18	B-ORG
-sztuk	I-ORG
+18	B-QUANTITY
+sztuk	I-QUANTITY
 
-Cillit	B-PER
+Cillit	B-BRAND
 Kamień	O
 i	O
 rdza	O
@@ -2957,26 +2957,26 @@ do	O
 czyszczenia	O
 toalet	O
 świeży	O
-750	B-ORG
-ml	I-ORG
+750	B-QUANTITY
+ml	I-QUANTITY
 
-Domestos	B-PER
+Domestos	B-BRAND
 Przedłużona	O
 Moc	O
 Original	O
 Płyn	O
 czyszcząco-dezynfekujący	O
-1250	B-ORG
-ml	I-ORG
+1250	B-QUANTITY
+ml	I-QUANTITY
 
-Hortex	B-PER
+Hortex	B-BRAND
 Napój	O
 jabłko	O
 brzoskwinia	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-Silan	B-PER
+Silan	B-BRAND
 Fresh	O
 Control	O
 Cool	O
@@ -2985,13 +2985,13 @@ Płyn	O
 do	O
 zmiękczania	O
 tkanin	O
-2700	B-ORG
-ml	I-ORG
+2700	B-QUANTITY
+ml	I-QUANTITY
 (108	O
 prań)	O
 
-Cillit	B-PER
-Bang	I-PER
+Cillit	B-BRAND
+Bang	I-BRAND
 Aktywna	O
 piana	O
 bakterie	O
@@ -2999,10 +2999,10 @@ i	O
 brud	O
 Środek	O
 czyszczący	O
-600	B-ORG
-ml	I-ORG
+600	B-QUANTITY
+ml	I-QUANTITY
 
-ŁOWICZ	B-PER
+ŁOWICZ	B-BRAND
 Syrop	O
 o	O
 smaku	O
@@ -3014,16 +3014,16 @@ prania	O
 tkanin	O
 czarnych	O
 
-Cif	B-PER
+Cif	B-BRAND
 Perfect	O
 Finish	O
 Specjalistyczny	O
 spray	O
 drewno	O
-435	B-ORG
-ml	I-ORG
+435	B-QUANTITY
+ml	I-QUANTITY
 
-Woolite	B-PER
+Woolite	B-BRAND
 Płyn	O
 do	O
 prania	O
@@ -3031,12 +3031,12 @@ delikatne	O
 tkaniny	O
 i	O
 wełna	O
-1,8	B-ORG
-l	I-ORG
+1,8	B-QUANTITY
+l	I-QUANTITY
 (30	O
 prań)	O
 
-Kubuś	B-PER
+Kubuś	B-BRAND
 Play!	O
 Napój	O
 z	O
@@ -3047,10 +3047,10 @@ marchew	O
 malina	O
 jabłko	O
 limetka	O
-400	B-ORG
-ml	I-ORG
+400	B-QUANTITY
+ml	I-QUANTITY
 
-Lenor	B-PER
+Lenor	B-BRAND
 Emerald	O
 &	O
 Ivory	O
@@ -3063,14 +3063,14 @@ tkanin,	O
 25	O
 prań	O
 
-FINISH	B-PER
+FINISH	B-BRAND
 Sól	O
 ochronna	O
 do	O
 zmywarek	O
 
-CILLIT	B-PER
-BANG	I-PER
+CILLIT	B-BRAND
+BANG	I-BRAND
 Super	O
 Silny	O
 Środek	O
@@ -3083,13 +3083,13 @@ osadów	O
 -	O
 spray	O
 
-HORTEX	B-PER
+HORTEX	B-BRAND
 Nektar	O
 z	O
 ananasa	O
 
-Ambi	B-PER
-Pur	I-PER
+Ambi	B-BRAND
+Pur	I-BRAND
 Moonlight	O
 Vanilla	O
 Odświeżacz	O
@@ -3099,7 +3099,7 @@ sprayu	O
 300	O
 ml	O
 
-FAIRY	B-PER
+FAIRY	B-BRAND
 Sensitive	O
 Płyn	O
 do	O
@@ -3116,30 +3116,30 @@ marchwiowo	O
 brzoskwiniowo	O
 -	O
 jabłkowy	O
-330ml	B-ORG
+330ml	B-QUANTITY
 
-Fortuna	B-PER
+Fortuna	B-BRAND
 Napój	O
 witalność	O
 multiwitamina	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-Mayeri	B-PER
+Mayeri	B-BRAND
 Sensitive	O
 Kapsułki	O
 do	O
 prania	O
-32szt.	B-ORG
+32szt.	B-QUANTITY
 
-VANISH	B-PER
+VANISH	B-BRAND
 Płyn	O
 do	O
 płukania	O
 firanek	O
 (saszetka)	O
 
-Lenor	B-PER
+Lenor	B-BRAND
 Diamond	O
 &	O
 Lotus	O
@@ -3152,15 +3152,15 @@ tkanin,	O
 25	O
 prań	O
 
-Łowicz	B-PER
+Łowicz	B-BRAND
 Syrop	O
 o	O
 smaku	O
 malinowym	O
 z	O
 cytryną	O
-400	B-ORG
-ml	I-ORG
+400	B-QUANTITY
+ml	I-QUANTITY
 
 Glade	O
 Touch	O
@@ -3171,10 +3171,10 @@ Zapas	O
 do	O
 odświeżacza	O
 powietrza	O
-10	B-ORG
-ml	I-ORG
+10	B-QUANTITY
+ml	I-QUANTITY
 
-Bref	B-PER
+Bref	B-BRAND
 WC	O
 Power	O
 Aktiv	O
@@ -3185,12 +3185,12 @@ muszli	O
 WC	O
 sosnowy	O
 las	O
-3	B-ORG
-x	I-ORG
-50	I-ORG
-g	I-ORG
+3	B-QUANTITY
+x	I-QUANTITY
+50	I-QUANTITY
+g	I-QUANTITY
 
-FINISH	B-PER
+FINISH	B-BRAND
 All	O
 in	O
 1	O
@@ -3198,21 +3198,21 @@ Tabletki	O
 do	O
 zmywarek	O
 Regular	O
-63	B-ORG
-szt	I-ORG
+63	B-QUANTITY
+szt	I-QUANTITY
 
-Domestos	B-PER
+Domestos	B-BRAND
 Przedłużona	O
 Moc	O
 Pine	O
 Fresh	O
 Płyn	O
 czyszcząco-dezynfekujący	O
-1250	B-ORG
-ml	I-ORG
+1250	B-QUANTITY
+ml	I-QUANTITY
 
-Air	B-PER
-Wick	I-PER
+Air	B-BRAND
+Wick	I-BRAND
 Odświeżacz	O
 powietrza	O
 i	O
@@ -3221,10 +3221,10 @@ księżycowa	O
 lilia	O
 otulona	O
 satyną	O
-250	B-ORG
-ml	I-ORG
+250	B-QUANTITY
+ml	I-QUANTITY
 
-LUDWIK	B-PER
+LUDWIK	B-BRAND
 Uniwersalny	O
 płyn	O
 do	O
@@ -3233,7 +3233,7 @@ mycia	O
 Baking	O
 Soda	O
 
-Pur	B-PER
+Pur	B-BRAND
 Sekrety	O
 Świata	O
 Raspberry	O
@@ -3244,10 +3244,10 @@ Płyn	O
 do	O
 mycia	O
 naczyń	O
-750	B-ORG
-ml	I-ORG
+750	B-QUANTITY
+ml	I-QUANTITY
 
-FINISH	B-PER
+FINISH	B-BRAND
 Płyn	O
 do	O
 czyszczenia	O
@@ -3256,17 +3256,17 @@ czyścik	O
 Lemon	O
 cytrynowy	O
 
-Hortex	B-PER
+Hortex	B-BRAND
 Nektar	O
 ananas	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
 Odplamiacz	O
 do	O
 białego	O
 
-Perwoll	B-PER
+Perwoll	B-BRAND
 Renew	O
 &	O
 Repair	O
@@ -3277,21 +3277,21 @@ Płynny	O
 środek	O
 do	O
 prania	O
-1,8	B-ORG
-l	I-ORG
+1,8	B-QUANTITY
+l	I-QUANTITY
 (30	O
 prań)	O
 
-Fortuna	B-PER
+Fortuna	B-BRAND
 Sok	O
 100%	O
 pomarańcza	O
 z	O
 cząstkami	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-Ace	B-PER
+Ace	B-BRAND
 Ultra	O
 Power	O
 Gel	O
@@ -3301,19 +3301,19 @@ Odtłuszczający	O
 żel	O
 z	O
 wybielaczem	O
-750	B-ORG
-ml	I-ORG
+750	B-QUANTITY
+ml	I-QUANTITY
 
-Hortex	B-PER
+Hortex	B-BRAND
 Vitaminka	O
 Sok	O
 banan	O
 marchew	O
 jabłko	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-Fairy	B-PER
+Fairy	B-BRAND
 Platinum	O
 All	O
 in	O
@@ -3322,10 +3322,10 @@ Lemon	O
 Kapsułki	O
 do	O
 zmywarki	O
-37	B-ORG
-sztuk	I-ORG
+37	B-QUANTITY
+sztuk	I-QUANTITY
 
-Ekologiczny	B-PER
+Ekologiczny	B-BRAND
 Płyn	O
 do	O
 czyszczenia	O
@@ -3341,20 +3341,20 @@ i	O
 galanterii	O
 skórzanej	O
 
-HORTEX	B-PER
+HORTEX	B-BRAND
 Sok	O
 100%	O
 Jabłko	O
 
-Andros	B-PER
+Andros	B-BRAND
 Sok	O
 z	O
 ananasów	O
 wyciskanych	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-Ajax	B-PER
+Ajax	B-BRAND
 Boost	O
 Środek	O
 czyszczący	O
@@ -3362,19 +3362,19 @@ soda	O
 oczyszczona	O
 +	O
 cytryna	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-Ariel	B-PER
+Ariel	B-BRAND
 Lawenda	O
 Płyn	O
 do	O
 prania,	O
-2.2l,	B-ORG
+2.2l,	B-QUANTITY
 40	O
 prań	O
 
-Dosia	B-PER
+Dosia	B-BRAND
 Multi	O
 Powder	O
 Proszek	O
@@ -3382,19 +3382,19 @@ do	O
 prania	O
 tkanin	O
 kolorowych	O
-300	B-ORG
-g	I-ORG
+300	B-QUANTITY
+g	I-QUANTITY
 (4	O
 prania)	O
 
-KROPLA	B-PER
-BESKIDU	I-PER
+KROPLA	B-BRAND
+BESKIDU	I-BRAND
 Naturalna	O
 woda	O
 mineralna	O
 średniogazowana	O
 
-E	B-PER
+E	B-BRAND
 Skoncentrowany	O
 płyn	O
 do	O
@@ -3402,49 +3402,49 @@ zmiękczania	O
 tkanin	O
 harmonia	O
 kwiatów	O
-2	B-ORG
-l	I-ORG
+2	B-QUANTITY
+l	I-QUANTITY
 (66	O
 prań)	O
 
-Air	B-PER
-Wick	I-PER
+Air	B-BRAND
+Wick	I-BRAND
 Pure	O
 Wkład	O
 do	O
 odświeżacza	O
 powietrza	O
 energetyzujący	O
-250	B-ORG
-ml	I-ORG
+250	B-QUANTITY
+ml	I-QUANTITY
 
-SILAN	B-PER
+SILAN	B-BRAND
 Supreme	O
 Płyn	O
 do	O
 płukania	O
 Romance	O
 
-TARCZYN	B-PER
+TARCZYN	B-BRAND
 Nektar	O
 Czarna	O
 porzeczka	O
 
-ŻYWIEC	B-PER
-ZDRÓJ	I-PER
+ŻYWIEC	B-BRAND
+ZDRÓJ	I-BRAND
 Zero	O
 cukru	O
 Z	O
 nutą	O
 Arbuza	O
 
-Dawtona	B-PER
+Dawtona	B-BRAND
 Sok	O
 wielowarzywny	O
-330	B-ORG
-ml	I-ORG
+330	B-QUANTITY
+ml	I-QUANTITY
 
-NAŁĘCZOWIANKA	B-PER
+NAŁĘCZOWIANKA	B-BRAND
 Naturalna	O
 woda	O
 mineralna	O
@@ -3454,16 +3454,16 @@ gazowana	O
 Zawieszka	O
 WC	O
 morska	O
-3x55ml	B-ORG
+3x55ml	B-QUANTITY
 
-Ace	B-PER
+Ace	B-BRAND
 Lavender	O
 Płyn	O
 wybielający	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-Regina	B-PER
+Regina	B-BRAND
 Premium	O
 Ręcznik	O
 kuchenny	O
@@ -3471,24 +3471,24 @@ kuchenny	O
 rolki	O
 
 Zbyszko	O
-3	B-ORG
-Limonki	I-ORG
+3	B-QUANTITY
+Limonki	I-QUANTITY
 Napój	O
 gazowany	O
-1,75	B-ORG
-l	I-ORG
+1,75	B-QUANTITY
+l	I-QUANTITY
 
-Domestos	B-PER
+Domestos	B-BRAND
 Zero	O
 Kamienia	O
 Żel	O
 do	O
 toalet	O
 Pink	O
-750	B-ORG
-ml	I-ORG
+750	B-QUANTITY
+ml	I-QUANTITY
 
-Fairy	B-PER
+Fairy	B-BRAND
 Platinum	O
 Cytryna	O
 i	O
@@ -3497,25 +3497,25 @@ Płyn	O
 do	O
 mycia	O
 naczyń	O
-650	B-ORG
-ml	I-ORG
+650	B-QUANTITY
+ml	I-QUANTITY
 
-CISOWIANKA	B-PER
+CISOWIANKA	B-BRAND
 Perlage	O
 Naturalna	O
 woda	O
 mineralna	O
 musująca	O
 
-Ludwik	B-PER
+Ludwik	B-BRAND
 Baking	O
 Soda	O
 Płyn	O
 uniwersalny	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-Kubuś	B-PER
+Kubuś	B-BRAND
 Play!	O
 Napój	O
 z	O
@@ -3526,8 +3526,8 @@ marchew	O
 czereśnia	O
 jabłko	O
 limetka	O
-400	B-ORG
-ml	I-ORG
+400	B-QUANTITY
+ml	I-QUANTITY
 
 Sidolux	O
 Crystal	O
@@ -3536,10 +3536,10 @@ Płyn	O
 do	O
 mycia	O
 szyb	O
-500	B-ORG
-ml	I-ORG
+500	B-QUANTITY
+ml	I-QUANTITY
 
-Bref	B-PER
+Bref	B-BRAND
 WC	O
 10xEffect	O
 Power	O
@@ -3552,10 +3552,10 @@ do	O
 mycia	O
 muszli	O
 WC	O
-700	B-ORG
-ml	I-ORG
+700	B-QUANTITY
+ml	I-QUANTITY
 
-Finish	B-PER
+Finish	B-BRAND
 0%	O
 Tabletki	O
 do	O
@@ -3563,17 +3563,17 @@ mycia	O
 naczyń	O
 w	O
 zmywarce	O
-640	B-ORG
-g	I-ORG
-(40	B-ORG
-sztuki)	I-ORG
+640	B-QUANTITY
+g	I-QUANTITY
+(40	B-QUANTITY
+sztuki)	I-QUANTITY
 
-Hortex	B-PER
+Hortex	B-BRAND
 Sok	O
 100%	O
 pomarańcza	O
-300	B-ORG
-ml	I-ORG
+300	B-QUANTITY
+ml	I-QUANTITY
 
 Finish	O
 All	O
@@ -3587,12 +3587,12 @@ mycia	O
 naczyń	O
 w	O
 zmywarce	O
-848	B-ORG
-g	I-ORG
-(53	B-ORG
-sztuki)	I-ORG
+848	B-QUANTITY
+g	I-QUANTITY
+(53	B-QUANTITY
+sztuki)	I-QUANTITY
 
-Ariel	B-PER
+Ariel	B-BRAND
 Allin1	O
 Pods	O
 Sensitive	O
@@ -3602,7 +3602,7 @@ prania,	O
 33	O
 prań	O
 
-Finish	B-PER
+Finish	B-BRAND
 Classic	O
 Tabletki	O
 do	O
@@ -3610,12 +3610,12 @@ mycia	O
 naczyń	O
 w	O
 zmywarce	O
-912	B-ORG
-g	I-ORG
-(57	B-ORG
-sztuk)	I-ORG
+912	B-QUANTITY
+g	I-QUANTITY
+(57	B-QUANTITY
+sztuk)	I-QUANTITY
 
-Fortuna	B-PER
+Fortuna	B-BRAND
 WW+	O
 Sok	O
 100%	O
@@ -3623,34 +3623,34 @@ pomidorowo-warzywny	O
 bez	O
 dodatku	O
 soli	O
-300	B-ORG
-ml	I-ORG
+300	B-QUANTITY
+ml	I-QUANTITY
 
-Fortuna	B-PER
+Fortuna	B-BRAND
 Sok	O
 100%	O
 pomidor	O
 pikantny	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-DOMESTOS	B-PER
+DOMESTOS	B-BRAND
 Power	O
 5	O
 Kostka	O
 toaletowa	O
 Duo	O
 Ocean	O
-(2x55g)	B-ORG
+(2x55g)	B-QUANTITY
 
-Fanta	B-PER
+Fanta	B-BRAND
 Pomarańczowa	O
 Napój	O
 gazowany	O
-850	B-ORG
-ml	I-ORG
+850	B-QUANTITY
+ml	I-QUANTITY
 
-Pur	B-PER
+Pur	B-BRAND
 Sekrety	O
 Świata	O
 Maracuja	O
@@ -3660,40 +3660,40 @@ Płyn	O
 do	O
 mycia	O
 naczyń	O
-750	B-ORG
-ml	I-ORG
+750	B-QUANTITY
+ml	I-QUANTITY
 
-RED	B-PER
-BULL	I-PER
+RED	B-BRAND
+BULL	I-BRAND
 Napój	O
 energetyczny	O
 Coconut	O
 
-Black	B-PER
+Black	B-BRAND
 Energy	O
 Gazowany	O
 napój	O
 energetyzujący	O
-250	B-ORG
-ml	I-ORG
+250	B-QUANTITY
+ml	I-QUANTITY
 
-Pronto	B-PER
+Pronto	B-BRAND
 Original	O
 Aerozol	O
 przeciw	O
 kurzowi	O
-300	B-ORG
-ml	I-ORG
+300	B-QUANTITY
+ml	I-QUANTITY
 
-Monster	B-PER
+Monster	B-BRAND
 Energy	O
 Gazowany	O
 napój	O
 energetyzujący	O
-500	B-ORG
-ml	I-ORG
+500	B-QUANTITY
+ml	I-QUANTITY
 
-E	B-PER
+E	B-BRAND
 Magiczna	O
 Miękkość	O
 Skoncentrowany	O
@@ -3702,7 +3702,7 @@ do	O
 zmiękczania	O
 tkanin	O
 
-Cillit	B-PER
+Cillit	B-BRAND
 Bang	O
 Naturally	O
 Powerful	O
@@ -3710,21 +3710,21 @@ Spray	O
 do	O
 czyszczenia	O
 kuchni	O
-750	B-ORG
-ml	I-ORG
+750	B-QUANTITY
+ml	I-QUANTITY
 
-Domestos	B-PER
+Domestos	B-BRAND
 Power	O
-5	B-ORG
-Lime	I-ORG
+5	B-QUANTITY
+Lime	I-QUANTITY
 Kostka	O
 toaletowa	O
-2	B-ORG
-x	I-ORG
-55	I-ORG
-g	I-ORG
+2	B-QUANTITY
+x	I-QUANTITY
+55	I-QUANTITY
+g	I-QUANTITY
 
-Oshee	B-PER
+Oshee	B-BRAND
 Vitamin	O
 Energy	O
 Witamina	O
@@ -3736,59 +3736,59 @@ smaku	O
 mięta	O
 limonka	O
 cytryna	O
-250	B-ORG
-ml	I-ORG
+250	B-QUANTITY
+ml	I-QUANTITY
 
 Żywiec	O
 Zdrój	O
 Niegazowany	O
 Woda	O
 źródlana	O
-5	B-ORG
-l	I-ORG
+5	B-QUANTITY
+l	I-QUANTITY
 
 Emulsja	O
 do	O
 obuwia	O
 czarna	O
-100ml	B-ORG
+100ml	B-QUANTITY
 
-TYMBARK	B-PER
+TYMBARK	B-BRAND
 Jabłko	O
 brzoskwinia	O
 Napój	O
 PET	O
 
-Vanish	B-PER
+Vanish	B-BRAND
 Proszek	O
 do	O
 prania	O
 firanek	O
-400	B-ORG
-g	I-ORG
+400	B-QUANTITY
+g	I-QUANTITY
 (6	O
 prań)	O
 
-Nałęczowianka	B-PER
+Nałęczowianka	B-BRAND
 Naturalna	O
 woda	O
 mineralna	O
 delikatnie	O
 gazowana	O
-8	B-ORG
-x	I-ORG
-0,5	I-ORG
-l	I-ORG
+8	B-QUANTITY
+x	I-QUANTITY
+0,5	I-QUANTITY
+l	I-QUANTITY
 
-Presto	B-PER
+Presto	B-BRAND
 Ściereczki	O
 nawilżane	O
 do	O
 łazienki	O
-72	B-ORG
-sztuki	I-ORG
+72	B-QUANTITY
+sztuki	I-QUANTITY
 
-LENOR	B-PER
+LENOR	B-BRAND
 Płyn	O
 do	O
 płukania	O
@@ -3796,7 +3796,7 @@ tkanin	O
 Summer	O
 Breeze	O
 
-Herbapol	B-PER
+Herbapol	B-BRAND
 Aktywność	O
 Napój	O
 owocowo-ziołowy	O
@@ -3804,23 +3804,23 @@ mięta	O
 mango	O
 &	O
 żeń-szeń	O
-300	B-ORG
-ml	I-ORG
+300	B-QUANTITY
+ml	I-QUANTITY
 
-Hortex	B-PER
+Hortex	B-BRAND
 Napój	O
 pomarańcza	O
 ananas	O
-1,75	B-ORG
-l	I-ORG
+1,75	B-QUANTITY
+l	I-QUANTITY
 
-Coca-Cola	B-PER
+Coca-Cola	B-BRAND
 Napój	O
 gazowany	O
-850	B-ORG
-ml	I-ORG
+850	B-QUANTITY
+ml	I-QUANTITY
 
-Kiwi	B-PER
+Kiwi	B-BRAND
 Instant	O
 Shine	O
 &	O
@@ -3828,18 +3828,18 @@ Protect	O
 Pasta	O
 nabłyszczająca	O
 czarna	O
-75	B-ORG
-ml	I-ORG
+75	B-QUANTITY
+ml	I-QUANTITY
 
-Perrier	B-PER
+Perrier	B-BRAND
 Naturalna	O
 woda	O
 mineralna	O
 gazowana	O
-330	B-ORG
-ml	I-ORG
+330	B-QUANTITY
+ml	I-QUANTITY
 
-BREF	B-PER
+BREF	B-BRAND
 DeLuxe	O
 Zawieszka	O
 do	O
@@ -3847,18 +3847,18 @@ WC	O
 -	O
 Czarujący	O
 Jaśmin	O
-2x50g	B-ORG
+2x50g	B-QUANTITY
 
 Syrop	O
 cytrynowy.	O
 
-TYMBARK	B-PER
+TYMBARK	B-BRAND
 Arbuz	O
 Jabłko	O
 Napój	O
 PET	O
 
-Kubuś	B-PER
+Kubuś	B-BRAND
 Play!	O
 Woda	O
 i	O
@@ -3867,17 +3867,17 @@ Napój	O
 owocowy	O
 jabłko	O
 malina	O
-400	B-ORG
-ml	I-ORG
+400	B-QUANTITY
+ml	I-QUANTITY
 
-Hortex	B-PER
+Hortex	B-BRAND
 Napój	O
 jabłko	O
 wiśnia	O
-500	B-ORG
-ml	I-ORG
+500	B-QUANTITY
+ml	I-QUANTITY
 
-Finish	B-PER
+Finish	B-BRAND
 Quantum	O
 Ultimate	O
 Lemon	O
@@ -3887,19 +3887,19 @@ mycia	O
 naczyń	O
 w	O
 zmywarce	O
-500	B-ORG
-g	I-ORG
-(40	B-ORG
-sztuk)	I-ORG
+500	B-QUANTITY
+g	I-QUANTITY
+(40	B-QUANTITY
+sztuk)	I-QUANTITY
 
-Somat	B-PER
+Somat	B-BRAND
 Sól	O
 do	O
 zmywarek	O
-1,5	B-ORG
-kg	I-ORG
+1,5	B-QUANTITY
+kg	I-QUANTITY
 
-Kiwi	B-PER
+Kiwi	B-BRAND
 Parade	O
 Gloss	O
 Prestige	O
@@ -3907,27 +3907,27 @@ Pasta	O
 do	O
 butów	O
 brązowa	O
-50	B-ORG
-ml	I-ORG
+50	B-QUANTITY
+ml	I-QUANTITY
 
-Tymbark	B-PER
+Tymbark	B-BRAND
 Sok	O
 100%	O
 jabłko	O
-1	B-ORG
-l	I-ORG
+1	B-QUANTITY
+l	I-QUANTITY
 
-Cif	B-PER
+Cif	B-BRAND
 Power	O
 &	O
 Shine	O
 Multi-Purpose	O
 Spray	O
 wybielanie	O
-750	B-ORG
-ml	I-ORG
+750	B-QUANTITY
+ml	I-QUANTITY
 
-Żywiec	B-PER
+Żywiec	B-BRAND
 Zdrój	O
 Black	O
 Tea	O
@@ -3937,17 +3937,17 @@ czarna	O
 herbata	O
 cytryna	O
 limonka	O
-1,5	B-ORG
-l	I-ORG
+1,5	B-QUANTITY
+l	I-QUANTITY
 
-Fanta	B-PER
+Fanta	B-BRAND
 Pomarańczowa	O
 Napój	O
 gazowany	O
-500	B-ORG
-ml	I-ORG
+500	B-QUANTITY
+ml	I-QUANTITY
 
-E	B-PER
+E	B-BRAND
 Skoncentrowany	O
 płyn	O
 do	O
@@ -3955,17 +3955,17 @@ zmiękczania	O
 tkanin	O
 harmonia	O
 kwiatów	O
-2	B-ORG
-l	I-ORG
+2	B-QUANTITY
+l	I-QUANTITY
 (66	O
 prań)	O
 
-TYMBARK	B-PER
+TYMBARK	B-BRAND
 Sok	O
 100%	O
 Pomarańcza	O
 
-Vanish	B-PER
+Vanish	B-BRAND
 Gold	O
 Carpet	O
 Care	O
@@ -3976,18 +3976,18 @@ bryzy	O
 Szampon	O
 do	O
 dywanów	O
-500	B-ORG
-ml	I-ORG
+500	B-QUANTITY
+ml	I-QUANTITY
 
-Monster	B-PER
+Monster	B-BRAND
 Energy	O
 The	O
 Doctor	O
 Gazowany	O
 napój	O
 energetyzujący	O
-500	B-ORG
-ml	I-ORG
+500	B-QUANTITY
+ml	I-QUANTITY
 
 Żywiec	O
 Zdrój	O
@@ -3996,8 +3996,8 @@ niegazowany	O
 z	O
 nutą	O
 wiśni	O
-1,5	B-ORG
-l	I-ORG
+1,5	B-QUANTITY
+l	I-QUANTITY
 
 Żywiec	O
 Zdrój	O
@@ -4005,36 +4005,36 @@ Mocny	O
 Gaz	O
 Woda	O
 źródlana	O
-1,5	B-ORG
-l	I-ORG
+1,5	B-QUANTITY
+l	I-QUANTITY
 
-Yope	B-PER
+Yope	B-BRAND
 Płyn	O
 do	O
 podłóg	O
 zielona	O
 herbata	O
 
-Hortex	B-PER
+Hortex	B-BRAND
 Leon	O
 Napój	O
 wieloowocowy	O
 jabłka	O
 brzoskwinie	O
 pomarańcze	O
-200	B-ORG
-ml	I-ORG
+200	B-QUANTITY
+ml	I-QUANTITY
 
-Nestea	B-PER
+Nestea	B-BRAND
 Napój	O
 herbaciany	O
 o	O
 smaku	O
 cytrynowym	O
-0,5	B-ORG
-l	I-ORG
+0,5	B-QUANTITY
+l	I-QUANTITY
 
-Lenor	B-PER
+Lenor	B-BRAND
 Gold	O
 Orchid	O
 Płyn	O
@@ -4051,10 +4051,10 @@ Napój	O
 energetyczny	O
 bez	O
 cukru	O
-250	B-ORG
-ml	I-ORG
+250	B-QUANTITY
+ml	I-QUANTITY
 
-Lenor	B-PER
+Lenor	B-BRAND
 Parfum	O
 Des	O
 Secrets	O
@@ -4063,10 +4063,10 @@ Płyn	O
 do	O
 płukania	O
 tkanin	O
-900	B-ORG
-ml	I-ORG
+900	B-QUANTITY
+ml	I-QUANTITY
 
-Lenor	B-PER
+Lenor	B-BRAND
 Lavender	O
 &	O
 Camomile	O
@@ -4074,18 +4074,18 @@ Płyn	O
 do	O
 płukania	O
 tkanin,	O
-1.38L,	B-ORG
+1.38L,	B-QUANTITY
 46	O
 prań	O
 
-Fortuna	B-PER
+Fortuna	B-BRAND
 Sok	O
 100%	O
 pomarańcza	O
-200	B-ORG
-ml	I-ORG
+200	B-QUANTITY
+ml	I-QUANTITY
 
-NAŁĘCZOWIANKA	B-PER
+NAŁĘCZOWIANKA	B-BRAND
 Sport	O
 Naturalna	O
 woda	O

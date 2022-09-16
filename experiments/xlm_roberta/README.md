@@ -1,0 +1,1 @@
+To run model on particular dataset, get_label function from xlm-roberta-ner/utils/data_utils.py needs to be changed to include NER tags from the dataset.

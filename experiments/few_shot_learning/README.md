@@ -1,0 +1,2 @@
+The files from the config and datasets folders must be placed in the corresponding fewie solution folders.
+Running the corresponding tests is done by editing the config.yaml file from the config folder. The defaults.dataset key must contain the name of the configuration file for the corresponding dataset (phones_es, phones_fr, toys_es or toys_fr). The size of the support set is edited via the defaults.evaluation/dataset key and takes the values nway_kshot_5_1, nway_kshot_5_5 or nway_kshot_5_10.

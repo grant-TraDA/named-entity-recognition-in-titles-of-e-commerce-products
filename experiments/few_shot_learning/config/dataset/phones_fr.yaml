@@ -1,0 +1,5 @@
+# @package dataset
+
+_target_: datasets.load_dataset
+path: ./fw/datasets/phones_fr.py
+split: train

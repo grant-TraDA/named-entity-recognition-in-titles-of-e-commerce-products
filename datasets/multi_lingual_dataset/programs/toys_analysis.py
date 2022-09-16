@@ -12,11 +12,11 @@ from matplotlib import pyplot as plt
 
 DE_DATASET_NON_NORMALIZED_PATH_test = os.path.join(
     os.path.abspath(''),
-    '../final_datasets/multi_class_test_set_phone.csv'
+    '../data/multi_class_test_set_phone.csv'
 )
 DE_DATASET_NON_NORMALIZED_PATH_train = os.path.join(
     os.path.abspath(''),
-    '../final_datasets/multi_class_train_set_phone.csv'
+    '../data/multi_class_train_set_phone.csv'
 )
 
 products_train = pd.read_csv(DE_DATASET_NON_NORMALIZED_PATH_train, index_col=False)

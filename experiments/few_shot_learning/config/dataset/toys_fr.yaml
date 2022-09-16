@@ -1,0 +1,5 @@
+# @package dataset
+
+_target_: datasets.load_dataset
+path: ./fw/datasets/toys_fr.py
+split: train
